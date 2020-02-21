@@ -1,0 +1,8007 @@
+1
+00:00:10,440 --> 00:00:12,640
+- Guten Morgen, Herr Müller,
+wie geht es Ihnen?
+
+2
+00:00:12,800 --> 00:00:17,000
+- Guten Morgen, Frau Schneider.
+Danke, gut! Und Ihnen?
+
+3
+00:00:17,840 --> 00:00:20,200
+- Guten Morgen, Herr Müller,
+wie geht es Ihnen?
+
+4
+00:00:20,240 --> 00:00:24,440
+- Guten Morgen, Frau Schneider.
+Danke, gut! Und Ihnen?
+
+5
+00:00:26,320 --> 00:00:27,800
+- Guten Tag, Frau Kamp.
+
+6
+00:00:27,800 --> 00:00:29,560
+- Guten Tag! Wie geht es Ihnen?
+
+7
+00:00:29,600 --> 00:00:32,210
+- Sehr gut, danke. Und Ihnen?
+
+8
+00:00:34,210 --> 00:00:36,360
+- Hey, Lena! Na, wie geht's?
+
+9
+00:00:36,400 --> 00:00:37,600
+- Hallo, Opa!
+
+10
+00:00:39,240 --> 00:00:41,240
+- Hallo, Sarah. Wie geht's dir?
+
+11
+00:00:41,480 --> 00:00:44,680
+- Hi, Tom! Super, danke. Und dir?
+
+12
+00:00:47,760 --> 00:00:48,720
+- Oh, schön!
+
+13
+00:00:50,480 --> 00:00:51,240
+- Hm?
+
+14
+00:00:51,320 --> 00:00:52,640
+- Die Tasche ist schön!
+
+15
+00:00:52,920 --> 00:00:55,360
+- Entschuldigung? Schön?
+
+16
+00:00:56,080 --> 00:00:57,880
+- Ja, die Tasche!
+
+17
+00:01:02,960 --> 00:01:05,120
+- Emma, komm jetzt! Entschuldigung!
+
+18
+00:01:13,640 --> 00:01:15,880
+- Adalbert-Stifter-Straße …
+
+19
+00:01:53,080 --> 00:01:53,840
+- Hallo!
+
+20
+00:01:59,640 --> 00:02:00,600
+Mist!
+
+21
+00:02:02,920 --> 00:02:04,120
+- Ja, ich bin gut angekommen …
+
+22
+00:02:04,320 --> 00:02:07,280
+Du kannst mir die Unterlagen
+für das Meeting im Hotel hinterlegen.
+
+23
+00:02:14,200 --> 00:02:15,600
+- Cool! Noch mal!
+
+24
+00:02:22,960 --> 00:02:24,480
+- Ins Zentrum, bitte. Zum Königshof.
+
+25
+00:02:25,160 --> 00:02:27,000
+- Ins Zentrum, zum Königshof.
+
+26
+00:02:27,840 --> 00:02:30,240
+Ins Restaurant Königshof
+oder zum Hotel Königshof?
+
+27
+00:02:30,680 --> 00:02:31,840
+- Hotel Königshof.
+
+28
+00:02:31,920 --> 00:02:33,040
+- Okay, kein Problem.
+
+29
+00:02:39,480 --> 00:02:41,090
+- Hey, Stopp!
+
+30
+00:02:50,800 --> 00:02:52,640
+- Tschüss, Martina. Gute Reise!
+
+31
+00:02:53,320 --> 00:02:55,600
+- Mach’s gut, Herbert. Bis bald!
+
+32
+00:02:55,640 --> 00:02:56,560
+- Tschüss!
+
+33
+00:03:00,880 --> 00:03:02,880
+- Auf Wiedersehen, Herr Tillmanns.
+Gute Reise!
+
+34
+00:03:02,880 --> 00:03:04,880
+- Danke schön!
+Auf Wiedersehen, Frau Scholl.
+
+35
+00:03:16,000 --> 00:03:17,080
+- Alles okay?
+
+36
+00:03:19,400 --> 00:03:20,600
+Brauchst du Hilfe?
+
+37
+00:03:22,960 --> 00:03:25,840
+Hilfe, help? Do you need help?
+
+38
+00:03:26,080 --> 00:03:27,880
+- Ja! Hilfe!
+
+39
+00:03:28,040 --> 00:03:29,320
+- Wo ist die Tasche?
+
+40
+00:03:30,040 --> 00:03:35,320
+- Die Tasche ist … äh… gone …
+in the ... Taxi!
+
+41
+00:03:35,680 --> 00:03:37,320
+- Die Tasche ist weg in dem Taxi?
+
+42
+00:03:41,840 --> 00:03:43,600
+Wohin willst du?
+
+43
+00:03:44,720 --> 00:03:47,840
+Wohin? Willst du ins Zentrum?
+
+44
+00:03:47,920 --> 00:03:49,320
+- Zentrum, ja!
+
+45
+00:03:55,400 --> 00:03:56,200
+Yara.
+
+46
+00:03:57,720 --> 00:03:58,720
+- Wer ist Yara?
+
+47
+00:03:59,560 --> 00:04:03,000
+- Meine ... aunt?
+
+48
+00:04:03,040 --> 00:04:04,480
+- Deine Tante?
+
+49
+00:04:04,480 --> 00:04:05,440
+- Nicht schlecht!
+
+50
+00:04:06,840 --> 00:04:08,840
+Du willst zu deiner Tante? Zu Yara?
+
+51
+00:04:09,440 --> 00:04:10,520
+Hast du die Adresse?
+
+52
+00:04:11,560 --> 00:04:14,040
+Adresse: Straße, Hausnummer?
+
+53
+00:04:14,080 --> 00:04:18,760
+- Andel … Adelschiffstraße?
+
+54
+00:04:18,800 --> 00:04:20,080
+- Die kenne ich nicht …
+
+55
+00:04:26,240 --> 00:04:28,240
+Komm, wir helfen dir!
+
+56
+00:04:28,280 --> 00:04:29,240
+- Yippie!
+
+57
+00:04:40,520 --> 00:04:41,610
+- Emma!
+
+58
+00:04:41,800 --> 00:04:43,560
+- Mein Name ist Emma!
+
+59
+00:04:43,680 --> 00:04:45,170
+Und das ist meine Tante.
+
+60
+00:04:45,320 --> 00:04:46,640
+- Deine Mama?
+
+61
+00:04:46,800 --> 00:04:50,000
+Nein, Lisa ist nicht meine Mama.
+Sie ist meine Tante.
+
+62
+00:04:50,200 --> 00:04:56,000
+Meine Mama fliegt nach Amerika.
+Sie arbeitet da.
+
+63
+00:04:57,280 --> 00:04:58,200
+Bitte!
+
+64
+00:04:59,610 --> 00:05:00,440
+- Danke.
+
+65
+00:05:07,000 --> 00:05:08,280
+- Nico.
+
+66
+00:05:08,680 --> 00:05:11,120
+- Mein Name ist Nico.
+
+67
+00:05:11,170 --> 00:05:12,400
+- Hallo, Nico.
+
+68
+00:05:12,440 --> 00:05:13,840
+- Hallo, Emma.
+
+69
+00:05:22,400 --> 00:05:24,520
+- Ich heiße Nico.
+
+70
+00:05:25,440 --> 00:05:27,050
+- Hallo, Nico.
+
+71
+00:05:27,080 --> 00:05:27,840
+- Hallo.
+
+72
+00:05:28,640 --> 00:05:31,840
+- Also: Hallo, wie heißt du?
+
+73
+00:05:32,720 --> 00:05:36,080
+- Hallo, ich heiße Nico.
+
+74
+00:05:36,800 --> 00:05:37,840
+Und wie heißt du?
+
+75
+00:05:37,880 --> 00:05:39,760
+- Ich heiße Lisa.
+
+76
+00:05:40,240 --> 00:05:42,240
+- Nein, du heißt Nico.
+
+77
+00:05:42,720 --> 00:05:46,000
+- Das ist Emma. Emma spinnt gerade.
+
+78
+00:05:47,120 --> 00:05:50,120
+- Ich … heiße …
+
+79
+00:05:51,520 --> 00:05:52,560
+Ey!
+
+80
+00:05:52,560 --> 00:05:53,520
+- Emma!
+
+81
+00:05:53,920 --> 00:05:55,680
+- Aber jetzt ist das „N“ weg!
+
+82
+00:05:56,040 --> 00:05:57,640
+Das war Nico!
+
+83
+00:05:58,040 --> 00:05:58,960
+- Ich?
+
+84
+00:06:00,720 --> 00:06:03,440
+- Moment, bitte.
+Ich muss noch kurz tanken.
+
+85
+00:06:13,520 --> 00:06:16,440
+Taxi! Stopp!
+
+86
+00:06:17,520 --> 00:06:18,920
+- Nico!
+- Stopp!
+
+87
+00:06:19,320 --> 00:06:20,920
+- Sag mal, spinnst du?
+
+88
+00:06:20,960 --> 00:06:21,960
+Was ist denn?
+
+89
+00:06:22,000 --> 00:06:23,240
+- Die Tasche!
+- Oh, oh …
+
+90
+00:06:23,240 --> 00:06:25,240
+- Die Tasche? Welche Tasche?
+- Warte, Emma!
+
+91
+00:06:25,240 --> 00:06:27,240
+- Die … Die Tasche in there!
+
+92
+00:06:27,280 --> 00:06:28,720
+- Da ist keine Tasche.
+
+93
+00:06:30,600 --> 00:06:33,640
+- Hallo, ich bin Lisa Brunner
+Das ist Nico.
+
+94
+00:06:33,640 --> 00:06:35,200
+Nico sucht seine Tasche.
+
+95
+00:06:35,240 --> 00:06:35,960
+- Und?
+
+96
+00:06:36,440 --> 00:06:38,400
+- Ist Nicos Tasche in Ihrem Taxi?
+
+97
+00:06:38,400 --> 00:06:41,440
+- Nicos Tasche? Nein.
+Die Tasche ist nicht im Taxi.
+
+98
+00:06:41,520 --> 00:06:42,760
+- Nein. …
+
+99
+00:06:44,320 --> 00:06:45,200
+Wo?
+
+100
+00:06:45,400 --> 00:06:47,720
+- Keine Ahnung, wo deine Tasche ist.
+Hier ist die Tasche nicht.
+
+101
+00:06:47,760 --> 00:06:49,760
+- Komm, wir suchen die Tasche!
+
+102
+00:06:50,520 --> 00:06:52,000
+Suchen. Komm, Nico!
+
+103
+00:06:56,400 --> 00:06:57,440
+- Hallo, Lisa!
+
+104
+00:06:58,600 --> 00:07:00,560
+- Hallo, Max, wie geht es dir?
+
+105
+00:07:00,560 --> 00:07:01,720
+- Super. Und dir?
+
+106
+00:07:01,720 --> 00:07:03,200
+- Auch gut, danke.
+
+107
+00:07:03,200 --> 00:07:04,120
+- Hi, Emma.
+
+108
+00:07:04,120 --> 00:07:04,960
+- Hallo, Max.
+
+109
+00:07:05,200 --> 00:07:06,280
+- Und du? Wer bist du?
+
+110
+00:07:06,320 --> 00:07:07,720
+- Ich bin Nico.
+
+111
+00:07:08,120 --> 00:07:09,200
+- Hallo, Nico.
+
+112
+00:07:09,920 --> 00:07:11,640
+Du kommst nicht aus Deutschland, oder?
+
+113
+00:07:11,920 --> 00:07:13,440
+- Entschuldigung?
+
+114
+00:07:13,600 --> 00:07:17,680
+- Ehm … Woher kommst du?
+
+115
+00:07:18,960 --> 00:07:20,960
+Ich bin Max und ich
+komme aus Deutschland.
+
+116
+00:07:20,960 --> 00:07:23,360
+- Und ich bin Emma und ich
+komme auch aus Deutschland.
+
+117
+00:07:24,240 --> 00:07:26,040
+- Ich bin Nico.
+
+118
+00:07:26,240 --> 00:07:28,520
+Ich komme aus ehm ... Spain?
+
+119
+00:07:29,320 --> 00:07:30,320
+- Spanien?
+
+120
+00:07:30,360 --> 00:07:31,560
+- Spanien, ja!
+
+121
+00:07:31,560 --> 00:07:33,320
+Ich komme aus Spanien.
+
+122
+00:07:33,320 --> 00:07:35,720
+- Und woher kommst du genau?
+
+123
+00:07:36,440 --> 00:07:37,240
+- Woher?
+
+124
+00:07:38,440 --> 00:07:40,320
+- Wo wohnst du in Spanien?
+
+125
+00:07:40,320 --> 00:07:42,240
+Wohnst du in Barcelona oder in Madrid?
+
+126
+00:07:42,240 --> 00:07:43,520
+- Sevilla!
+
+127
+00:07:44,040 --> 00:07:45,480
+- Du wohnst in Sevilla?
+
+128
+00:07:45,520 --> 00:07:46,840
+- Ich wohne in Sevilla.
+
+129
+00:07:47,000 --> 00:07:49,000
+- Nico war auch am Flughafen.
+
+130
+00:07:49,040 --> 00:07:50,720
+Er hat ein Problem:
+Seine Tasche ist weg.
+
+131
+00:07:51,000 --> 00:07:53,000
+- Oh. Und was machst du jetzt?
+
+132
+00:07:53,040 --> 00:07:54,760
+- Ich suche meine Tante.
+
+133
+00:07:54,840 --> 00:07:57,680
+- Nicos Tante wohnt hier in Deutschland.
+Aber er hat die Adresse nicht.
+
+134
+00:07:59,240 --> 00:08:00,640
+- Kannst du deine Tante anrufen?
+
+135
+00:08:01,800 --> 00:08:06,000
+- Meine Tasche ist weg. Mein Telefon
+ist weg. Und die Nummer ist weg.
+
+136
+00:08:06,120 --> 00:08:08,280
+- Und deine Familie?
+Kannst du deine Familie anrufen?
+
+137
+00:08:08,280 --> 00:08:09,120
+- Nein.
+
+138
+00:08:09,560 --> 00:08:12,520
+- Kann dein Vater nicht helfen?
+Er ist doch bei der Polizei.
+
+139
+00:08:13,320 --> 00:08:14,400
+- Gute Idee!
+
+140
+00:08:14,400 --> 00:08:15,280
+- Vater?
+
+141
+00:08:15,320 --> 00:08:17,040
+- Mein Vater ist Polizist.
+
+142
+00:08:17,800 --> 00:08:20,400
+Police. Vielleicht hilft er uns.
+Moment!
+
+143
+00:08:28,480 --> 00:08:30,480
+- Polizeirevier Ost, Brunner hier.
+
+144
+00:08:30,720 --> 00:08:32,920
+Ah, hallo, Lisa. Wie geht’s dir?
+
+145
+00:08:33,480 --> 00:08:35,480
+Was ist los?
+Geht es Emma nicht gut?
+
+146
+00:08:35,480 --> 00:08:39,480
+- Eh, doch, keine Sorge! Emma geht es gut.
+Aber Nico hat ein Problem.
+
+147
+00:08:39,600 --> 00:08:42,000
+Er war auch am Flughafen.
+Er kommt aus Spanien.
+
+148
+00:08:44,960 --> 00:08:48,480
+Ja, genau. Er kommt aus
+Spanien und er hat ein Problem.
+
+149
+00:08:48,880 --> 00:08:51,120
+Seine Tasche ist weg und
+er spricht nicht gut Deutsch.
+
+150
+00:08:51,280 --> 00:08:54,450
+- Hat er Papiere?
+Einen Ausweis oder einen Pass?
+
+151
+00:08:54,680 --> 00:08:57,640
+- Hast du einen Pass? Passport?
+
+152
+00:08:58,840 --> 00:09:02,210
+Nein. Nicos Pass ist in seiner Tasche.
+
+153
+00:09:03,210 --> 00:09:05,120
+Aber er hat ein Foto von seiner Tante.
+
+154
+00:09:05,120 --> 00:09:07,840
+Sie wohnt auch hier in Deutschland,
+aber Nico hat die Adresse nicht.
+
+155
+00:09:08,600 --> 00:09:11,400
+- Meine Tante …
+she has a bicycle shop.
+
+156
+00:09:12,330 --> 00:09:15,400
+- Seine Tante hat ein Geschäft,
+ein Fahrradgeschäft.
+
+157
+00:09:15,600 --> 00:09:17,600
+- Wir suchen also eine Adresse.
+
+158
+00:09:17,800 --> 00:09:20,040
+Die Frau hat ein Fahrradgeschäft.
+Richtig?
+
+159
+00:09:20,520 --> 00:09:23,480
+Okay.
+Dann komm doch mit Nico zur Polizei.
+
+160
+00:09:23,800 --> 00:09:24,680
+- Danke, Papa!
+
+161
+00:09:24,680 --> 00:09:25,960
+- Gerne. Bis später.
+
+162
+00:09:26,000 --> 00:09:27,520
+- Bis später!
+
+163
+00:09:28,450 --> 00:09:31,450
+Vielleicht kann mein Vater uns helfen.
+
+164
+00:09:31,720 --> 00:09:33,720
+Er hilft.
+He helps.
+
+165
+00:09:35,160 --> 00:09:36,120
+- Super!
+- Danke!
+
+166
+00:09:37,800 --> 00:09:40,640
+- Mach’s gut, Lisa. Ciao, Emma.
+- Tschüss, Max!
+
+167
+00:09:40,640 --> 00:09:42,450
+- Ciao, Nico. Viel Erfolg!
+
+168
+00:09:49,640 --> 00:09:52,600
+- Wie ist die Hausnummer, Emma?
+38 oder 83?
+
+169
+00:09:52,600 --> 00:09:54,800
+- Moment …11.
+
+170
+00:09:55,520 --> 00:09:57,720
+- Ah, ja. Dann sind wir richtig hier.
+
+171
+00:09:58,560 --> 00:09:59,520
+- Da.
+
+172
+00:10:00,240 --> 00:10:02,240
+- Wie viele Zahlen sind das?
+
+173
+00:10:02,680 --> 00:10:04,160
+- Wie viele?
+
+174
+00:10:04,210 --> 00:10:05,920
+- Das sind 31 Zahlen.
+
+175
+00:10:06,040 --> 00:10:07,160
+- 31 …
+
+176
+00:10:08,210 --> 00:10:16,210
+- Eins, zwei, drei, vier, fünf …
+
+177
+00:10:16,800 --> 00:10:21,920
+-Eins, zwei, drei, vier, fünf.
+
+178
+00:10:22,680 --> 00:10:31,680
+- Sechs, sieben, acht,
+neun, zehn, elf, zwölf.
+
+179
+00:10:31,680 --> 00:10:39,210
+- Sechs, sieben, acht, neun,
+zehn, elf, zwölf.
+
+180
+00:10:41,720 --> 00:10:42,960
+- Was ist das?
+
+181
+00:10:43,210 --> 00:10:45,920
+- Eine Einladung zum
+Geburtstag von Charlotte.
+
+182
+00:10:46,400 --> 00:10:47,720
+- Geburtstag?
+
+183
+00:10:47,880 --> 00:10:50,480
+- Happy birthday to you …
+
+184
+00:10:50,480 --> 00:10:51,800
+- Ah, Geburtstag!
+
+185
+00:10:51,840 --> 00:10:55,090
+- Ja, und das hier ist ein Geschenk.
+
+186
+00:11:04,120 --> 00:11:05,600
+- Tschüss, Nico! Bis morgen!
+
+187
+00:11:08,520 --> 00:11:09,320
+- Tschüss, Emma!
+
+188
+00:11:20,280 --> 00:11:22,280
+- Lisa! Hallo! Und Emma!
+
+189
+00:11:22,280 --> 00:11:23,280
+- Hallo!
+
+190
+00:11:23,440 --> 00:11:24,480
+- Emma?!
+
+191
+00:11:24,480 --> 00:11:26,120
+- Lotte!
+Tschüss, Lisa.
+
+192
+00:11:26,120 --> 00:11:28,040
+- Tschüss, meine Süße.
+Hab viel Spaß, ja!
+
+193
+00:11:29,000 --> 00:11:30,520
+Herzlichen Glückwunsch, Lotte!
+
+194
+00:11:30,840 --> 00:11:32,400
+Wie alt ist Lotte jetzt?
+
+195
+00:11:32,400 --> 00:11:33,320
+- Sie ist acht.
+
+196
+00:11:33,360 --> 00:11:35,120
+- Ah, Emma ist auch acht Jahre alt.
+
+197
+00:11:35,320 --> 00:11:39,320
+Ich hab hier Emmas Schlafsack
+und ihre Isomatte.
+
+198
+00:11:39,400 --> 00:11:43,040
+- Super, danke!
+- Wo hast du deine Traumfrau kennengelernt?
+
+199
+00:11:43,040 --> 00:11:43,920
+- Im Fundbüro.
+
+200
+00:11:43,920 --> 00:11:47,120
+- Im Fundbüro?
+Hat sie jemand abgegeben?
+
+201
+00:11:47,640 --> 00:11:52,120
+- Nein, auf gar keinen Fall.
+Nein, sie arbeitet da.
+
+202
+00:11:52,120 --> 00:11:56,360
+Ich habe meine Tasche verloren
+und ein Mann hat sie abgegeben.
+
+203
+00:11:56,920 --> 00:11:58,480
+Dieser Mann war unser Amor.
+
+204
+00:11:58,640 --> 00:12:00,880
+- Und den Finder der Tasche
+willst du suchen?
+
+205
+00:12:00,960 --> 00:12:01,760
+- Tasche verloren?
+
+206
+00:12:01,880 --> 00:12:02,960
+- Ganz genau.
+
+207
+00:12:02,960 --> 00:12:06,200
+- Er hat mein Leben verändert und
+ich würde mich gerne bedanken.
+
+208
+00:12:06,200 --> 00:12:09,440
+- Also, wenn du das hörst,
+edler Finder,
+
+209
+00:12:09,440 --> 00:12:11,920
+dann greif zum Telefon und ruf an.
+
+210
+00:12:11,920 --> 00:12:17,880
+Die Telefonnummer ist
+08007773344.
+
+211
+00:12:17,880 --> 00:12:24,400
+- 7773344 … 7773344.
+Tasche verloren.
+
+212
+00:12:25,240 --> 00:12:28,840
+- Wir machen kurz Werbung und dann
+wollen wir wissen, wen ihr sucht!
+
+213
+00:12:28,840 --> 00:12:30,080
+Ruft an!
+
+214
+00:12:37,680 --> 00:12:39,880
+- So, hier ist noch meine Handynummer.
+
+215
+00:12:40,360 --> 00:12:42,600
+- Ist das eine Zwei oder eine Sieben?
+
+216
+00:12:42,720 --> 00:12:44,160
+- Ehh, das ist eine Sieben …
+
+217
+00:12:44,440 --> 00:12:50,640
+0173 90 76 34 29 58.
+
+218
+00:12:51,200 --> 00:12:57,800
+- 0173 90 76 34 29 58.
+
+219
+00:12:57,800 --> 00:12:59,400
+- Hallo, wer ist da?
+
+220
+00:12:59,400 --> 00:13:01,160
+- Hallo?
+- Ja, hallo! Wie heißt du?
+
+221
+00:13:01,200 --> 00:13:03,000
+- Nico, wie geht’s?
+
+222
+00:13:03,000 --> 00:13:05,280
+- Danke, danke, mir geht’s gut.
+- Oh, mein Gott …
+
+223
+00:13:05,280 --> 00:13:06,440
+- Wie geht’s dir?
+
+224
+00:13:06,480 --> 00:13:08,120
+- Hmm. Nicht so gut.
+
+225
+00:13:08,120 --> 00:13:10,200
+- Nicht so gut?
+Warum nicht so gut?
+
+226
+00:13:10,200 --> 00:13:14,120
+- Meine Tasche.
+Meine Tasche ... Tasche verloren ...
+
+227
+00:13:14,120 --> 00:13:17,040
+- Oh, okay, Moment ...
+
+228
+00:13:17,040 --> 00:13:18,920
+Du hast deine Tasche verloren?
+
+229
+00:13:18,960 --> 00:13:20,640
+Wie ist das passiert?
+
+230
+00:13:21,040 --> 00:13:21,840
+- Hallo?
+
+231
+00:13:21,880 --> 00:13:24,280
+- Oh, hallo ... Wer bist du denn?
+
+232
+00:13:24,280 --> 00:13:26,560
+- Eh, Entschuldigung. Ich bin nicht
+Nico. Mein Name ist Lisa.
+
+233
+00:13:27,560 --> 00:13:29,560
+Nico spricht nicht so gut Deutsch.
+
+234
+00:13:29,600 --> 00:13:31,040
+Er sucht seine Tasche.
+
+235
+00:13:31,480 --> 00:13:33,480
+Seine Tasche ist schwarz und ...
+
+236
+00:13:36,920 --> 00:13:40,440
+Eh. Sie hat einen Aufnäher
+mit einem Fahrrad.
+
+237
+00:13:40,520 --> 00:13:41,480
+- Okay.
+
+238
+00:13:41,480 --> 00:13:43,040
+- Nicos Pass ist in der Tasche.
+
+239
+00:13:43,080 --> 00:13:47,680
+Also wenn ihr die Tasche findet, dann
+gebt sie bitte bei der Polizeistelle Ost ab.
+
+240
+00:13:47,760 --> 00:13:50,880
+Die ist in der Schreinerstraße 144.
+
+241
+00:13:51,400 --> 00:13:53,400
+- Scheinerstrasse 144?
+
+242
+00:13:53,480 --> 00:13:56,640
+- Nein, Schreinerstraße, mit „R“,
+
+243
+00:13:56,640 --> 00:14:00,880
+S-C-H-R-E-I-N-E-R.
+
+244
+00:14:00,960 --> 00:14:02,400
+Und die Hausnummer ist die 144.
+
+245
+00:14:02,680 --> 00:14:04,680
+- Danke euch! Viel Glück!
+
+246
+00:14:06,720 --> 00:14:07,640
+- Was soll das denn?
+
+247
+00:14:07,680 --> 00:14:08,520
+- Entschuldigung ...
+
+248
+00:14:11,360 --> 00:14:12,240
+- Hallo, Papa!
+
+249
+00:14:12,400 --> 00:14:13,960
+- Ah! Hallo, Lisa!
+
+250
+00:14:18,600 --> 00:14:20,320
+Guten Tag,
+Jürgen Brunner mein Name.
+
+251
+00:14:20,320 --> 00:14:21,320
+Sie sind Nico?
+
+252
+00:14:21,320 --> 00:14:23,240
+- Ja. Ich heiße Nicolás González.
+
+253
+00:14:23,240 --> 00:14:25,520
+- Herr González, freut mich sehr.
+Setzen Sie sich doch bitte
+
+254
+00:14:25,560 --> 00:14:26,800
+Wie kann ich Ihnen helfen?
+
+255
+00:14:29,440 --> 00:14:31,000
+Wie ist Ihr Geburtsdatum?
+
+256
+00:14:31,560 --> 00:14:34,120
+Ich meine:
+Wann haben Sie Geburtstag?
+
+257
+00:14:35,280 --> 00:14:36,920
+Geburtstag?
+
+258
+00:14:37,480 --> 00:14:38,440
+- Geburtstag.
+
+259
+00:14:41,760 --> 00:14:42,920
+Adresse?
+
+260
+00:14:43,800 --> 00:14:46,200
+- Wir nehmen meine Adresse.
+
+261
+00:14:46,200 --> 00:14:52,920
+Ich wohne in der Wagnergasse 136.
+
+262
+00:14:54,960 --> 00:14:56,960
+Ihre Passnummer!
+
+263
+00:14:57,000 --> 00:14:58,720
+Passnummer.
+
+264
+00:14:58,760 --> 00:15:00,200
+- Mein Pass ist weg.
+
+265
+00:15:00,200 --> 00:15:02,200
+- Oh, das ist nicht gut.
+
+266
+00:15:11,680 --> 00:15:13,440
+- Das ist Yara.
+
+267
+00:15:13,680 --> 00:15:14,920
+- Und wer ist Yara?
+
+268
+00:15:15,080 --> 00:15:16,360
+- My aunt.
+
+269
+00:15:16,400 --> 00:15:17,440
+- Seine Tante!
+
+270
+00:15:17,520 --> 00:15:19,000
+- Yara ist Ihre Tante.
+
+271
+00:15:19,040 --> 00:15:20,760
+- Ja, meine Tante.
+
+272
+00:15:20,760 --> 00:15:22,480
+- Wo wohnt Yara?
+Haben Sie eine Adresse?
+
+273
+00:15:25,000 --> 00:15:27,000
+Ist Yara informiert, dass Sie hier sind?
+
+274
+00:15:28,040 --> 00:15:30,320
+- Does Yara know you are here?
+Is she waiting for you?
+
+275
+00:15:39,840 --> 00:15:41,840
+- Seine Tante weiß nicht, warum er hier ist?
+
+276
+00:15:43,000 --> 00:15:44,080
+- Nein.
+
+277
+00:15:44,760 --> 00:15:45,920
+- Warum ist er denn hier in Deutschland?
+
+278
+00:15:46,120 --> 00:15:48,480
+- Ich weiß es nicht.
+Aber ich werde es rausfinden.
+
+279
+00:15:49,200 --> 00:15:50,240
+- Ich helfe Nico.
+
+280
+00:15:51,080 --> 00:15:51,920
+- Danke, Papa.
+
+281
+00:15:53,440 --> 00:15:54,400
+- Gerne.
+
+282
+00:15:55,560 --> 00:15:58,400
+Wir telefonieren!
+Hab viel Spaß heute Abend bei der Party.
+
+283
+00:15:59,000 --> 00:16:00,960
+- Komm!
+- Party?
+
+284
+00:16:03,800 --> 00:16:04,640
+- Hi.
+
+285
+00:16:04,720 --> 00:16:05,720
+- Hi.
+
+286
+00:16:05,800 --> 00:16:08,800
+- Hi, Lisa! Wer ist denn das?
+
+287
+00:16:08,840 --> 00:16:10,400
+- Das ist Nico.
+
+288
+00:16:10,400 --> 00:16:12,000
+- Hallo, ich bin Nico.
+
+289
+00:16:12,000 --> 00:16:17,000
+- Hallo, Nico. Ich bin Sebastian.
+Was machst du hier?
+
+290
+00:16:17,800 --> 00:16:18,800
+- Ich habe ein Problem:
+
+291
+00:16:19,600 --> 00:16:24,600
+Meine Tasche ist weg und mein Handy
+und mein Pass sind auch weg.
+
+292
+00:16:24,640 --> 00:16:26,800
+Und Yaras Adresse ist auch weg.
+
+293
+00:16:27,000 --> 00:16:32,840
+- Okay, das ist nicht so gut.
+Und woher kommst du?
+
+294
+00:16:33,280 --> 00:16:37,120
+- Ich komme aus Spanien.
+Ich wohne in Sevilla.
+
+295
+00:16:37,120 --> 00:16:40,800
+- Schön. Und wer ist Yara?
+
+296
+00:16:41,240 --> 00:16:44,120
+- Yara ist Nicos Tante.
+Er hat gesagt, sie hat hier
+
+297
+00:16:44,120 --> 00:16:46,000
+einen Fahrradladen.
+Aber er hat die Adresse nicht.
+
+298
+00:16:46,960 --> 00:16:51,000
+- Auch nicht so gut. Und wie alt bist du?
+
+299
+00:16:51,000 --> 00:16:55,160
+- Ich bin 22 Jahre alt. Und du?
+Kommst du aus Deutschland?
+
+300
+00:16:55,160 --> 00:17:00,560
+- Ich bin 25 Jahre.
+Und ja, ich komme aus Deutschland.
+
+301
+00:17:00,640 --> 00:17:03,320
+- Und ich heiße Nina.
+Ich komme auch aus Deutschland
+
+302
+00:17:03,320 --> 00:17:05,960
+und bin 23 Jahre alt. Hi!
+
+303
+00:17:06,960 --> 00:17:09,680
+- Kann Nico zwei Tage hier wohnen?
+
+304
+00:17:09,800 --> 00:17:11,600
+- Klar.
+- Kein Problem!
+
+305
+00:17:11,600 --> 00:17:12,920
+- Willkommen in der Wagnergasse!
+
+306
+00:17:12,920 --> 00:17:14,800
+- Dankeschön!
+- Herzlich willkommen!
+
+307
+00:17:15,650 --> 00:17:18,320
+- Und es gibt eine Party?
+
+308
+00:17:18,360 --> 00:17:21,440
+- Ja, aber wir haben
+ein kleines Problem.
+
+309
+00:17:21,440 --> 00:17:23,200
+- Die Lampe ist kaputt.
+
+310
+00:17:23,200 --> 00:17:24,720
+- Kann ich?
+
+311
+00:17:24,720 --> 00:17:30,320
+- Klar. Hat am Flughafen alles geklappt?
+Geht es Emma gut?
+
+312
+00:17:30,320 --> 00:17:34,080
+- Ja. Emmas Mutter sitzt im Flugzeug und
+Emma geht es gut, die ist bei Lotte.
+
+313
+00:17:35,720 --> 00:17:39,120
+- Ey, wow! Die Lampe funktioniert wieder.
+
+314
+00:17:39,170 --> 00:17:42,560
+- Super, Nico! Danke!
+Möchtest du etwas trinken?
+
+315
+00:17:42,600 --> 00:17:44,240
+- Trinken?
+
+316
+00:17:44,240 --> 00:17:46,920
+- Ja, trinken, ein Getränk!
+
+317
+00:17:47,440 --> 00:17:48,600
+- Oder zwei.
+
+318
+00:17:49,800 --> 00:17:51,200
+- Oder drei.
+
+319
+00:17:53,040 --> 00:17:54,040
+- Das ist Yara.
+
+320
+00:17:57,600 --> 00:17:59,040
+- Ja, sie ist hübsch.
+
+321
+00:17:59,120 --> 00:18:00,600
+- Sie lebt in Deutschland.
+
+322
+00:18:02,040 --> 00:18:04,320
+- Wohnt sie hier in der Stadt?
+
+323
+00:18:06,600 --> 00:18:08,960
+- Aber wo ist das?
+Kennt ihr Yaras Fahrradladen?
+
+324
+00:18:09,920 --> 00:18:10,840
+- Eh eh.
+
+325
+00:18:10,890 --> 00:18:12,600
+- So. Was möchtet ihr trinken?
+
+326
+00:18:12,650 --> 00:18:14,080
+- Was gibt es denn?
+
+327
+00:18:15,520 --> 00:18:22,000
+- Wir haben … Apfelsaft, Wasser, Bier,
+Wein, Cola und Limonade.
+
+328
+00:18:22,120 --> 00:18:23,360
+- Also, ich nehm ein Bier.
+
+329
+00:18:23,360 --> 00:18:25,120
+- Wir haben auch Kaffee
+und Tee im Angebot …
+
+330
+00:18:25,410 --> 00:18:26,520
+- Bier, danke.
+
+331
+00:18:28,200 --> 00:18:29,680
+- Für mich bitte einen Kaffee.
+
+332
+00:18:29,680 --> 00:18:30,840
+- Mit Milch und Zucker?
+
+333
+00:18:31,480 --> 00:18:37,320
+- Ja, mit viel Milch, aber wenig Zucker.
+Ah warte, ich mache das.
+
+334
+00:18:37,600 --> 00:18:42,680
+- Was ist mit dir, Nico? Hast du auch
+Durst? Was möchtest du trinken?
+
+335
+00:18:43,040 --> 00:18:43,890
+- Cola, bitte.
+
+336
+00:18:44,760 --> 00:18:47,170
+- Alles klar. Dann nehme ich Limonade.
+
+337
+00:18:47,240 --> 00:18:49,410
+- Also, Freunde, ich habe ‘ne Idee!
+Wir …
+
+338
+00:18:50,240 --> 00:18:52,600
+wir posten das Foto von Yara bei Book
+
+339
+00:18:53,000 --> 00:18:56,410
+und fragen: Wer kennt diesen Fahrradladen?
+
+340
+00:18:56,560 --> 00:18:57,960
+Und so finden wir die Adresse raus.
+
+341
+00:18:58,080 --> 00:18:59,000
+- Ja, vielleicht.
+
+342
+00:19:02,480 --> 00:19:03,650
+- Habt ihr Hunger?
+
+343
+00:19:05,520 --> 00:19:06,650
+- Hunger? Hungry?
+
+344
+00:19:08,200 --> 00:19:09,240
+- Ja!
+
+345
+00:19:13,840 --> 00:19:15,320
+- Hier sind die Speisekarten!
+
+346
+00:19:19,410 --> 00:19:22,560
+- So, also dann prost!
+
+347
+00:19:22,600 --> 00:19:24,120
+- Prost!
+
+348
+00:19:25,520 --> 00:19:26,600
+- Prost!
+
+349
+00:19:28,650 --> 00:19:30,920
+- Wo ist denn Nawin? Ist er nicht hier?
+
+350
+00:19:51,000 --> 00:19:53,600
+- Hey, Nawin.
+Möchtest du etwas essen?
+
+351
+00:19:54,320 --> 00:19:55,480
+- Was gibt es denn?
+
+352
+00:19:55,650 --> 00:19:57,890
+- Sushi, Pizza, Salat.
+
+353
+00:19:58,520 --> 00:19:59,360
+- Okay.
+
+354
+00:20:00,840 --> 00:20:02,800
+- Nico, was möchtest du essen?
+
+355
+00:20:03,040 --> 00:20:04,840
+- Ich möchte eine Pizza, bitte.
+
+356
+00:20:05,760 --> 00:20:08,600
+- Hier, das ist die Speisekarte
+von unserem Lieblingsitaliener.
+
+357
+00:20:08,600 --> 00:20:09,600
+- Danke.
+
+358
+00:20:11,720 --> 00:20:12,920
+- Nico,
+
+359
+00:20:14,120 --> 00:20:16,480
+das ist Nawin.
+Nawin, Nico.
+
+360
+00:20:16,760 --> 00:20:17,960
+- Hallo! Ich bin Nico.
+
+361
+00:20:18,200 --> 00:20:20,920
+- Nico?
+Bist du der Nico aus dem Radio?
+
+362
+00:20:21,240 --> 00:20:22,720
+- Ja, Nico war im Radio.
+
+363
+00:20:23,800 --> 00:20:24,840
+- Du suchst deine Tasche!
+
+364
+00:20:24,890 --> 00:20:25,650
+- Ja.
+
+365
+00:20:26,600 --> 00:20:29,040
+- Leute, die Speisekarte.
+Was nehmt ihr?
+
+366
+00:20:29,080 --> 00:20:31,280
+- Ich möchte eine Pizza
+mit Thunfisch.
+
+367
+00:20:31,720 --> 00:20:34,760
+- Sehr gut. Ich nehme auch
+eine Pizza mit Salami.
+
+368
+00:20:34,800 --> 00:20:39,120
+Und Nico, möchtest du
+eine Pizza mit Thunfisch,
+
+369
+00:20:39,170 --> 00:20:41,920
+eine mit Salami oder eine
+mit Tomate Mozzarella?
+
+370
+00:20:42,840 --> 00:20:44,920
+- Ich nehme eine
+Pizza mit Salami, bitte.
+
+371
+00:20:45,240 --> 00:20:48,920
+- Gut. Und ich nehm' wie immer
+meine Pizza Hawaii ohne Schinken.
+
+372
+00:20:49,320 --> 00:20:50,600
+- Pizza Hawaii?
+
+373
+00:20:51,760 --> 00:20:54,650
+- Das ist eine Pizza
+mit Ananas und Schinken.
+
+374
+00:20:54,720 --> 00:20:56,840
+Nina liebt Ananas,
+sie ist aber Vegetarierin
+
+375
+00:20:56,890 --> 00:21:00,520
+und deshalb nimmt sie die Pizza
+jedes Mal ohne Schinken.
+
+376
+00:21:01,440 --> 00:21:02,890
+- So und ich bestelle.
+
+377
+00:21:03,480 --> 00:21:04,960
+Wo ist mein Handy?
+
+378
+00:21:09,240 --> 00:21:10,320
+Danke!
+
+379
+00:21:12,360 --> 00:21:15,080
+Ach, eine Nachricht auf Book!
+
+380
+00:21:15,360 --> 00:21:16,840
+- Das Foto?
+
+381
+00:21:21,920 --> 00:21:23,280
+- Hallo.
+
+382
+00:21:23,440 --> 00:21:27,280
+- Guten Tag, Ihre Bestellung.
+Zahlen Sie zusammen oder getrennt?
+
+383
+00:21:27,280 --> 00:21:29,080
+- Zusammen. Was kostet das?
+
+384
+00:21:29,760 --> 00:21:36,650
+- Gut, Moment. Die drei Pizzen mit
+Salami sind 22,50 Euro.
+
+385
+00:21:36,760 --> 00:21:41,410
+Dann haben wir eine Pizza Thunfisch,
+eine Pizza Hawaii ohne Schinken, 18 Euro.
+
+386
+00:21:41,480 --> 00:21:44,890
+Das macht zusammen … 40,50 Euro.
+Zahlen Sie bar oder mit Karte?
+
+387
+00:21:44,890 --> 00:21:48,240
+- Ähm, ich zahle bar. Hier sind 45 Euro.
+Das stimmt so.
+
+388
+00:21:48,240 --> 00:21:51,280
+- Danke! Hier ist die Rechnung.
+Tschüss.
+
+389
+00:21:51,280 --> 00:21:52,440
+- Danke.
+
+390
+00:21:52,480 --> 00:21:55,960
+- So … Wer bekommt die Hawaii
+ohne Schinken?
+
+391
+00:21:55,960 --> 00:21:57,160
+- Ich!
+
+392
+00:21:58,080 --> 00:21:59,440
+- Tonno?
+
+393
+00:21:59,480 --> 00:22:00,640
+- Ja!
+
+394
+00:22:00,640 --> 00:22:01,920
+- Salami?
+
+395
+00:22:02,000 --> 00:22:03,000
+- Salami, ich!
+
+396
+00:22:03,040 --> 00:22:07,560
+- Salami! Und noch eine Salami.
+
+397
+00:22:07,560 --> 00:22:09,120
+- Wie viel kostet die Pizza?
+
+398
+00:22:09,160 --> 00:22:12,800
+- Zehn Euro plus Trinkgeld.
+Und du bist eingeladen!
+
+399
+00:22:13,800 --> 00:22:15,160
+- Danke schön!
+
+400
+00:22:18,240 --> 00:22:20,760
+- Das ist vielleicht die letzte Pizza,
+die ich hier essen werde.
+
+401
+00:22:20,760 --> 00:22:22,360
+- Stimmt.
+
+402
+00:22:22,360 --> 00:22:24,000
+- Nawin geht weg.
+
+403
+00:22:26,520 --> 00:22:29,600
+- Das ist eine Bye-bye-Party?
+
+404
+00:22:29,600 --> 00:22:32,560
+- Eine Abschiedsparty.
+
+405
+00:22:32,560 --> 00:22:34,920
+- Abschiedsparty.
+
+406
+00:22:34,960 --> 00:22:36,280
+- Guten Appetit jetzt!
+
+407
+00:22:36,400 --> 00:22:38,360
+- Hey! Schön, dass ihr da seid!
+
+408
+00:22:38,400 --> 00:22:42,000
+- Hallo, Nawin, schön, dich zu sehen!
+Vielen Dank für die Einladung!
+
+409
+00:22:42,320 --> 00:22:44,400
+- Cool, danke schön!
+
+410
+00:22:46,400 --> 00:22:47,280
+- Prost!
+
+411
+00:22:47,600 --> 00:22:48,440
+- Prost!
+
+412
+00:22:55,320 --> 00:22:56,840
+- Was ist das?
+
+413
+00:22:56,840 --> 00:23:02,160
+- Das? Das ist eine Sehenswürdigkeit
+in Köln: der Kölner Dom.
+
+414
+00:23:02,320 --> 00:23:05,920
+Warst du schon mal in Köln?
+Kennst du die Stadt?
+
+415
+00:23:06,000 --> 00:23:07,280
+- Nein.
+
+416
+00:23:07,560 --> 00:23:14,920
+- Warst du noch nie in Deutschland?
+Oder in Österreich oder in der Schweiz?
+
+417
+00:23:16,560 --> 00:23:22,560
+- Jetzt habe ich Geschenke aus Köln,
+Hamburg, Düsseldorf, Heidelberg und Berlin.
+
+418
+00:23:22,600 --> 00:23:24,320
+- Und welche Städte kennst du schon?
+
+419
+00:23:24,320 --> 00:23:29,600
+- Ich war schon mal in Hamburg und in Köln.
+In Heidelberg war ich noch nie.
+
+420
+00:23:29,600 --> 00:23:31,840
+Nächste Woche fahre ich nach München!
+
+421
+00:23:36,200 --> 00:23:37,800
+- Was ist das?
+
+422
+00:23:37,920 --> 00:23:41,920
+- Das ist das Brandenburger Tor.
+Eine Sehenswürdigkeit in Berlin.
+
+423
+00:23:43,200 --> 00:23:45,000
+- Kennst du Berlin?
+
+424
+00:23:45,000 --> 00:23:48,960
+- Nein. Aber Nina war schon mal in Berlin.
+Und Sebastian.
+
+425
+00:23:48,960 --> 00:23:50,480
+Ihr wart schon mal in Berlin, oder?
+
+426
+00:23:50,480 --> 00:23:54,400
+- Wir beide waren schon mal in Berlin, ja.
+Wir waren sogar am Brandenburger Tor.
+
+427
+00:24:05,680 --> 00:24:06,680
+- Nico?
+
+428
+00:24:06,680 --> 00:24:07,680
+- Hm …
+
+429
+00:24:09,480 --> 00:24:11,480
+- Alles gut?
+
+430
+00:24:13,520 --> 00:24:15,520
+Kein Kommentar?
+
+431
+00:24:19,400 --> 00:24:21,400
+Komm! Wir spielen ein Spiel.
+
+432
+00:24:24,080 --> 00:24:25,480
+So.
+
+433
+00:24:26,520 --> 00:24:29,160
+Also, es gibt vier Teams:
+
+434
+00:24:29,200 --> 00:24:33,360
+Team Osten, Team Süden,
+Team Westen und Team Norden.
+
+435
+00:24:33,560 --> 00:24:34,360
+- Team Süden!
+
+436
+00:24:36,160 --> 00:24:36,960
+- Süden?
+
+437
+00:24:37,000 --> 00:24:41,760
+- Hier! Das ist Süden, das ist Norden,
+das ist Osten und das ist Westen.
+
+438
+00:24:49,520 --> 00:24:51,240
+- Hi, ich bin Nico.
+
+439
+00:24:51,320 --> 00:24:54,040
+Ich komme aus Spanien … aus Sevilla.
+
+440
+00:24:54,280 --> 00:24:56,520
+- Spanien … das ist im Süden, oder?
+
+441
+00:24:56,600 --> 00:24:57,520
+Im Süden von Europa.
+
+442
+00:24:57,520 --> 00:25:00,720
+- Ja. Und Sevilla ist
+im Süden von Spanien.
+
+443
+00:25:00,720 --> 00:25:02,160
+Und du?
+
+444
+00:25:02,160 --> 00:25:05,320
+- Ich bin Selma.
+Ich komme aus Syrien … aus Damaskus.
+
+445
+00:25:05,520 --> 00:25:07,120
+- Damaskus, das ist …
+
+446
+00:25:07,200 --> 00:25:09,800
+- Damaskus ist auch im Süden.
+Im Süden von Syrien.
+
+447
+00:25:10,280 --> 00:25:12,720
+Komm jetzt!
+Wir gewinnen!
+
+448
+00:25:13,120 --> 00:25:14,520
+- Gewinnen?
+
+449
+00:25:14,560 --> 00:25:16,520
+- Nico spricht noch nicht so gut Deutsch.
+
+450
+00:25:16,520 --> 00:25:18,440
+- Wir gewinnen!
+
+451
+00:25:18,760 --> 00:25:19,720
+- Gewinnen.
+
+452
+00:25:19,720 --> 00:25:22,520
+Okay, alle: Gewinnen!
+
+453
+00:25:23,160 --> 00:25:25,200
+- Ja gut, dann fangt ihr an.
+
+454
+00:25:44,240 --> 00:25:45,640
+- Ja!
+
+455
+00:25:45,680 --> 00:25:46,720
+- Wir waren gut!
+
+456
+00:25:46,800 --> 00:25:49,040
+- Kommt, gehen wir tanzen!
+
+457
+00:25:56,160 --> 00:25:57,240
+- Mama?
+
+458
+00:25:59,040 --> 00:26:00,120
+Ja, ich komme.
+
+459
+00:26:01,000 --> 00:26:02,320
+Entschuldigung.
+
+460
+00:26:04,920 --> 00:26:06,600
+- Tada!
+
+461
+00:26:06,640 --> 00:26:08,640
+- Wow, was ist das denn?
+
+462
+00:26:08,640 --> 00:26:10,440
+- Spezialitäten aus
+verschiedenen Ländern.
+
+463
+00:26:10,440 --> 00:26:11,720
+Ihr müsst die Fähnchen zuordnen.
+
+464
+00:26:11,920 --> 00:26:13,120
+- Das ist ja einfach!
+
+465
+00:26:13,640 --> 00:26:18,360
+Also, Köttbullar …
+isst man in Schweden! So.
+
+466
+00:26:18,400 --> 00:26:19,720
+- Warst du schon mal in Schweden?
+
+467
+00:26:19,760 --> 00:26:21,680
+- Nee, aber ich fahre
+nächstes Jahr nach Norwegen!
+
+468
+00:26:21,680 --> 00:26:23,160
+- Nimmst du mich mit?
+
+469
+00:26:23,160 --> 00:26:23,880
+- Klar!
+
+470
+00:26:23,880 --> 00:26:26,200
+- Nawin? Du gehst nach Frankreich.
+
+471
+00:26:27,360 --> 00:26:30,880
+- In Frankreich isst man gern Käse.
+
+472
+00:26:31,680 --> 00:26:33,400
+- Ja, gar nicht so schlecht!
+
+473
+00:26:33,760 --> 00:26:34,840
+Und du, Sebastian?
+
+474
+00:26:34,880 --> 00:26:35,800
+- Hier, gib her.
+
+475
+00:26:38,240 --> 00:26:39,240
+So.
+
+476
+00:26:40,800 --> 00:26:46,560
+Also, Sushi isst man in Japan
+
+477
+00:26:48,880 --> 00:26:53,080
+und in Italien isst man Pizza!
+
+478
+00:26:53,440 --> 00:26:54,480
+- Super!
+
+479
+00:26:55,440 --> 00:26:58,880
+Und Nico, was isst man in Spanien?
+
+480
+00:27:00,400 --> 00:27:05,120
+- In Spanien isst man Gazpacho!
+
+481
+00:27:06,800 --> 00:27:07,560
+- Perfekt.
+
+482
+00:27:12,880 --> 00:27:14,160
+- Und du wohnst in Frankreich?
+
+483
+00:27:14,400 --> 00:27:16,960
+- Bald, ja.
+Ich habe da einen Job.
+
+484
+00:27:17,360 --> 00:27:18,200
+- Cool …
+
+485
+00:27:19,480 --> 00:27:20,320
+- Na ja.
+
+486
+00:27:21,800 --> 00:27:23,760
+Ich mag Deutschland.
+
+487
+00:27:27,560 --> 00:27:28,640
+- Ich auch.
+
+488
+00:27:38,200 --> 00:27:39,480
+- War die Party gut?
+
+489
+00:27:39,480 --> 00:27:41,640
+- Sehr gut! Die Party war super!
+
+490
+00:27:42,520 --> 00:27:43,600
+- International, oder?
+
+491
+00:27:44,200 --> 00:27:49,320
+Marc kommt aus Frankreich,
+Sascha aus Russland und Selma aus Syrien.
+
+492
+00:27:50,000 --> 00:27:54,560
+- Selma … ist sie … refugee?
+
+493
+00:27:54,800 --> 00:27:56,320
+- Ja, sie ist ein Flüchtling.
+
+494
+00:27:56,320 --> 00:27:57,520
+- Flüchtling.
+
+495
+00:27:58,000 --> 00:28:00,120
+- Darf Selma in Deutschland bleiben?
+
+496
+00:28:00,160 --> 00:28:02,760
+- Keine Ahnung.
+Sie hat noch keine Aufenthaltserlaubnis.
+
+497
+00:28:03,160 --> 00:28:05,000
+- Sie spricht sehr gut Deutsch!
+
+498
+00:28:05,320 --> 00:28:09,000
+- Stimmt. Sie macht einen Deutschkurs
+und lernt sehr schnell.
+
+499
+00:28:10,280 --> 00:28:12,400
+Und welche Sprachen sprichst du, Nico?
+
+500
+00:28:14,800 --> 00:28:17,360
+- Englisch … Naja ... ein bisschen.
+
+501
+00:28:17,920 --> 00:28:21,120
+- Und Spanisch und ein bisschen Deutsch.
+
+502
+00:28:21,400 --> 00:28:27,600
+- Ja, ich spreche Spanisch, ein bisschen
+Englisch und ein bisschen Deutsch.
+
+503
+00:28:28,800 --> 00:28:30,560
+Welche Sprachen sprichst du?
+
+504
+00:28:31,160 --> 00:28:35,920
+- Ich spreche Deutsch, Englisch und
+Italienisch, aber sehr schlecht.
+
+505
+00:28:37,600 --> 00:28:39,760
+- Woher kommst du?
+Welche Sprachen sprichst du?
+
+506
+00:28:40,160 --> 00:28:41,400
+- Ich komme aus Thailand.
+
+507
+00:28:41,520 --> 00:28:46,520
+Ich spreche Thai, Chinesisch, Englisch,
+Deutsch, Französisch und Italienisch.
+
+508
+00:28:46,880 --> 00:28:47,960
+- Wow.
+
+509
+00:28:49,120 --> 00:28:50,200
+- Freunde!
+
+510
+00:28:51,400 --> 00:28:53,120
+So, kommt mal schnell her!
+
+511
+00:28:54,040 --> 00:28:59,400
+Das Foto von deiner Tante Yara.
+Es gibt eine Antwort und eine Adresse.
+
+512
+00:29:13,160 --> 00:29:14,240
+- Wo ist meine Brille?
+
+513
+00:29:14,720 --> 00:29:15,720
+- Was suchst du?
+
+514
+00:29:16,360 --> 00:29:17,480
+- Meine Brille.
+
+515
+00:29:17,760 --> 00:29:19,560
+Und wo sind die Stifte und das Buch?
+
+516
+00:29:20,400 --> 00:29:25,000
+- Sie sucht die Brille, die Stifte
+und das Buch.
+
+517
+00:29:25,360 --> 00:29:27,120
+- Ich muss zum Unterricht!
+
+518
+00:29:27,160 --> 00:29:29,960
+- Lisa gibt Deutschkurse
+in einer Sprachschule.
+
+519
+00:29:29,960 --> 00:29:32,480
+Lisa ist Lehrerin.
+Sie unterrichtet Deutsch.
+
+520
+00:29:32,560 --> 00:29:33,880
+- Du bist eine Lehrerin?
+
+521
+00:29:34,040 --> 00:29:34,760
+- Aha …
+
+522
+00:29:38,000 --> 00:29:39,640
+- Die Stifte …
+
+523
+00:29:42,200 --> 00:29:44,200
+die Brille und …
+
+524
+00:29:46,160 --> 00:29:48,160
+Und wie heißt das hier auf Deutsch?
+
+525
+00:29:48,160 --> 00:29:49,760
+- Das Buch … Danke, Nico!
+
+526
+00:29:53,280 --> 00:29:55,080
+Emma wartet auch schon!
+
+527
+00:29:55,240 --> 00:29:57,080
+- Kein Problem, Lisa. Ich hol' Emma.
+
+528
+00:29:57,160 --> 00:30:00,800
+- Echt? Danke, du bist echt die Beste!
+
+529
+00:30:01,680 --> 00:30:04,480
+Und nach dem Unterricht
+fahren wir zu Yara, okay?
+
+530
+00:30:05,400 --> 00:30:08,800
+- Yara. August-Straußberg-Gasse 23.
+
+531
+00:30:08,800 --> 00:30:10,120
+- Ja. Ja, genau.
+
+532
+00:30:10,160 --> 00:30:11,200
+- Lisa!
+
+533
+00:30:11,200 --> 00:30:12,040
+- Mhm …
+
+534
+00:30:12,040 --> 00:30:13,240
+- Der Schlüssel!
+
+535
+00:30:13,240 --> 00:30:14,200
+- Danke!
+
+536
+00:30:15,640 --> 00:30:18,040
+- Also, was ist das?
+
+537
+00:30:18,040 --> 00:30:19,720
+- Das ist eine Tafel.
+
+538
+00:30:19,800 --> 00:30:22,640
+- Sehr gut.
+Kannst du das bitte buchstabieren?
+
+539
+00:30:22,720 --> 00:30:25,840
+- T-A-F-E-L
+
+540
+00:30:26,000 --> 00:30:27,720
+- Super, Rana.
+
+541
+00:30:27,720 --> 00:30:28,920
+- Der Tafel.
+
+542
+00:30:29,000 --> 00:30:31,320
+- Entschuldigung, kannst du das
+noch mal wiederholen?
+
+543
+00:30:31,320 --> 00:30:32,880
+- Das Tafel?
+
+544
+00:30:32,880 --> 00:30:34,640
+- Die Tafel.
+
+545
+00:30:34,680 --> 00:30:38,160
+Nomen und Artikel gehören
+immer zusammen:
+
+546
+00:30:38,160 --> 00:30:42,720
+der Stuhl, die Tafel, das Buch.
+
+547
+00:30:42,760 --> 00:30:45,600
+Kennt ihr noch andere Nomen
+mit Artikeln??
+
+548
+00:30:45,600 --> 00:30:46,760
+- Die Tasche!
+
+549
+00:30:46,760 --> 00:30:48,720
+- Richtig. Die Tasche.
+
+550
+00:30:52,120 --> 00:30:57,720
+Das ist eine Tasche.
+Das ist auch eine Tasche.
+
+551
+00:30:58,080 --> 00:31:00,360
+Und das ist die Tasche von Jenny.
+
+552
+00:31:00,360 --> 00:31:02,960
+Die Tasche, eine Tasche …
+
+553
+00:31:04,440 --> 00:31:06,520
+So. Und jetzt alle Post-its schreiben!
+
+554
+00:31:06,600 --> 00:31:08,320
+Das Wörterbuch hilft.
+
+555
+00:31:18,600 --> 00:31:19,640
+- Auf Wiedersehen!
+
+556
+00:31:19,680 --> 00:31:20,960
+- Auf Wiedersehen! Mach’s gut!
+
+557
+00:31:20,960 --> 00:31:22,120
+- Ciao!
+- Tschüss!
+
+558
+00:31:22,120 --> 00:31:23,720
+- Bis bald! Tschüss!
+
+559
+00:31:23,720 --> 00:31:25,160
+- Wiedersehen!
+
+560
+00:31:30,160 --> 00:31:31,320
+- Oh, entschuldige!
+
+561
+00:31:33,560 --> 00:31:35,560
+Hallo, hier Lisa Brunner.
+
+562
+00:31:36,520 --> 00:31:41,560
+Ah ja, die Anzeige im Internet.
+Ja, wir suchen immer noch.
+
+563
+00:31:43,200 --> 00:31:46,480
+Ja, die Wohnung hat eine Terrasse.
+
+564
+00:31:49,480 --> 00:31:52,360
+Nein, im Haus ist kein Aufzug.
+
+565
+00:31:55,680 --> 00:31:59,600
+Nein, eine Garage haben wir nicht,
+aber komm doch erst mal vorbei.
+
+566
+00:32:01,120 --> 00:32:03,520
+Einen Moment bitte.
+
+567
+00:32:03,680 --> 00:32:05,840
+Ein Stift …
+
+568
+00:32:07,960 --> 00:32:10,640
+Wo ist mein Stift?
+Hast du einen Stift?
+
+569
+00:32:10,800 --> 00:32:12,760
+- Nein, ich hab' keinen Stift.
+
+570
+00:32:14,640 --> 00:32:18,680
+- Ah. Einen Zettel …
+Ich brauche einen Zettel.
+
+571
+00:32:18,680 --> 00:32:21,480
+- Hier, ein Zettel.
+
+572
+00:32:21,480 --> 00:32:25,720
+- Danke! Okay … Also – halb vier.
+
+573
+00:32:25,800 --> 00:32:29,000
+Und dein Name ist Marvin Graupner.
+
+574
+00:32:29,000 --> 00:32:33,440
+Okay. Alles klar. Bis dann. Tschüss!
+
+575
+00:32:34,200 --> 00:32:37,400
+Das war ein Bewerber für Nawins Zimmer.
+
+576
+00:32:37,440 --> 00:32:38,880
+- Bewerber?
+
+577
+00:32:38,880 --> 00:32:41,240
+- Ja, Nawin geht doch nach Frankreich.
+
+578
+00:32:41,280 --> 00:32:45,600
+Wir suchen also einen Mieter für
+Nawins Zimmer. Er kommt heute noch.
+
+579
+00:32:46,720 --> 00:32:49,440
+Aber jetzt gehen wir erst mal
+zu deiner Tante!
+
+580
+00:32:53,400 --> 00:32:54,880
+- Die Tür.
+
+581
+00:32:54,880 --> 00:32:56,560
+- Die Tür. Richtig!
+
+582
+00:33:07,080 --> 00:33:14,400
+- Also … ich sehe was, was du nicht siehst,
+und das ist … groß und rot.
+
+583
+00:33:19,200 --> 00:33:21,200
+- Das Auto.
+
+584
+00:33:21,200 --> 00:33:25,400
+- Das Auto ist rot, aber es ist
+nicht groß, es ist klein.
+
+585
+00:33:26,800 --> 00:33:30,840
+- Ähm … das Haus.
+
+586
+00:33:30,840 --> 00:33:33,480
+- Ja, richtig! Du bist dran.
+
+587
+00:33:33,600 --> 00:33:40,600
+- Ich sehe was, was du nicht siehst,
+und das ist groß und klein.
+
+588
+00:33:41,720 --> 00:33:44,200
+- Ich glaube nicht …
+
+589
+00:33:44,520 --> 00:33:51,880
+- Ah … ich sehe was, was du
+nicht siehst, und das ist groß und gelb.
+
+590
+00:33:53,560 --> 00:33:54,240
+- Das Haus.
+
+591
+00:33:54,600 --> 00:33:55,080
+- Ja.
+
+592
+00:34:01,280 --> 00:34:05,320
+- Das hier ist die
+August-Straußberg-Gasse 23.
+
+593
+00:34:05,680 --> 00:34:07,280
+Aber wo ist der Fahrradladen?
+
+594
+00:34:09,440 --> 00:34:10,640
+- Hier ist kein Fahrradladen.
+
+595
+00:34:10,640 --> 00:34:11,840
+- Ja, aber wir sind richtig.
+
+596
+00:34:13,440 --> 00:34:19,330
+- Ich sehe was, was du nicht siehst,
+… und das ist nicht da.
+
+597
+00:34:22,440 --> 00:34:25,240
+- Die Adresse ist falsch. Es gibt hier
+wirklich keinen Fahrradladen.
+
+598
+00:34:25,240 --> 00:34:28,040
+Es tut mir leid, Nico … Komm!
+
+599
+00:34:43,040 --> 00:34:43,770
+- Nico …
+
+600
+00:34:43,770 --> 00:34:44,840
+- Hmm?
+
+601
+00:34:45,840 --> 00:34:47,290
+- Wir haben ein Problem.
+
+602
+00:34:48,520 --> 00:34:49,960
+- Ein Problem?
+
+603
+00:34:49,960 --> 00:34:51,840
+- Ja, ein Problem.
+
+604
+00:34:52,720 --> 00:34:55,000
+Du kannst nur noch zwei
+Tage in der WG bleiben.
+
+605
+00:34:55,000 --> 00:34:57,200
+Dann musst du umziehen.
+Verstehst du?
+
+606
+00:34:58,000 --> 00:35:00,200
+- Okay. Kein Problem.
+
+607
+00:35:01,040 --> 00:35:03,480
+- Unsere Heizung ist kaputt.
+
+608
+00:35:04,200 --> 00:35:07,440
+Sebastian, Nina, Nawin und ich
+fahren dann in Urlaub.
+
+609
+00:35:08,840 --> 00:35:10,480
+- Du bist nicht da?
+
+610
+00:35:13,720 --> 00:35:15,200
+Ich suche mir ein Hotel.
+
+611
+00:35:15,240 --> 00:35:16,920
+- Nein. Das ist sehr teuer.
+
+612
+00:35:17,000 --> 00:35:18,770
+Eine Jugendherberge ist besser.
+
+613
+00:35:19,520 --> 00:35:20,810
+- Jugendherberge?
+
+614
+00:35:20,810 --> 00:35:24,480
+- Ja. Eine Jugendherberge oder ein Hostel.
+
+615
+00:35:24,770 --> 00:35:27,880
+Jugendherbergen und Hostels sind
+nicht so teuer wie ein Hotel.
+
+616
+00:35:27,960 --> 00:35:29,880
+Viele junge Leute übernachten dort.
+
+617
+00:35:33,920 --> 00:35:35,920
+Und ich frage meine Freunde und Bekannten.
+
+618
+00:35:35,960 --> 00:35:37,680
+Vielleicht haben sie ein Zimmer frei.
+
+619
+00:35:39,000 --> 00:35:41,000
+- Okay, danke …
+
+620
+00:35:45,160 --> 00:35:47,290
+- Du willst dir das Zimmer anschauen?
+
+621
+00:35:47,290 --> 00:35:49,480
+- Ja. Ich suche eine neue WG.
+
+622
+00:35:49,480 --> 00:35:51,720
+- Wir haben telefoniert.
+Ich bin Lisa Brunner.
+
+623
+00:35:51,770 --> 00:35:52,960
+- Cool.
+
+624
+00:35:58,160 --> 00:36:00,920
+- So, äh, das ist die Wohnung.
+
+625
+00:36:02,840 --> 00:36:04,840
+- Hi, Lisa.
+
+626
+00:36:04,880 --> 00:36:06,160
+- Das ist …
+
+627
+00:36:06,200 --> 00:36:07,840
+- Marvin, hi.
+
+628
+00:36:07,840 --> 00:36:10,200
+- Marvin möchte dein Zimmer sehen.
+
+629
+00:36:10,330 --> 00:36:12,960
+- Ah, hi!
+Ich bin Nawin. Freut mich.
+
+630
+00:36:12,960 --> 00:36:14,000
+- Hi.
+
+631
+00:36:14,480 --> 00:36:15,960
+- Schon okay …
+
+632
+00:36:16,520 --> 00:36:17,920
+- Wo ist Emma?
+
+633
+00:36:17,920 --> 00:36:19,120
+- Draußen mit Nina.
+
+634
+00:36:19,160 --> 00:36:19,770
+- Okay.
+
+635
+00:36:19,840 --> 00:36:21,440
+- Okay, dann fangen wir an!
+
+636
+00:36:21,960 --> 00:36:23,840
+- Äh, das ist das Wohnzimmer.
+
+637
+00:36:25,160 --> 00:36:27,640
+- Die Fenster sind groß und
+das Zimmer ist hell.
+
+638
+00:36:27,720 --> 00:36:28,720
+- Cool.
+
+639
+00:36:28,720 --> 00:36:30,440
+Wie viele Zimmer hat die Wohnung?
+
+640
+00:36:30,440 --> 00:36:33,160
+- Es gibt fünf Zimmer, eine Küche
+und ein Bad.
+
+641
+00:36:34,200 --> 00:36:36,720
+Ja, dann komm mal mit.
+
+642
+00:36:38,810 --> 00:36:40,880
+- Los, los, los, los, komm!
+
+643
+00:36:40,880 --> 00:36:43,040
+- Das Zimmer ist frei für dich.
+
+644
+00:36:43,640 --> 00:36:45,120
+- Ganz schön groß.
+
+645
+00:36:45,560 --> 00:36:48,040
+Wie viele Quadratmeter
+hat das Zimmer denn?
+
+646
+00:36:48,120 --> 00:36:51,520
+- Ich glaube, es hat
+zehn Quadratmeter, oder?
+
+647
+00:36:51,560 --> 00:36:54,290
+- Äh, das Zimmer
+hat elf Quadratmeter.
+
+648
+00:36:54,360 --> 00:36:55,560
+- Ah.
+
+649
+00:36:58,560 --> 00:37:01,240
+- Ja, und es ist sehr ruhig.
+Keine Autos.
+
+650
+00:37:02,120 --> 00:37:05,840
+- So, das ist die Küche.
+
+651
+00:37:05,840 --> 00:37:09,120
+Die Küche ist sehr gemütlich. Hier
+sitzen wir oft.
+
+652
+00:37:10,160 --> 00:37:12,160
+- Wie teuer ist das Zimmer?
+
+653
+00:37:12,240 --> 00:37:16,200
+- Die Miete kostet mit Nebenkosten
+400 Euro im Monat.
+
+654
+00:37:16,290 --> 00:37:17,960
+- Okay.
+
+655
+00:37:18,810 --> 00:37:20,240
+Ich nehme das Zimmer!
+
+656
+00:37:20,240 --> 00:37:23,000
+- Super … Äh ...
+
+657
+00:37:23,000 --> 00:37:24,600
+Es kommen noch andere Interessenten.
+
+658
+00:37:24,600 --> 00:37:25,920
+Aber wir rufen dich an.
+
+659
+00:37:25,960 --> 00:37:29,810
+- Ja, cool. Na dann! Tschüss!
+
+660
+00:37:40,160 --> 00:37:41,160
+- Hi, Mädels.
+
+661
+00:37:41,480 --> 00:37:43,680
+- Äh. Du bist Wolfgang, oder?
+
+662
+00:37:43,680 --> 00:37:45,200
+- Ja, aber alle sagen nur Wolf.
+
+663
+00:37:45,240 --> 00:37:46,200
+- Hi, Wolf.
+
+664
+00:37:47,770 --> 00:37:49,720
+- Nice. Das ist das Wohnzimmer, hm?
+
+665
+00:37:50,480 --> 00:37:52,400
+- Ja, genau.
+
+666
+00:37:53,290 --> 00:37:55,290
+- Der Tisch, der ist nicht schön.
+
+667
+00:37:55,290 --> 00:37:58,330
+Die Stühle sind alt und der
+Schrank ist viel zu groß.
+
+668
+00:38:01,480 --> 00:38:04,880
+Das Sofa, das stellen
+wir da an die Wand.
+
+669
+00:38:05,440 --> 00:38:08,080
+Und in die Ecke kommt mein Schlagzeug.
+Die Drums.
+
+670
+00:38:08,080 --> 00:38:10,840
+Das ist doch super. Dann können
+wir zusammen jammen.
+
+671
+00:38:12,040 --> 00:38:13,160
+Und da in die Ecke …
+
+672
+00:38:13,160 --> 00:38:17,080
+Teppiche, wir brauchen viele Teppiche.
+Lampen und Kissen. Zum Chillen.
+
+673
+00:38:22,330 --> 00:38:24,040
+- Wir melden uns bei dir, ja?
+
+674
+00:38:24,040 --> 00:38:25,520
+- Ähm, ja.
+
+675
+00:38:31,360 --> 00:38:32,400
+- Wow.
+
+676
+00:38:35,200 --> 00:38:36,920
+- Das ist mein Zimmer …
+
+677
+00:38:36,920 --> 00:38:38,440
+Vielleicht bald dein Zimmer?
+
+678
+00:38:42,040 --> 00:38:44,240
+- Ist das auch deine?
+- Oh.
+
+679
+00:38:45,000 --> 00:38:46,480
+Nein, das ist meine.
+
+680
+00:38:47,330 --> 00:38:49,160
+Die habe ich schon gesucht.
+Danke, Ulla!
+
+681
+00:38:52,200 --> 00:38:53,840
+- Ist das mein Bad?
+
+682
+00:38:54,720 --> 00:38:57,080
+- Äh … Nein, wir haben nur ein Bad.
+
+683
+00:38:57,920 --> 00:38:59,920
+Hier duschen alle.
+
+684
+00:39:00,810 --> 00:39:01,440
+- Alle?
+
+685
+00:39:04,810 --> 00:39:07,080
+Hier ist es nicht sehr sauber.
+
+686
+00:39:07,560 --> 00:39:10,360
+Wie oft putzt ihr denn?
+
+687
+00:39:10,480 --> 00:39:12,080
+- Naja, das kommt drauf an.
+
+688
+00:39:12,080 --> 00:39:13,560
+Ist es dreckig, dann putzen wir.
+
+689
+00:39:17,120 --> 00:39:19,120
+- Und wie sind die Nachbarn?
+
+690
+00:39:19,120 --> 00:39:21,040
+Die sind nicht zu laut, oder?
+
+691
+00:39:23,330 --> 00:39:27,400
+- Doch!
+Die sind super laut und nicht nett!
+
+692
+00:39:30,880 --> 00:39:31,770
+- Na dann …
+
+693
+00:39:31,810 --> 00:39:34,000
+- Na dann.
+Wir rufen dich an.
+
+694
+00:39:34,000 --> 00:39:35,240
+- Okay.
+
+695
+00:39:36,160 --> 00:39:37,600
+Tschüss!
+
+696
+00:39:42,680 --> 00:39:45,400
+- Was für eine Katastrophe!
+
+697
+00:39:47,520 --> 00:39:50,600
+- Ich glaube, wir finden nie
+einen Mieter für Nawins Zimmer!
+
+698
+00:39:52,200 --> 00:39:53,810
+- Ah, die Sprachschule …
+
+699
+00:39:56,330 --> 00:39:57,840
+Oh nein!
+
+700
+00:39:58,440 --> 00:39:59,720
+- Was ist?
+
+701
+00:40:00,840 --> 00:40:04,200
+- Meine Kollegin Manja ist krank.
+Ich mache morgen Manjas Unterricht.
+
+702
+00:40:04,520 --> 00:40:05,600
+- Ist doch super.
+
+703
+00:40:05,640 --> 00:40:07,290
+- Ja und was mache ich mit Emma?
+
+704
+00:40:08,480 --> 00:40:09,640
+- Wann beginnt der Kurs?
+
+705
+00:40:09,640 --> 00:40:10,520
+- Um neun.
+
+706
+00:40:12,640 --> 00:40:13,880
+Das geht nicht.
+
+707
+00:40:14,360 --> 00:40:15,920
+- Wann arbeitest du morgen?
+
+708
+00:40:15,960 --> 00:40:19,720
+- Ich arbeite morgen von acht bis zwölf.
+
+709
+00:40:20,640 --> 00:40:22,640
+Und nach dem Mittagessen
+hab ich Volleyballtraining
+
+710
+00:40:22,640 --> 00:40:25,480
+und das Training ist von zwei bis vier.
+
+711
+00:40:28,560 --> 00:40:30,440
+- Und du, Nawin?
+Wann hast du morgen Uni?
+
+712
+00:40:31,040 --> 00:40:33,840
+- Ich bin von neun bis fünf in der Uni.
+
+713
+00:40:33,840 --> 00:40:36,120
+Also den ganzen Tag. Tut mir Leid.
+
+714
+00:40:36,480 --> 00:40:37,770
+- Was macht Nina morgen?
+
+715
+00:40:37,880 --> 00:40:42,400
+- Nina hat morgen um acht
+einen Termin beim Arzt.
+
+716
+00:40:43,400 --> 00:40:47,080
+- Und danach ist sie von zehn
+bis drei in der Schule.
+
+717
+00:40:49,640 --> 00:40:50,840
+- Hm …
+
+718
+00:40:52,240 --> 00:40:55,360
+- Es gibt keine Lösung. Ich rufe Manja an.
+Wir sagen den Unterricht ab.
+
+719
+00:40:56,160 --> 00:40:57,440
+- Nico ist doch da.
+
+720
+00:41:02,640 --> 00:41:03,640
+- Wie bitte?
+
+721
+00:41:03,920 --> 00:41:06,360
+- Nico, passt du morgen auf Emma auf?
+
+722
+00:41:06,720 --> 00:41:07,640
+- Emma?
+
+723
+00:41:07,920 --> 00:41:09,080
+- Babysitting.
+
+724
+00:41:09,440 --> 00:41:11,330
+- Ja! Gerne!
+
+725
+00:41:13,290 --> 00:41:16,560
+- Emma steht um halb sieben auf.
+Danach putzt sie Zähne.
+
+726
+00:41:16,560 --> 00:41:17,880
+Das ist wichtig, Emma, okay?
+
+727
+00:41:17,880 --> 00:41:19,480
+- Ich putze immer meine Zähne!
+
+728
+00:41:19,480 --> 00:41:20,720
+- Immer oder manchmal?
+
+729
+00:41:20,720 --> 00:41:21,640
+- Fast immer.
+
+730
+00:41:21,770 --> 00:41:22,560
+- Okay …
+
+731
+00:41:23,440 --> 00:41:29,290
+Äh, zum Frühstück isst Emma
+normalerweise Müsli mit Milch.
+
+732
+00:41:29,290 --> 00:41:31,120
+Aber manchmal isst sie auch einen Apfel.
+
+733
+00:41:31,120 --> 00:41:33,080
+Und zum Mittagessen gibt es oft Gemüse.
+
+734
+00:41:33,120 --> 00:41:33,960
+- Gemüse?
+
+735
+00:41:34,840 --> 00:41:36,440
+- Ja, Gemüse.
+
+736
+00:41:40,290 --> 00:41:43,680
+Tomaten, Salat, Brokkoli.
+
+737
+00:41:44,640 --> 00:41:46,810
+Mittagessen gibt es um zwölf.
+
+738
+00:41:46,840 --> 00:41:50,520
+Von zwei bis drei Uhr macht Emma
+normalerweise Hausaufgaben.
+
+739
+00:41:50,520 --> 00:41:52,720
+Und von vier bis halb fünf übt sie Flöte.
+
+740
+00:41:52,770 --> 00:41:54,200
+Ich kontrolliere das!
+
+741
+00:41:54,200 --> 00:41:55,000
+- Ja ja …
+
+742
+00:41:55,000 --> 00:41:57,880
+- Und du siehst nicht fern.
+Und nach dem Spielen räumst du auf.
+
+743
+00:41:57,880 --> 00:41:59,520
+Ich möchte hier kein Chaos haben!
+
+744
+00:42:00,240 --> 00:42:01,640
+- Kein Problem.
+
+745
+00:42:01,880 --> 00:42:02,840
+- Ich weiß.
+
+746
+00:42:02,880 --> 00:42:04,040
+- Morgen ist ein super Tag!
+
+747
+00:42:06,640 --> 00:42:07,770
+- Danke, Nico!
+
+748
+00:42:07,840 --> 00:42:11,040
+Ich bin morgen gegen sechs zum
+Abendessen wieder zu Hause.
+
+749
+00:42:15,920 --> 00:42:17,000
+- Hallo!
+
+750
+00:42:17,040 --> 00:42:18,810
+- Hallo!
+
+751
+00:42:18,840 --> 00:42:20,000
+- Hallo!
+
+752
+00:42:21,400 --> 00:42:23,440
+- Was ist das denn?
+
+753
+00:42:23,480 --> 00:42:24,920
+- Abendessen.
+
+754
+00:42:24,920 --> 00:42:26,680
+- Das sehe ich.
+
+755
+00:42:27,120 --> 00:42:29,160
+- Wie war dein Tag, Tante Lisa?
+
+756
+00:42:29,810 --> 00:42:32,240
+- Gut, und wie war euer Tag?
+
+757
+00:42:33,920 --> 00:42:35,000
+- Super.
+
+758
+00:42:36,040 --> 00:42:38,120
+- Ich koche total gerne Gemüse.
+
+759
+00:42:38,120 --> 00:42:40,480
+- Ja, ich auch.
+
+760
+00:42:47,810 --> 00:42:50,040
+Du spielst sehr gut Flöte.
+
+761
+00:42:50,520 --> 00:42:52,040
+- Meine Ferienwoche:
+
+762
+00:42:52,120 --> 00:42:55,000
+Am Montag spiele ich mit
+Tante Lisa draußen Fußball.
+
+763
+00:42:55,080 --> 00:42:56,960
+Am Dienstag gehe ich zum Musikkurs.
+
+764
+00:42:57,400 --> 00:42:58,880
+- Du gehst zum Musikkurs?
+
+765
+00:42:58,920 --> 00:43:00,440
+- Ja, manchmal …
+
+766
+00:43:01,040 --> 00:43:03,400
+Am Mittwoch wasche ich mit Opa das Auto.
+
+767
+00:43:03,440 --> 00:43:05,560
+Am Donnerstag räume ich mein Zimmer auf.
+
+768
+00:43:05,560 --> 00:43:07,440
+- Das glaube ich nicht!
+
+769
+00:43:07,720 --> 00:43:09,440
+- Am Freitag sehe ich fern.
+
+770
+00:43:09,440 --> 00:43:11,560
+Am Samstag stehe ich spät auf.
+
+771
+00:43:11,600 --> 00:43:12,960
+Am Sonntag …
+
+772
+00:43:13,120 --> 00:43:15,560
+- Am Sonntag koche ich mit Nico Paella.
+
+773
+00:43:15,600 --> 00:43:16,720
+- Au ja!
+
+774
+00:43:16,840 --> 00:43:18,120
+- Bist du fertig?
+
+775
+00:43:18,120 --> 00:43:19,120
+- Ja.
+
+776
+00:43:19,360 --> 00:43:20,330
+- Cool!
+
+777
+00:43:21,600 --> 00:43:25,000
+- Ich lese gleich noch ein Buch für die
+Schule und dann gehe ich ins Bett.
+
+778
+00:43:25,770 --> 00:43:26,720
+- Ah.
+
+779
+00:43:40,560 --> 00:43:43,160
+- Was machen wir am Wochenende,
+Tante Lisa?
+
+780
+00:43:43,200 --> 00:43:45,400
+Wir schlafen doch erst lang aus.
+
+781
+00:43:45,400 --> 00:43:48,000
+Dann mache ich das Frühstück und
+dann gehen wir ins Kino.
+
+782
+00:43:48,120 --> 00:43:50,200
+- Vielleicht.
+
+783
+00:43:50,920 --> 00:43:53,720
+- Und dann mache ich noch
+meine Hausaufgaben …
+
+784
+00:44:00,960 --> 00:44:05,600
+Aufwachen, aufwachen, aufwachen!
+
+785
+00:44:07,400 --> 00:44:09,400
+- „Emma frühstückt Müsli!“
+
+786
+00:44:10,640 --> 00:44:12,640
+- Pf. Müsli!
+
+787
+00:44:14,200 --> 00:44:17,680
+- Emma, machst du jetzt bitte
+die Hausaufgaben?
+
+788
+00:44:17,800 --> 00:44:20,120
+- Keine Lust. Es sind Ferien!
+
+789
+00:44:22,040 --> 00:44:24,040
+Sehen wir fern?
+
+790
+00:44:24,520 --> 00:44:26,520
+- Nein.
+
+791
+00:44:27,160 --> 00:44:31,480
+Zuerst machen wir die Hausaufgaben, dann
+räumen wir auf und dann sehen wir fern.
+
+792
+00:44:40,000 --> 00:44:42,400
+- So, ich hab' Lust auf Eis!
+
+793
+00:44:50,360 --> 00:44:52,760
+Oh, mir ist schlecht!
+
+794
+00:44:56,040 --> 00:44:57,280
+- Was ist das?
+
+795
+00:45:00,240 --> 00:45:01,720
+- Unsere Öffnungszeiten?
+
+796
+00:45:01,840 --> 00:45:06,680
+Wir haben von Dienstag bis Sonntag von
+neun bis 23 Uhr geöffnet.
+
+797
+00:45:07,720 --> 00:45:09,520
+Am Montag haben wir leider geschlossen.
+
+798
+00:45:10,120 --> 00:45:10,840
+Ja!
+
+799
+00:45:11,440 --> 00:45:12,480
+Danke!
+
+800
+00:45:13,160 --> 00:45:13,840
+Tschüss!
+
+801
+00:45:13,840 --> 00:45:15,440
+- Magst du noch eine Limonade, Nico?
+
+802
+00:45:16,120 --> 00:45:18,640
+- Ja, ich nehme noch eine Limonade.
+
+803
+00:45:19,360 --> 00:45:22,440
+- So! Es ist zwölf Uhr.
+
+804
+00:45:22,840 --> 00:45:25,040
+Das Mittagsangebot beginnt jetzt.
+
+805
+00:45:25,040 --> 00:45:25,680
+- Ja!
+
+806
+00:45:26,200 --> 00:45:27,680
+- Was gibt's denn heute?
+
+807
+00:45:27,720 --> 00:45:32,480
+- Heute gibt es Rouladen mit Rotkraut
+und Kartoffeln
+
+808
+00:45:32,480 --> 00:45:34,240
+oder Fisch mit Gemüse
+
+809
+00:45:34,240 --> 00:45:37,280
+oder die türkische Linsensuppe.
+
+810
+00:45:37,360 --> 00:45:40,880
+- Vielleicht nehme ich die … den Fisch
+
+811
+00:45:40,920 --> 00:45:42,440
+Nein, die Suppe …
+
+812
+00:45:42,640 --> 00:45:44,040
+Oder warte!
+
+813
+00:45:44,240 --> 00:45:47,240
+Die Rouladen, ich nehme die Rouladen.
+
+814
+00:45:47,320 --> 00:45:48,520
+- Sicher?
+
+815
+00:45:48,880 --> 00:45:50,240
+- Bitte schön.
+
+816
+00:45:50,240 --> 00:45:53,080
+- Danke schön.
+Entschuldigung, wie viel Uhr ist es?
+
+817
+00:45:53,680 --> 00:45:55,240
+- Es ist zwölf Uhr.
+
+818
+00:45:55,440 --> 00:45:57,120
+Du wartest auf Lisa, oder?
+
+819
+00:45:57,600 --> 00:45:59,960
+Kommt sie um Viertel nach zwölf
+oder um halb eins?
+
+820
+00:45:59,960 --> 00:46:01,080
+- Um halb zwölf.
+
+821
+00:46:01,080 --> 00:46:04,120
+- Oh, normalerweise ist sie pünktlich.
+
+822
+00:46:05,280 --> 00:46:07,280
+- „Das Marek“. Hier ist Tarek.
+
+823
+00:46:07,840 --> 00:46:08,800
+Hallo, Lisa!
+
+824
+00:46:10,640 --> 00:46:11,480
+Nico?
+
+825
+00:46:12,840 --> 00:46:14,080
+Ja, der ist hier.
+
+826
+00:46:15,240 --> 00:46:18,840
+Okay. Ich sage es Nico.
+Bis gleich! Tschüss!
+
+827
+00:46:20,200 --> 00:46:21,240
+- War das Lisa?
+
+828
+00:46:21,320 --> 00:46:26,240
+- Ja. Sie kommt um Viertel vor eins,
+also um 12:45 Uhr.
+
+829
+00:46:28,480 --> 00:46:33,480
+Ich meine, sie kommt in 45 Minuten.
+Das Bewerbungsgespräch dauert länger.
+
+830
+00:46:33,480 --> 00:46:35,040
+- Okay, ich verstehe.
+
+831
+00:46:35,320 --> 00:46:36,560
+- Ich bin übrigens Tarek.
+
+832
+00:46:36,560 --> 00:46:38,440
+- Hallo, ich bin Nico!
+
+833
+00:46:40,480 --> 00:46:43,040
+- Oh, Nico, kannst du mir helfen?
+
+834
+00:46:43,040 --> 00:46:44,080
+- Ja, gerne.
+
+835
+00:46:49,400 --> 00:46:50,480
+- Max?
+- Ja?
+
+836
+00:46:50,480 --> 00:46:52,600
+- Kannst du morgen vielleicht
+etwas früher kommen?
+
+837
+00:46:52,600 --> 00:46:55,800
+Morgen ist doch der Zweiundzwanzigste
+und ich hab um halb eins einen Termin.
+
+838
+00:46:56,720 --> 00:46:58,720
+- Ja, kein Problem.
+
+839
+00:46:59,520 --> 00:47:00,720
+Übermorgen auch?
+
+840
+00:47:00,960 --> 00:47:02,040
+- Übermorgen?
+
+841
+00:47:02,080 --> 00:47:04,000
+Äh, also am Dreiundzwanzigsten?
+
+842
+00:47:06,120 --> 00:47:08,400
+- Kleiner Tipp: Morgen ist der
+Zweiundzwanzigste,
+
+843
+00:47:08,440 --> 00:47:11,320
+dann ist übermorgen der …
+Dreiundzwanzigste.
+
+844
+00:47:11,320 --> 00:47:12,120
+- Sehr witzig …
+
+845
+00:47:12,480 --> 00:47:17,280
+Äh, nein, übermorgen habe ich
+mittags keine Termine. Nur morgen.
+
+846
+00:47:17,280 --> 00:47:19,840
+- Okay. Ähm, aber denkst du dran:
+
+847
+00:47:19,840 --> 00:47:22,680
+Vom ersten bis zum siebten November
+hab' ich noch mal Frühdienst.
+
+848
+00:47:23,040 --> 00:47:25,200
+- Vom ersten bis zum siebten November.
+
+849
+00:47:25,320 --> 00:47:27,480
+Ja! Das habe ich auch so in
+meinem Kalender stehen.
+
+850
+00:47:27,480 --> 00:47:28,960
+- Cool, okay!
+
+851
+00:47:32,760 --> 00:47:34,960
+- „Das Marek“, hier ist Tarek!
+
+852
+00:47:35,000 --> 00:47:36,120
+Hallo.
+
+853
+00:47:36,680 --> 00:47:39,440
+Ja, auch am Wochenende öffnen wir
+morgens um neun
+
+854
+00:47:39,440 --> 00:47:41,440
+und schließen abends um elf Uhr.
+
+855
+00:47:41,680 --> 00:47:42,520
+Ja!
+
+856
+00:47:43,120 --> 00:47:44,120
+Heute Abend?
+
+857
+00:47:44,120 --> 00:47:45,520
+Sie möchten einen Tisch reservieren?
+
+858
+00:47:46,000 --> 00:47:47,040
+Ähm,
+
+859
+00:47:47,360 --> 00:47:48,200
+hm.
+
+860
+00:47:49,320 --> 00:47:51,800
+Um Viertel vor sieben …
+
+861
+00:47:51,840 --> 00:47:55,120
+Tut mir leid. Wir haben leider erst um
+Viertel vor acht einen Tisch frei.
+
+862
+00:47:55,840 --> 00:47:57,560
+Am Fenster, natürlich.
+
+863
+00:47:58,320 --> 00:47:59,160
+Alles klar.
+
+864
+00:47:59,320 --> 00:48:01,640
+Okay. Wir freuen uns auf Sie!
+Danke! Auf Wiederhören!
+
+865
+00:48:03,720 --> 00:48:05,400
+Danke, Nico. Für deine Hilfe!
+
+866
+00:48:05,400 --> 00:48:06,960
+- Das mache ich gern.
+
+867
+00:48:11,480 --> 00:48:13,480
+- Max, Tarek. Wie geht's?
+
+868
+00:48:13,480 --> 00:48:15,600
+- Hallo, Yanis! Uns geht es gut, danke.
+Wie geht's euch?
+
+869
+00:48:15,880 --> 00:48:16,840
+- Sehr gut, danke.
+
+870
+00:48:16,880 --> 00:48:19,920
+Wir hätten gern zweimal
+das Mittagsmenü mit Fisch.
+
+871
+00:48:19,920 --> 00:48:21,640
+- Sehr gerne. Setzt euch!
+
+872
+00:48:21,640 --> 00:48:22,800
+- Getränke wie immer?
+
+873
+00:48:22,840 --> 00:48:23,840
+- Wie immer, Tarek!
+
+874
+00:48:25,680 --> 00:48:27,120
+- Sind das deine Freunde?
+
+875
+00:48:27,200 --> 00:48:30,760
+- Ja, wir spielen oft
+zusammen Fußball.
+
+876
+00:48:30,760 --> 00:48:34,720
+- Apropos, Max. Wann spielen wir mal
+wieder zusammen Fußball? Diese Woche?
+
+877
+00:48:34,960 --> 00:48:40,000
+- Nein, diese Woche kann ich nicht.
+Aber nächste Woche geht's.
+
+878
+00:48:40,040 --> 00:48:41,360
+Am Freitag oder Samstag?
+
+879
+00:48:41,400 --> 00:48:42,320
+- Samstag kann ich nicht.
+
+880
+00:48:42,320 --> 00:48:44,520
+Da treffe ich Anna
+nachmittags im Schwimmbad.
+
+881
+00:48:44,760 --> 00:48:46,560
+- Dann treffen wir uns am Freitag.
+Geht das?
+
+882
+00:48:46,560 --> 00:48:49,160
+- Ja, das geht. Ah, ne, Moment!
+Das geht doch nicht.
+
+883
+00:48:49,160 --> 00:48:50,360
+Robert kann am Freitag nicht.
+
+884
+00:48:50,400 --> 00:48:51,160
+– Ah!
+
+885
+00:48:51,200 --> 00:48:59,000
+- Dann sind wir nur sieben, oder? Max,
+Julius, Linus, Daniel, Yanis, Lasse und ich.
+
+886
+00:49:00,000 --> 00:49:02,000
+Wir brauchen eine achte Person.
+
+887
+00:49:04,400 --> 00:49:06,680
+- Spielst du mit uns Fußball?
+Hast du Lust?
+
+888
+00:49:08,760 --> 00:49:11,440
+- Fußball? Ja, wann?
+
+889
+00:49:11,440 --> 00:49:15,040
+- Wir treffen uns nächste Woche am
+Freitag. Um wie viel Uhr, Max? Um eins?
+
+890
+00:49:15,120 --> 00:49:17,120
+- Das ist zu früh. Ich kann erst um zwei.
+
+891
+00:49:17,120 --> 00:49:19,680
+- Also nächste Woche Freitag um zwei Uhr!
+
+892
+00:49:19,800 --> 00:49:21,240
+- Und wo?
+
+893
+00:49:21,280 --> 00:49:23,000
+- Wir treffen uns hier im Restaurant.
+
+894
+00:49:23,440 --> 00:49:26,840
+- Okay! Ich spiele gerne Fußball!
+
+895
+00:49:26,920 --> 00:49:28,000
+- Super!
+
+896
+00:49:28,120 --> 00:49:30,600
+- Oh, Nico!
+Entschuldigung, ich komme viel zu spät!
+
+897
+00:49:31,040 --> 00:49:32,560
+Normalerweise bin ich nicht so unpünktlich.
+
+898
+00:49:32,680 --> 00:49:33,640
+- Hallo, Lisa!
+
+899
+00:49:33,960 --> 00:49:34,680
+- Hallo!
+
+900
+00:49:34,680 --> 00:49:35,720
+- Na, wie geht's?
+
+901
+00:49:35,720 --> 00:49:39,840
+- Geht so. Der Verkehr ist eine Katastrophe.
+Und ich war eine halbe Stunde im Stau.
+
+902
+00:49:40,360 --> 00:49:41,000
+- Stau?
+
+903
+00:49:41,040 --> 00:49:44,920
+- Ja, Stau. Ähm, das heißt,
+es sind zu viele Autos auf den Straßen.
+
+904
+00:49:44,920 --> 00:49:46,200
+Es geht alles sehr langsam ...
+
+905
+00:49:47,440 --> 00:49:50,040
+Äh, Nico braucht ein Zimmer.
+
+906
+00:49:51,560 --> 00:49:53,680
+- Ach ja, eure Wohnung wird renoviert.
+
+907
+00:49:53,960 --> 00:49:55,880
+- Ja, unsere Heizung ist kaputt.
+
+908
+00:49:55,920 --> 00:49:59,280
+Und Nawin, Nina, Sebastian und ich
+fahren übermorgen in Urlaub.
+
+909
+00:50:00,200 --> 00:50:01,000
+- Das Hostel?
+
+910
+00:50:02,360 --> 00:50:03,840
+- Es sind keine Zimmer mehr frei.
+
+911
+00:50:05,640 --> 00:50:06,440
+- Keine Zimmer?
+
+912
+00:50:06,720 --> 00:50:09,560
+- Nein, alle Zimmer sind reserviert.
+Keine Chance.
+
+913
+00:50:09,680 --> 00:50:11,480
+- Oh, nein!
+
+914
+00:50:12,080 --> 00:50:13,680
+- Wie lange bleibst du denn in Deutschland?
+
+915
+00:50:13,840 --> 00:50:16,480
+- Nicos Tasche und sein Pass sind
+immer noch weg.
+
+916
+00:50:17,120 --> 00:50:18,840
+- Das ist wirklich ein Problem.
+
+917
+00:50:19,640 --> 00:50:22,160
+- Hostel, Papperlapapp!
+
+918
+00:50:22,560 --> 00:50:24,040
+Ich habe doch Platz.
+
+919
+00:50:24,160 --> 00:50:26,880
+Der nette junge Mann kann gern
+ein paar Tage bei mir wohnen.
+
+920
+00:50:27,200 --> 00:50:27,920
+- Inge!
+
+921
+00:50:28,080 --> 00:50:30,640
+- Komm einfach vorbei.
+Hier ist meine Adresse.
+
+922
+00:50:30,640 --> 00:50:32,080
+- Danke, Frau …
+
+923
+00:50:32,240 --> 00:50:35,280
+- Inge, mein Lieber!
+Also, bis morgen dann!
+
+924
+00:50:35,400 --> 00:50:36,560
+- Bis morgen!
+- Tschüss!
+
+925
+00:50:37,880 --> 00:50:39,360
+- Danke Frau Inge, mein Lieber!
+
+926
+00:50:41,600 --> 00:50:44,240
+- Das ist die Adresse und die
+Telefonnummer.
+
+927
+00:50:44,520 --> 00:50:46,800
+- Ich kenne die Adresse.
+Ich komme morgen mit.
+
+928
+00:50:47,320 --> 00:50:49,160
+- Das ist super!
+
+929
+00:50:50,200 --> 00:50:51,440
+- Wohin gehst du?
+
+930
+00:50:51,560 --> 00:50:53,760
+- Ich habe gleich ein Bewerbungsgespräch.
+
+931
+00:50:55,640 --> 00:50:58,440
+- Was ist dein Beruf?
+Arbeitest du nicht als Lehrerin?
+
+932
+00:50:58,600 --> 00:51:01,040
+- Doch. Ich bin Lehrerin für
+Deutsch und Englisch.
+
+933
+00:51:01,040 --> 00:51:03,720
+Aber ich habe keine feste Arbeit
+an einer Schule.
+
+934
+00:51:03,840 --> 00:51:06,320
+- Und die Sprachkurse?
+
+935
+00:51:06,400 --> 00:51:10,120
+- Die Sprachkurse sind nur ein Nebenjob.
+Jetzt brauch' ich eine richtige Arbeit.
+
+936
+00:51:10,800 --> 00:51:11,640
+- Viel Erfolg!
+
+937
+00:51:11,640 --> 00:51:12,440
+- Viel Glück!
+
+938
+00:51:12,480 --> 00:51:13,480
+- Danke. Tschüss!
+
+939
+00:51:13,480 --> 00:51:14,480
+- Ciao, Lisa!
+
+940
+00:51:14,840 --> 00:51:16,040
+- Arbeitest du schon?
+
+941
+00:51:18,920 --> 00:51:20,520
+Welchen Beruf findest du gut?
+
+942
+00:51:20,760 --> 00:51:22,600
+Möchtest du auch Lehrer werden?
+
+943
+00:51:22,800 --> 00:51:25,000
+- Meine Eltern sagen, Ingenieur ist gut.
+
+944
+00:51:26,480 --> 00:51:27,600
+- Und du?
+
+945
+00:51:28,000 --> 00:51:30,840
+Ich war lange in einer Bank.
+Ich bin Bankkaufmann.
+
+946
+00:51:31,640 --> 00:51:34,480
+- Das verstehe ich nicht.
+Du hast doch ein Restaurant.
+
+947
+00:51:34,640 --> 00:51:36,640
+- Stimmt. Zusammen mit Tarek.
+
+948
+00:51:37,280 --> 00:51:39,280
+Tarek ist eigentlich Elektriker von Beruf.
+
+949
+00:51:39,880 --> 00:51:41,080
+- Warum?
+
+950
+00:51:42,440 --> 00:51:46,720
+- Naja, wir finden die Arbeit im
+Restaurant interessant. Das macht Spaß.
+
+951
+00:51:47,960 --> 00:51:49,960
+Und hier sind Tarek und ich die Chefs.
+
+952
+00:51:50,640 --> 00:51:52,440
+- Du arbeitest also gerne im Restaurant.
+
+953
+00:51:52,640 --> 00:51:55,000
+- Ja, ich mag meine Arbeit.
+
+954
+00:51:56,000 --> 00:51:57,640
+Und Tarek auch. Oder Tarek?
+
+955
+00:51:58,080 --> 00:51:59,520
+- Klar mag ich meinen Job.
+
+956
+00:52:00,080 --> 00:52:02,280
+Und du findest bestimmt
+auch noch 'ne gute Arbeit!
+
+957
+00:52:08,800 --> 00:52:10,920
+- Tschüss, ihr Lieben!
+Der Fisch war sehr lecker.
+
+958
+00:52:11,080 --> 00:52:13,200
+- Das freut uns.
+Wir sehen uns nächste Woche beim Fußball.
+
+959
+00:52:13,480 --> 00:52:15,080
+- Ja, bis dann! Am Freitag um eins.
+
+960
+00:52:15,240 --> 00:52:17,480
+- Nein, Yanis, wir sehen uns
+am Freitag um zwei.
+
+961
+00:52:23,680 --> 00:52:24,400
+- Max?
+
+962
+00:52:24,560 --> 00:52:25,480
+- Ja?
+
+963
+00:52:25,960 --> 00:52:27,800
+- Was muss ein Bankkaufmann machen?
+
+964
+00:52:27,880 --> 00:52:29,520
+- Ein Bankkaufmann?
+
+965
+00:52:30,880 --> 00:52:31,680
+Äh …
+
+966
+00:52:32,080 --> 00:52:33,120
+- Geld zählen?
+
+967
+00:52:33,120 --> 00:52:35,840
+- Ja, manchmal muss ein Bankkaufmann
+auch Geld zählen.
+
+968
+00:52:35,880 --> 00:52:40,080
+Und ein Bankkaufmann muss Kunden
+beraten, er muss Finanzen überprüfen
+
+969
+00:52:40,120 --> 00:52:42,040
+und Termine mit Kunden organisieren.
+
+970
+00:52:42,080 --> 00:52:43,480
+- Ah, okay.
+
+971
+00:52:43,480 --> 00:52:45,280
+- Es ist viel Büroarbeit.
+
+972
+00:52:47,320 --> 00:52:48,680
+- Büroarbeit?
+
+973
+00:52:48,880 --> 00:52:50,880
+- Ja, Büroarbeit.
+
+974
+00:52:51,000 --> 00:52:53,160
+Du musst zum Beispiel …
+
+975
+00:52:54,320 --> 00:52:57,400
+E-Mails schreiben und
+Verträge unterschreiben.
+
+976
+00:52:57,480 --> 00:53:00,280
+Und natürlich immer schön freundlich sein!
+
+977
+00:53:00,520 --> 00:53:01,880
+- Das müssen wir im Restaurant auch.
+
+978
+00:53:01,880 --> 00:53:03,400
+- Ja, aber nicht immer.
+
+979
+00:53:04,320 --> 00:53:05,880
+- Und ein Elektriker?
+
+980
+00:53:06,000 --> 00:53:11,080
+- Ein Elektriker muss Geräte installieren
+oder er repariert etwas.
+
+981
+00:53:11,520 --> 00:53:12,760
+- Das klingt cool!
+
+982
+00:53:12,800 --> 00:53:13,880
+- Das ist es auch.
+
+983
+00:53:14,080 --> 00:53:18,800
+Aber Max hat recht. Hier sind wir
+die Chefs. Das ist besser. Das mag ich.
+
+984
+00:53:19,160 --> 00:53:22,920
+- Ja. Wir müssen viel arbeiten.
+Aber die Arbeit ist super.
+
+985
+00:53:23,880 --> 00:53:24,800
+- Cool.
+
+986
+00:53:24,840 --> 00:53:25,920
+- Was ist das denn?
+
+987
+00:53:28,880 --> 00:53:32,280
+Oh, nein. Das ist Lisas Mappe.
+Die braucht sie.
+
+988
+00:53:32,280 --> 00:53:34,920
+- Ja, na los! Bringt Lisa die Mappe!
+
+989
+00:53:35,320 --> 00:53:36,320
+- Komm!
+
+990
+00:53:38,600 --> 00:53:41,760
+- Hallo, guten Tag.
+Ich suche Lisa Brunner.
+
+991
+00:53:42,360 --> 00:53:44,080
+- Entschuldigung, wen suchen Sie?
+
+992
+00:53:44,080 --> 00:53:44,960
+- Lisa Brunner.
+
+993
+00:53:44,960 --> 00:53:47,960
+- Hallo, Max Stöpel mein Name.
+Wir suchen eine Lisa Brunner.
+
+994
+00:53:48,000 --> 00:53:49,960
+Sie hat hier um 14 Uhr
+ein Bewerbungsgespräch.
+
+995
+00:53:50,160 --> 00:53:54,200
+- Also, die Bewerbungsgespräche finden
+normalerweise im Besprechungsraum statt.
+
+996
+00:53:54,360 --> 00:53:56,360
+- Wo, wo, ey ey ey,
+wo finden wir den Besprechungsraum?
+
+997
+00:53:56,400 --> 00:53:57,760
+- In der dritten Etage.
+
+998
+00:53:58,360 --> 00:53:59,720
+Aber, nein, warten Sie!
+
+999
+00:53:59,800 --> 00:54:02,000
+Ich glaube, heute finden
+die Bewerbungsgespräche
+
+1000
+00:54:02,000 --> 00:54:04,440
+in der vierten Etage
+neben der Kantine statt.
+
+1001
+00:54:04,640 --> 00:54:05,680
+- Aha.
+
+1002
+00:54:05,920 --> 00:54:09,160
+- Sie nehmen den Aufzug,
+fahren in die vierte Etage.
+
+1003
+00:54:09,200 --> 00:54:13,280
+Da gehen Sie links, dann rechts
+und wieder links.
+
+1004
+00:54:13,360 --> 00:54:15,360
+Der Besprechungsraum ist rechts.
+
+1005
+00:54:15,360 --> 00:54:18,200
+Zimmer 431.
+
+1006
+00:54:18,280 --> 00:54:20,680
+- 431. Vielen Dank!
+
+1007
+00:54:22,840 --> 00:54:27,160
+- 431, 431, wo ist die 431?
+
+1008
+00:54:27,240 --> 00:54:28,760
+- Da, ein Lageplan!
+
+1009
+00:54:28,960 --> 00:54:32,000
+Wir sind hier, neben den Toiletten.
+
+1010
+00:54:33,840 --> 00:54:35,600
+- Da. Zwischen den …
+
+1011
+00:54:35,600 --> 00:54:37,360
+- … Konferenzräumen.
+
+1012
+00:54:38,640 --> 00:54:39,960
+Da lang!
+
+1013
+00:54:42,240 --> 00:54:43,720
+- Nein, da lang!
+
+1014
+00:54:46,360 --> 00:54:47,640
+Lisa!
+
+1015
+00:54:47,840 --> 00:54:49,760
+- Du hast deine
+Bewerbungsunterlagen vergessen.
+
+1016
+00:54:49,760 --> 00:54:53,440
+- Oh, mein Gott! Ihr seid meine Retter!
+Danke, danke, danke, danke!
+
+1017
+00:55:31,600 --> 00:55:33,600
+- Du bist so still.
+
+1018
+00:55:43,520 --> 00:55:45,520
+Was ist denn?
+
+1019
+00:55:46,640 --> 00:55:48,720
+- Ich will nicht mehr studieren.
+Nie wieder.
+
+1020
+00:55:49,720 --> 00:55:51,000
+Ich hasse es.
+
+1021
+00:55:52,400 --> 00:55:53,920
+- Aber?
+
+1022
+00:55:55,160 --> 00:55:56,800
+- Aber meine Eltern wollen das.
+
+1023
+00:55:57,400 --> 00:55:59,600
+Mein Vater sagt immer, ich muss studieren.
+
+1024
+00:55:59,800 --> 00:56:01,360
+- Bist du deshalb in Deutschland?
+
+1025
+00:56:03,880 --> 00:56:05,880
+- Ich will weg von zu Hause.
+
+1026
+00:56:06,440 --> 00:56:07,720
+Weit weg!
+
+1027
+00:56:08,960 --> 00:56:10,520
+- Und was willst du hier machen?
+
+1028
+00:56:19,040 --> 00:56:20,640
+- Und?
+- Und?
+
+1029
+00:56:21,640 --> 00:56:22,680
+- Ich hab' den Job!
+
+1030
+00:56:22,680 --> 00:56:23,640
+- Ja?
+
+1031
+00:56:28,560 --> 00:56:30,760
+- Vielen Dank für die Sachen.
+Ich gebe sie dir bald zurück, ja?
+
+1032
+00:56:30,760 --> 00:56:31,680
+- Gerne, Nico.
+
+1033
+00:56:31,680 --> 00:56:33,800
+Die zwei T-Shirts und die Hose
+kannst du behalten.
+
+1034
+00:56:33,880 --> 00:56:36,320
+Die Tasche und die Jacke
+brauche ich unbedingt zurück.
+
+1035
+00:56:36,320 --> 00:56:38,320
+- Auf jeden Fall. Danke!
+- Ja!
+
+1036
+00:56:38,920 --> 00:56:42,200
+Oh, schon 10 Uhr. Ich muss unbedingt
+noch etwas für unseren Urlaub einkaufen.
+
+1037
+00:56:42,680 --> 00:56:46,480
+Lisa, was brauchen wir?
+Sonnencreme, Saft …
+
+1038
+00:56:46,680 --> 00:56:47,800
+- Wo kaufst du ein?
+
+1039
+00:56:47,800 --> 00:56:50,720
+- Ähm…
+Ich kaufe im Supermarkt um die Ecke ein.
+
+1040
+00:56:50,800 --> 00:56:52,680
+- Ja, dann bring doch bitte noch Wasser mit.
+
+1041
+00:56:52,680 --> 00:56:53,720
+- Okay!
+
+1042
+00:57:09,120 --> 00:57:09,960
+- Emma?
+
+1043
+00:57:09,960 --> 00:57:11,080
+- Ja?
+
+1044
+00:57:11,640 --> 00:57:13,840
+- Ich habe ein Geschenk für dich!
+
+1045
+00:57:13,840 --> 00:57:14,440
+- Echt?
+
+1046
+00:57:14,480 --> 00:57:15,720
+- Hm!
+- Cool!
+
+1047
+00:57:20,160 --> 00:57:21,040
+Dein Bild!
+
+1048
+00:57:21,080 --> 00:57:22,520
+- Ja, für dich!
+
+1049
+00:57:23,400 --> 00:57:25,000
+- Ich habe auch ein Geschenk für dich.
+
+1050
+00:57:28,280 --> 00:57:31,080
+Hier, ein Notizbuch.
+Für alle neuen Wörter auf Deutsch.
+
+1051
+00:57:34,240 --> 00:57:35,400
+Und Seifenblasen!
+
+1052
+00:57:36,680 --> 00:57:38,400
+- Danke, Emma!
+
+1053
+00:57:38,440 --> 00:57:39,920
+- Wo wohnst du jetzt?
+
+1054
+00:57:40,120 --> 00:57:42,000
+- Ich wohne bei Frau Kohlhaas.
+
+1055
+00:57:42,000 --> 00:57:44,160
+Sie ist sehr nett und wohnt
+in der Kälberstraße.
+
+1056
+00:57:44,160 --> 00:57:46,280
+- Kälberstraße? Wo ist das?
+
+1057
+00:57:50,000 --> 00:57:54,120
+- Ähm … hier, da!
+
+1058
+00:57:55,320 --> 00:57:58,200
+- Ah, da ist der Friedensplatz.
+
+1059
+00:57:58,320 --> 00:58:00,080
+Da arbeiten Max und Tarek.
+
+1060
+00:58:00,120 --> 00:58:02,720
+Ich arbeite neben dem Theater.
+
+1061
+00:58:02,720 --> 00:58:07,000
+Und die Kälberstraße ist in der Nähe
+vom Restaurant und der Sprachschule.
+
+1062
+00:58:07,000 --> 00:58:09,880
+- Und hier ist die Polizeistation.
+Hier arbeitet Opa.
+
+1063
+00:58:11,360 --> 00:58:12,360
+Opa!
+
+1064
+00:58:19,400 --> 00:58:21,640
+- Oh, Emma, Vorsicht!
+
+1065
+00:58:22,120 --> 00:58:23,160
+- Hallo, Papa!
+
+1066
+00:58:23,160 --> 00:58:24,440
+- Hallo, Lisa!
+
+1067
+00:58:25,880 --> 00:58:27,560
+War die Woche schön bei Tante Lisa?
+
+1068
+00:58:27,600 --> 00:58:29,120
+- Ja! Das machen wir jetzt öfter.
+
+1069
+00:58:29,280 --> 00:58:30,040
+- Ja klar!
+
+1070
+00:58:31,640 --> 00:58:33,680
+- Herr González. Wie geht es Ihnen?
+
+1071
+00:58:33,800 --> 00:58:35,120
+- Es geht mir gut, danke!
+
+1072
+00:58:35,400 --> 00:58:37,280
+- Hallo, haben Sie Nicos Tasche gefunden?
+
+1073
+00:58:37,920 --> 00:58:40,800
+- Leider nicht.
+Aber ich hab' den Fahrradladen gefunden.
+
+1074
+00:58:40,800 --> 00:58:41,440
+- Was?
+
+1075
+00:58:41,520 --> 00:58:45,320
+- Ja. Es gibt zumindest eine Yara
+González, die einen Fahrradladen hat.
+
+1076
+00:58:45,520 --> 00:58:46,840
+- Ja, das ist sie!
+
+1077
+00:58:47,400 --> 00:58:50,640
+- Der Fahrradladen ist
+in der Adalbert-Stifter-Straße 43.
+
+1078
+00:58:50,760 --> 00:58:53,520
+Das ist im Zentrum
+in der Nähe vom Arbeitsamt.
+
+1079
+00:58:53,720 --> 00:58:54,320
+- Und?
+
+1080
+00:58:54,360 --> 00:58:55,200
+- Ich war da.
+
+1081
+00:58:55,840 --> 00:58:57,640
+Das ist der Laden auf dem Foto.
+
+1082
+00:58:58,120 --> 00:58:58,920
+- Ja!
+
+1083
+00:59:00,360 --> 00:59:02,360
+- Und wie kommen wir da hin?
+
+1084
+00:59:02,360 --> 00:59:04,520
+- Zuerst fahrt ihr mit dem Bus
+bis zum Grafenplatz.
+
+1085
+00:59:05,000 --> 00:59:06,880
+- Mit dem Bus zum Grafenplatz.
+
+1086
+00:59:06,920 --> 00:59:08,520
+Okay, den kenne ich.
+Und weiter?
+
+1087
+00:59:08,520 --> 00:59:11,640
+- Dann geht ihr über den Grafenplatz
+und kommt in die Krugstraße.
+
+1088
+00:59:11,920 --> 00:59:13,160
+- In die Krugstraße?
+
+1089
+00:59:13,240 --> 00:59:14,160
+- Ja, genau.
+
+1090
+00:59:14,320 --> 00:59:18,200
+Geht die Krugstraße entlang,
+überquert die große Kreuzung,
+
+1091
+00:59:18,920 --> 00:59:23,120
+dann geht ihr am Theater vorbei
+und an der nächsten Ampel rechts.
+
+1092
+00:59:23,240 --> 00:59:24,600
+Weißt du wo?
+
+1093
+00:59:24,840 --> 00:59:26,160
+- Ja ja. Das ist nicht weit.
+
+1094
+00:59:26,160 --> 00:59:30,000
+Am Theater vorbei und
+dann die zweite Ampel rechts …
+
+1095
+00:59:30,000 --> 00:59:31,440
+- Hm, noch mal …
+
+1096
+00:59:31,520 --> 00:59:33,800
+- Nein Papa, schon okay.
+Ich schau im Handy nach.
+
+1097
+00:59:36,040 --> 00:59:38,560
+Also, gehen Sie bis zum Grafenplatz.
+
+1098
+00:59:38,600 --> 00:59:40,840
+Biegen Sie dann links in die Krugstraße.
+
+1099
+00:59:40,840 --> 00:59:42,440
+Überqueren Sie die Schlossstraße
+
+1100
+00:59:42,440 --> 00:59:46,240
+und biegen Sie an der nächsten Kreuzung
+rechts in die Adalbert-Stifter-Straße.
+
+1101
+00:59:46,360 --> 00:59:47,320
+- Okay!
+
+1102
+00:59:47,720 --> 00:59:49,440
+- Alles klar! Los geht's!
+
+1103
+00:59:53,600 --> 00:59:55,680
+- So, hier. Hier ist Yaras Fahrradladen.
+
+1104
+00:59:55,720 --> 00:59:56,440
+- Also dann …
+
+1105
+00:59:57,840 --> 01:00:00,360
+- Äh, und wie kommt ihr jetzt nach Hause?
+Fahrt ihr nicht mit dem Bus?
+
+1106
+01:00:00,440 --> 01:00:03,400
+- Wir fahren mit der U-Bahn bis zur Uni.
+Den Rest gehen wir dann zu Fuß.
+
+1107
+01:00:03,640 --> 01:00:05,560
+Oder fahren wir mit der
+Straßenbahn?
+
+1108
+01:00:05,560 --> 01:00:06,320
+- Straßenbahn!
+
+1109
+01:00:06,600 --> 01:00:10,440
+- Okay, also, die nächste Haltestelle
+ist direkt hinter der Kreuzung.
+
+1110
+01:00:10,440 --> 01:00:12,080
+- Das weiß ich ja.
+- Die nächste Straße links und ...
+
+1111
+01:00:12,080 --> 01:00:13,680
+- Emma, du musst dich jetzt verabschieden.
+
+1112
+01:00:13,680 --> 01:00:15,160
+- Muss ich?
+
+1113
+01:00:17,000 --> 01:00:20,040
+- Tschüss, Emma. Es war hoffentlich
+schön bei mir. Kommst du bald wieder?
+
+1114
+01:00:20,040 --> 01:00:22,120
+- Ja! Bei dir ist es immer cool.
+
+1115
+01:00:22,120 --> 01:00:24,000
+- Okay. Tschüss.
+
+1116
+01:00:25,920 --> 01:00:27,560
+- Sehen wir uns wieder?
+
+1117
+01:00:28,280 --> 01:00:29,600
+- Ich weiß es nicht.
+
+1118
+01:00:35,880 --> 01:00:37,520
+- Viel Glück!
+
+1119
+01:00:37,720 --> 01:00:38,720
+- Danke!
+
+1120
+01:00:39,840 --> 01:00:41,840
+- Ciao!
+- Tschüss!
+
+1121
+01:00:49,000 --> 01:00:50,240
+- Hast du schon im Schrank geschaut?
+
+1122
+01:00:50,720 --> 01:00:51,400
+- Ja.
+
+1123
+01:00:52,040 --> 01:00:55,600
+- Vielleicht unter der Tastatur oder,
+oder hinter dem Drucker?
+
+1124
+01:01:01,200 --> 01:01:02,200
+- Nichts!
+
+1125
+01:01:03,520 --> 01:01:06,200
+- Hier im Regal sehe ich auch nichts.
+
+1126
+01:01:07,080 --> 01:01:09,040
+- Dann ist es wohl nicht da.
+
+1127
+01:01:09,080 --> 01:01:10,960
+- Doch, es muss da sein, ganz sicher.
+
+1128
+01:01:11,400 --> 01:01:12,840
+Einen Moment, bitte!
+
+1129
+01:01:27,880 --> 01:01:29,480
+Ich habe es gefunden!
+
+1130
+01:01:31,400 --> 01:01:32,600
+- Das ist der Fahrradladen!
+
+1131
+01:01:36,480 --> 01:01:39,400
+- Ja, stimmt. Aber vorübergehend
+geschlossen …
+
+1132
+01:01:39,400 --> 01:01:40,440
+- Geschlossen?
+
+1133
+01:01:41,080 --> 01:01:43,920
+- Ja, zu. Geschlossen.
+Yara ist nicht da.
+
+1134
+01:01:45,280 --> 01:01:47,120
+- Aber das kann nicht sein.
+Wo ist Yara?
+
+1135
+01:01:49,040 --> 01:01:50,000
+- Endlich!
+
+1136
+01:01:50,640 --> 01:01:51,760
+- Und die Quittung, bitte.
+
+1137
+01:01:54,160 --> 01:01:55,280
+- Schönen Tag noch.
+
+1138
+01:02:12,200 --> 01:02:13,440
+- So!
+
+1139
+01:02:14,200 --> 01:02:17,600
+Ich glaube, der Kühlschrank
+ist zu klein für all das.
+
+1140
+01:02:24,960 --> 01:02:27,600
+Ah, das sind die Birnen
+meiner Schwester.
+
+1141
+01:02:28,720 --> 01:02:32,640
+Na ja … das waren die Birnen
+von meiner Schwester.
+
+1142
+01:02:34,200 --> 01:02:35,360
+Entschuldige, Klara.
+
+1143
+01:02:36,200 --> 01:02:41,560
+So! Jetzt, das hier ist das Obst.
+
+1144
+01:02:41,600 --> 01:02:49,800
+Die Äpfel … die Orangen und die
+Birnen kommen auf den Teller.
+
+1145
+01:02:52,560 --> 01:02:56,960
+Das Fleisch kommt hier oben hin.
+
+1146
+01:02:57,880 --> 01:03:00,600
+Was ist das? Ach, der Käse.
+
+1147
+01:03:02,440 --> 01:03:03,680
+So!
+
+1148
+01:03:04,040 --> 01:03:06,560
+Jetzt die Sachen für das Frühstück:
+
+1149
+01:03:06,560 --> 01:03:11,560
+Die Marmelade, die Butter,
+der Quark und der Schinken.
+
+1150
+01:03:13,200 --> 01:03:14,480
+Ich bin bereit.
+
+1151
+01:03:17,320 --> 01:03:19,880
+Ich bekomme heute nämlich
+Besuch, Günther.
+
+1152
+01:03:20,280 --> 01:03:21,480
+Für ein paar Tage.
+
+1153
+01:03:21,920 --> 01:03:23,720
+Von einem jungen Mann.
+
+1154
+01:03:24,880 --> 01:03:26,520
+Ich hoffe, das ist okay.
+
+1155
+01:03:38,640 --> 01:03:40,680
+- Hallo, ihr Lieben. Kommt rein!
+
+1156
+01:03:40,840 --> 01:03:41,640
+- Hallo!
+
+1157
+01:03:41,640 --> 01:03:42,280
+- Danke schön!
+
+1158
+01:03:42,400 --> 01:03:44,400
+- Wo sind deine Sachen?
+Ist das alles?
+
+1159
+01:03:44,640 --> 01:03:45,520
+- Ja.
+
+1160
+01:03:45,520 --> 01:03:46,960
+- Ach herrje!
+
+1161
+01:03:46,960 --> 01:03:49,840
+- Danke noch mal, dass Nico ein
+paar Tage bei Ihnen wohnen kann.
+
+1162
+01:03:49,840 --> 01:03:51,920
+- Jaja. Das ist doch kein Problem.
+
+1163
+01:03:51,920 --> 01:03:53,480
+Möchten Sie etwas trinken?
+
+1164
+01:03:54,000 --> 01:03:57,400
+- Ich muss leider sofort wieder gehen.
+Ich fahre heute noch in den Urlaub.
+
+1165
+01:03:58,680 --> 01:04:01,760
+Ähm, ich komme bald wieder.
+
+1166
+01:04:01,760 --> 01:04:03,840
+- Okay. Danke, Lisa, für alles.
+
+1167
+01:04:05,240 --> 01:04:06,280
+- Tschüss!
+
+1168
+01:04:06,320 --> 01:04:07,040
+- Wiedersehen.
+
+1169
+01:04:09,080 --> 01:04:12,240
+So, und du!
+Was möchtest du denn trinken?
+
+1170
+01:04:12,240 --> 01:04:16,880
+Möchtest du Apfelsaft oder
+lieber eine Apfelsaftschorle?
+
+1171
+01:04:16,880 --> 01:04:19,120
+- Schorle? Was ist das?
+
+1172
+01:04:19,560 --> 01:04:22,760
+- Das ist Saft mit Mineralwasser.
+
+1173
+01:04:24,280 --> 01:04:25,840
+- Dann nehme ich eine Schorle, bitte.
+
+1174
+01:04:25,840 --> 01:04:26,920
+- Gut.
+
+1175
+01:04:27,200 --> 01:04:28,880
+- Möchtest du auch etwas essen?
+
+1176
+01:04:30,480 --> 01:04:31,240
+- Jetzt?
+
+1177
+01:04:31,280 --> 01:04:33,040
+- Ja, was magst du denn?
+
+1178
+01:04:33,440 --> 01:04:34,600
+- Was gibt es denn?
+
+1179
+01:04:34,600 --> 01:04:40,440
+- Es gibt Fleisch, Fisch und Gemüse.
+Magst du Karotten?
+
+1180
+01:04:40,920 --> 01:04:42,120
+- Karotten …
+
+1181
+01:04:42,120 --> 01:04:44,560
+- Ich esse gerne Karotten. Und du?
+
+1182
+01:04:44,560 --> 01:04:47,320
+- Ich esse auch gern Karotten,
+aber Tomaten …
+
+1183
+01:04:48,040 --> 01:04:50,840
+- Du isst lieber Tomaten.
+
+1184
+01:04:51,560 --> 01:04:53,560
+- Ja, ich esse lieber Tomaten.
+
+1185
+01:04:54,040 --> 01:04:57,640
+- Und Kohlrabi? Isst du Kohlrabi
+am liebsten?
+
+1186
+01:04:57,840 --> 01:05:01,040
+- Nein, ich finde Kohlrabi nicht so lecker.
+
+1187
+01:05:02,560 --> 01:05:04,080
+- Danke für deine Hilfe!
+
+1188
+01:05:04,080 --> 01:05:04,880
+- Hm …
+
+1189
+01:05:05,240 --> 01:05:06,680
+- Äh, Nico.
+
+1190
+01:05:08,640 --> 01:05:10,760
+Möchtest du lieber abwaschen?
+
+1191
+01:05:10,760 --> 01:05:11,840
+- Abwaschen?
+
+1192
+01:05:11,960 --> 01:05:14,960
+- Spülen, das Geschirr spülen.
+
+1193
+01:05:15,240 --> 01:05:17,080
+- Ja, ich möchte lieber abwaschen.
+
+1194
+01:05:17,200 --> 01:05:19,120
+- Charmant, der junge Mann.
+
+1195
+01:05:19,160 --> 01:05:19,760
+- Hä?
+
+1196
+01:05:19,760 --> 01:05:20,600
+- Ach, nichts.
+
+1197
+01:05:21,080 --> 01:05:23,600
+Fang du dort an, ich mache hier weiter.
+
+1198
+01:05:27,280 --> 01:05:28,160
+Nico?
+
+1199
+01:05:28,240 --> 01:05:29,600
+Alles in Ordnung?
+
+1200
+01:05:30,840 --> 01:05:31,920
+- Entschuldigung!
+
+1201
+01:05:32,080 --> 01:05:33,760
+- Kein Problem.
+
+1202
+01:05:35,320 --> 01:05:36,880
+Ich hole den Staubsauger.
+
+1203
+01:05:43,080 --> 01:05:46,600
+Ich sauge nicht so oft.
+Ich hasse Hausarbeit:
+
+1204
+01:05:46,600 --> 01:05:51,160
+Abwaschen, abtrocknen, kochen,
+staubsaugen, waschen, putzen!
+
+1205
+01:05:51,160 --> 01:05:53,240
+Und dann alles wieder von vorn?
+Furchtbar!
+
+1206
+01:05:54,080 --> 01:05:55,560
+- Ich mag Hausarbeit auch nicht.
+
+1207
+01:05:57,160 --> 01:05:59,960
+- Ach … ich hab' keine Beutel mehr.
+
+1208
+01:06:00,000 --> 01:06:01,600
+Wo ist der Besen?
+
+1209
+01:06:06,000 --> 01:06:10,680
+So. Hier: der Besen und das Kehrblech.
+
+1210
+01:06:14,200 --> 01:06:16,520
+Oh, nein, das Fleisch!
+
+1211
+01:06:27,320 --> 01:06:30,720
+- So! Zwei Schnitzel à la Tarek.
+
+1212
+01:06:30,800 --> 01:06:32,680
+- Dankeschön, Max. Sehr nett.
+
+1213
+01:06:32,720 --> 01:06:33,680
+- Lasst es euch schmecken.
+
+1214
+01:06:34,520 --> 01:06:35,880
+- Guten Appetit, Nico.
+
+1215
+01:06:35,920 --> 01:06:37,280
+- Guten Appetit, Inge.
+
+1216
+01:06:37,520 --> 01:06:39,520
+- Ich hab' gehört, du spielst Fußball?
+
+1217
+01:06:39,920 --> 01:06:41,320
+- Ja, stimmt.
+
+1218
+01:06:41,920 --> 01:06:44,200
+- Bald spielst du mit uns zusammen
+Fußball. Nächste Woche!
+
+1219
+01:06:45,080 --> 01:06:48,080
+- Was machst du denn noch in deiner
+Freizeit? Joggst du gerne?
+
+1220
+01:06:48,400 --> 01:06:49,600
+- Nein, ich jogge nicht gern.
+
+1221
+01:06:49,960 --> 01:06:54,680
+Aber ich schwimme manchmal. Ich höre
+viel Musik und fahre viel Fahrrad.
+
+1222
+01:06:54,760 --> 01:06:57,640
+Aber am liebsten mache ich …
+
+1223
+01:06:59,080 --> 01:06:59,880
+das da ...
+
+1224
+01:07:01,320 --> 01:07:03,320
+- Angeln? Du angelst gern?
+
+1225
+01:07:03,320 --> 01:07:06,080
+- Angeln, ja. Ich gehe gern angeln.
+
+1226
+01:07:06,080 --> 01:07:08,720
+- Na, das ist ja was! Ihr beiden
+angelt doch auch!
+
+1227
+01:07:08,720 --> 01:07:09,720
+- Wenn wir Zeit haben.
+
+1228
+01:07:09,760 --> 01:07:13,320
+Wir gehen auch gern ins Theater und
+ins Kino, aber am liebsten angeln wir.
+
+1229
+01:07:14,000 --> 01:07:16,040
+Komm mal her, ich zeige dir
+mal ein paar Fotos.
+
+1230
+01:07:18,520 --> 01:07:21,200
+Ich suche die Fotos von letztem Jahr.
+
+1231
+01:07:22,200 --> 01:07:23,080
+Das war …
+
+1232
+01:07:24,200 --> 01:07:25,520
+verrückt.
+
+1233
+01:07:26,000 --> 01:07:30,080
+Erst hab' ich gar nichts gefangen,
+wollte schon aufgeben,
+
+1234
+01:07:30,080 --> 01:07:31,600
+und dann
+
+1235
+01:07:32,760 --> 01:07:35,680
+zieht es und heraus
+kam ein riesiger Hecht.
+
+1236
+01:07:36,160 --> 01:07:38,160
+Irgendwo müssen die Fotos sein …
+
+1237
+01:07:38,200 --> 01:07:39,280
+- Das ist Yara!
+
+1238
+01:07:42,160 --> 01:07:43,240
+- Du kennst Yara?
+
+1239
+01:07:43,320 --> 01:07:44,480
+- Das ist meine Tante!
+
+1240
+01:07:45,960 --> 01:07:47,520
+- Yara ist deine Tante?
+
+1241
+01:07:47,520 --> 01:07:49,520
+- Ja, meine Tante.
+
+1242
+01:07:52,000 --> 01:07:53,680
+- Wir wissen nicht, wo Yara ist.
+
+1243
+01:07:54,400 --> 01:07:57,000
+Sie ist nicht hier. Und wir wissen auch
+nicht, wann sie wiederkommt.
+
+1244
+01:07:58,640 --> 01:08:00,960
+- Du und Tarek, ihr habt den Schlüssel?
+
+1245
+01:08:01,040 --> 01:08:01,880
+- Ja.
+
+1246
+01:08:01,920 --> 01:08:03,920
+Yara, Tarek und ich sind Freunde.
+
+1247
+01:08:04,160 --> 01:08:07,040
+Sie hat auch die Schlüssel fürs
+Restaurant. Wir helfen uns.
+
+1248
+01:08:07,120 --> 01:08:08,000
+- Das ist ja toll!
+
+1249
+01:08:08,000 --> 01:08:08,720
+- Inge!
+
+1250
+01:08:09,080 --> 01:08:12,320
+- Ich möchte noch ein paar Brötchen
+kaufen. Kommst du mit, Nico?
+
+1251
+01:08:13,000 --> 01:08:14,120
+- Könnt ihr mir einen Gefallen tun?
+
+1252
+01:08:14,560 --> 01:08:15,560
+Ähm …
+
+1253
+01:08:16,080 --> 01:08:17,760
+wir brauchen noch ein paar Lebensmittel,
+
+1254
+01:08:17,760 --> 01:08:19,570
+aber ich will Tarek im Restaurant
+nicht allein lassen.
+
+1255
+01:08:19,880 --> 01:08:22,570
+- Wir können doch für euch einkaufen
+gehen, oder Nico?
+
+1256
+01:08:22,570 --> 01:08:23,400
+- Vielen Dank!
+
+1257
+01:08:23,440 --> 01:08:25,120
+Dafür bekommt ihr das
+nächste Essen umsonst!
+
+1258
+01:08:26,960 --> 01:08:28,960
+Oh, und könnt ihr mir noch … ähm …
+
+1259
+01:08:29,840 --> 01:08:33,080
+ein Hähnchen, drei Gurken und
+ein Pfund Tomaten mitbringen?
+
+1260
+01:08:33,240 --> 01:08:34,920
+- Ein Pfund Tomaten?
+
+1261
+01:08:34,920 --> 01:08:38,320
+Das ist aber nicht viel.
+Schreibst du es auf, Nico?
+
+1262
+01:08:38,720 --> 01:08:40,320
+- Das ist für mein Abendbrot.
+
+1263
+01:08:43,960 --> 01:08:45,960
+- Kannst du das bitte noch
+einmal wiederholen?
+
+1264
+01:08:48,120 --> 01:08:49,200
+- Ein Hähnchen.
+
+1265
+01:08:51,040 --> 01:08:52,880
+- Hähn-chen!
+
+1266
+01:08:54,610 --> 01:08:55,880
+- Drei Gurken.
+
+1267
+01:08:56,960 --> 01:08:59,480
+- Gur-ken!
+
+1268
+01:09:01,800 --> 01:09:03,800
+- Und ein Pfund Tomaten.
+
+1269
+01:09:03,840 --> 01:09:04,920
+- Ein Pf…?
+
+1270
+01:09:04,960 --> 01:09:06,320
+- Pfund!
+
+1271
+01:09:06,320 --> 01:09:07,840
+- Ja.
+- … Tomaten.
+
+1272
+01:09:07,840 --> 01:09:08,680
+- Ein Pfund?
+
+1273
+01:09:08,680 --> 01:09:13,530
+- Pfund. Das sind 500 Gramm,
+also ein halbes Kilo.
+
+1274
+01:09:16,040 --> 01:09:16,650
+- Ja.
+
+1275
+01:09:16,680 --> 01:09:17,480
+- Vielen Dank!
+
+1276
+01:09:19,080 --> 01:09:20,280
+Und bis später!
+
+1277
+01:09:20,610 --> 01:09:21,400
+- Tschüss!
+
+1278
+01:09:21,400 --> 01:09:23,610
+- Ah, dann reden wir über
+deine Tante, okay?
+
+1279
+01:09:23,650 --> 01:09:24,440
+- Ja.
+
+1280
+01:09:28,680 --> 01:09:30,570
+- Ich hätte gerne ein Brot.
+
+1281
+01:09:30,840 --> 01:09:33,360
+Was kostet das Roggenbrot?
+
+1282
+01:09:33,400 --> 01:09:34,440
+- 3,20 Euro.
+
+1283
+01:09:34,800 --> 01:09:36,610
+- Hm … und ein halbes?
+
+1284
+01:09:37,080 --> 01:09:40,760
+- Die Hälfte. Ein halbes Roggenbrot
+kostet 1,60 Euro.
+
+1285
+01:09:40,800 --> 01:09:42,320
+- Hm … Ja …
+
+1286
+01:09:42,440 --> 01:09:45,080
+Welches Brot möchtest du denn, Nico?
+
+1287
+01:09:49,960 --> 01:09:50,570
+- Das …
+
+1288
+01:09:51,080 --> 01:09:52,280
+- Hm.
+
+1289
+01:09:52,960 --> 01:09:53,960
+Ja.
+
+1290
+01:09:54,400 --> 01:09:59,280
+Ich denke, ich nehme ein halbes
+Weißbrot und ein halbes Vollkornbrot.
+
+1291
+01:09:59,720 --> 01:10:00,800
+- Sind Sie sich da auch sicher?
+
+1292
+01:10:03,000 --> 01:10:03,720
+- Ja.
+
+1293
+01:10:04,000 --> 01:10:05,160
+Danke!
+
+1294
+01:10:11,160 --> 01:10:12,530
+- Darf es sonst noch was sein?
+
+1295
+01:10:13,000 --> 01:10:14,530
+- Och ja,
+
+1296
+01:10:15,760 --> 01:10:19,530
+ich hätte gerne noch zwei Stück
+Apfelkuchen. Oder, Nico?
+
+1297
+01:10:19,530 --> 01:10:20,400
+- Ja.
+
+1298
+01:10:21,650 --> 01:10:22,480
+- Alles klar.
+
+1299
+01:10:25,280 --> 01:10:28,040
+Zwei Stück Apfelkuchen …
+
+1300
+01:10:31,960 --> 01:10:33,680
+Kann ich sonst noch etwas für Sie tun?
+
+1301
+01:10:35,760 --> 01:10:37,480
+- Nein, danke.
+
+1302
+01:10:38,240 --> 01:10:40,960
+- Das macht dann … äh … 8,60 Euro.
+
+1303
+01:10:44,040 --> 01:10:45,650
+- So.
+- Danke schön.
+
+1304
+01:10:49,360 --> 01:10:51,360
+Und 1,40 zurück.
+
+1305
+01:10:55,960 --> 01:10:57,960
+Und Ihr Apfelkuchen.
+
+1306
+01:10:58,000 --> 01:10:58,800
+- Danke schön.
+
+1307
+01:10:58,880 --> 01:11:01,400
+Das dauert hier immer so lange ...
+
+1308
+01:11:01,530 --> 01:11:02,360
+- Ja.
+
+1309
+01:11:08,920 --> 01:11:10,650
+- Ich hätte gerne diese Datteln.
+
+1310
+01:11:10,650 --> 01:11:11,400
+- Gern!
+
+1311
+01:11:14,120 --> 01:11:15,320
+Das sind 300 Gramm.
+
+1312
+01:11:15,320 --> 01:11:16,440
+Darf es sonst noch etwas sein?
+
+1313
+01:11:16,840 --> 01:11:18,960
+Bananen vielleicht?
+Die sind im Angebot.
+
+1314
+01:11:19,000 --> 01:11:21,320
+Ein Kilo Bananen kostet 1,10 Euro.
+
+1315
+01:11:21,570 --> 01:11:23,960
+Oder Äpfel? Ein Kilo für 1,75 Euro.
+
+1316
+01:11:24,240 --> 01:11:25,530
+Sehr gut, sehr günstig.
+
+1317
+01:11:26,120 --> 01:11:28,320
+- Ich hätte gern ein Pfund
+Tomaten und drei Gurken.
+
+1318
+01:11:28,720 --> 01:11:30,280
+Wie viel kosten die Gurken?
+
+1319
+01:11:30,440 --> 01:11:32,800
+- Die Gurken kosten heute
+nur 90 Cent das Stück.
+
+1320
+01:11:32,920 --> 01:11:34,920
+Oder Sie nehmen fünf Stück für 4 Euro.
+
+1321
+01:11:35,240 --> 01:11:36,440
+- Ich nehme fünf Gurken!
+
+1322
+01:11:37,610 --> 01:11:39,610
+- Sehr gute Wahl! Die sind ganz frisch.
+
+1323
+01:11:40,440 --> 01:11:41,800
+- Was kosten die Tomaten?
+
+1324
+01:11:41,800 --> 01:11:45,570
+- Ein Pfund Tomaten kostet 2 Euro.
+Oder drei Pfund für 5 Euro.
+
+1325
+01:11:45,760 --> 01:11:47,000
+- Nein, nein. Ein Pfund!
+
+1326
+01:11:47,960 --> 01:11:51,610
+- So! Nico, ich glaub', wir haben
+dann alles, oder?
+
+1327
+01:11:51,610 --> 01:11:52,720
+- Ich muss noch bezahlen!
+
+1328
+01:11:52,720 --> 01:11:54,360
+Wie viel kostet alles zusammen?
+
+1329
+01:11:54,360 --> 01:11:58,530
+- 300 Gramm Datteln, fünf Gurken
+und ein Pfund Tomaten, das macht ...
+
+1330
+01:11:59,200 --> 01:12:00,120
+12,40 Euro.
+
+1331
+01:12:07,650 --> 01:12:09,650
+20 Euro. Vielen Dank.
+
+1332
+01:12:12,920 --> 01:12:14,240
+Und 7,60 Euro zurück.
+
+1333
+01:12:14,240 --> 01:12:15,240
+- Danke schön.
+
+1334
+01:12:15,760 --> 01:12:17,760
+- Hier, die beiden Orangen
+schenke ich Ihnen.
+
+1335
+01:12:18,320 --> 01:12:18,920
+- Danke!
+
+1336
+01:12:18,920 --> 01:12:19,920
+- Danke!
+- Gern.
+
+1337
+01:12:19,920 --> 01:12:20,760
+- Tschüss.
+
+1338
+01:12:20,760 --> 01:12:21,570
+- Tschüss.
+
+1339
+01:12:29,720 --> 01:12:31,720
+- Ja! Das sieht gut aus.
+
+1340
+01:12:31,960 --> 01:12:33,610
+Diesmal schaffen wir das.
+
+1341
+01:12:33,610 --> 01:12:35,610
+So schwer ist Kochen doch nicht.
+
+1342
+01:12:37,680 --> 01:12:39,680
+Zwiebeln schneiden …
+Das mache ich.
+
+1343
+01:12:39,680 --> 01:12:43,530
+Du schneidest den Feta-Käse
+in kleine Stücke.
+
+1344
+01:12:43,880 --> 01:12:44,570
+- Alles?
+
+1345
+01:12:44,570 --> 01:12:47,440
+- Ja, wir brauchen 250 Gramm.
+
+1346
+01:12:47,440 --> 01:12:50,840
+Danach schneidest du die Tomaten
+und den Schinken klein.
+
+1347
+01:12:50,840 --> 01:12:54,240
+Und zum Schluss legst du alles
+auf den Pizzateig.
+
+1348
+01:12:54,880 --> 01:12:57,570
+Schau mal. Hier im Kochbuch steht:
+
+1349
+01:12:57,800 --> 01:13:00,160
+Schneiden Sie zuerst den Käse klein,
+
+1350
+01:13:00,160 --> 01:13:03,840
+schneiden Sie dann die Tomaten
+und den Schinken in Würfel,
+
+1351
+01:13:03,840 --> 01:13:06,360
+legen Sie alles auf die Pizza
+
+1352
+01:13:06,400 --> 01:13:12,480
+und schieben Sie die Pizza für 20
+Minuten bei 180 Grad in den Ofen.
+
+1353
+01:13:13,760 --> 01:13:14,400
+- Okay.
+
+1354
+01:13:15,040 --> 01:13:18,160
+- Meine Schwester kann sehr gut
+kochen und backen.
+
+1355
+01:13:18,200 --> 01:13:19,400
+Ich leider nicht.
+
+1356
+01:13:20,040 --> 01:13:21,080
+- Ich auch nicht.
+
+1357
+01:13:22,080 --> 01:13:23,440
+Aber Pizza backen ist leicht!
+
+1358
+01:13:23,480 --> 01:13:24,040
+- Ja.
+
+1359
+01:13:39,080 --> 01:13:40,360
+- Guten Appetit.
+
+1360
+01:13:51,610 --> 01:13:54,920
+- Auf jeden Fall.
+Ich freue mich auch, dass ich wieder da bin.
+
+1361
+01:13:54,960 --> 01:13:57,920
+Äh, ich schlafe heute Nacht im Hotel,
+morgen habe ich noch einen Termin,
+
+1362
+01:13:57,960 --> 01:13:59,760
+dann komme ich nach Hause.
+
+1363
+01:13:59,800 --> 01:14:01,480
+Mit dem Zug, genau.
+
+1364
+01:14:02,040 --> 01:14:05,280
+Ja, es waren nur zwei Wochen, hä?
+Kaum zu glauben …
+
+1365
+01:14:06,200 --> 01:14:08,200
+Ja, der Urlaub war großartig.
+
+1366
+01:14:09,160 --> 01:14:11,160
+Ja, natürlich war ich schwimmen.
+
+1367
+01:14:11,880 --> 01:14:13,440
+Das Meer war fantastisch.
+
+1368
+01:14:13,650 --> 01:14:16,400
+Ja, ich vermisse den Strand jetzt schon.
+
+1369
+01:14:18,760 --> 01:14:22,400
+Oh, ich habe viele Fotos gemacht.
+Von den Bergen, vom Strand …
+
+1370
+01:14:23,400 --> 01:14:26,160
+Was? … Ja, natürlich habe ich auch
+Fotos vom Hotel gemacht.
+
+1371
+01:14:26,200 --> 01:14:27,800
+Wieso willst du das wissen?
+
+1372
+01:14:27,800 --> 01:14:29,120
+Hotels sind alle gleich.
+
+1373
+01:14:30,360 --> 01:14:32,880
+Ach, keine Sorge!
+Ich habe mich großartig entspannt.
+
+1374
+01:15:08,280 --> 01:15:13,320
+- Aber wir können die Tasche nicht
+mitnehmen. Das ist nicht unsere Tasche!
+
+1375
+01:15:16,480 --> 01:15:18,530
+- Doch. Wir haben sie gefunden.
+
+1376
+01:15:18,530 --> 01:15:20,320
+- Aber sie gehört uns nicht.
+
+1377
+01:15:20,880 --> 01:15:23,400
+- Wir nehmen nur das, was wir brauchen.
+
+1378
+01:15:23,400 --> 01:15:25,200
+- Nur was wir brauchen!
+
+1379
+01:15:26,240 --> 01:15:30,680
+- Im Oktober ist es schon kalt
+und im November wird es immer kälter
+
+1380
+01:15:30,680 --> 01:15:32,160
+und ich will nicht frieren!
+
+1381
+01:15:32,240 --> 01:15:36,280
+- Im letzten Jahr war es
+wirklich schlimm mit der Kälte.
+
+1382
+01:15:36,320 --> 01:15:39,240
+Besonders im Dezember und Januar.
+
+1383
+01:15:39,650 --> 01:15:43,320
+- Im Dezember und Januar
+ist es immer am kältesten!
+
+1384
+01:15:49,840 --> 01:15:52,680
+- Das ist schöner als mein Hemd.
+
+1385
+01:15:53,240 --> 01:15:55,160
+- Dein Hemd ist ja auch schon alt.
+
+1386
+01:15:55,240 --> 01:15:56,360
+- Deswegen!
+
+1387
+01:15:56,360 --> 01:16:00,160
+Ich brauche ein neues!
+Für den Frühling!
+
+1388
+01:16:00,440 --> 01:16:02,080
+- Nimm es mit! Nimm es mit!
+
+1389
+01:16:02,650 --> 01:16:04,800
+- Aber nur, was wir brauchen.
+
+1390
+01:16:11,650 --> 01:16:13,360
+- Nawins Party war super!
+
+1391
+01:16:13,360 --> 01:16:15,610
+- Ja. Jetzt freue ich mich aber
+auf den Urlaub.
+
+1392
+01:16:15,610 --> 01:16:18,120
+Wir haben ein ganzes Haus für uns alleine.
+
+1393
+01:16:18,280 --> 01:16:20,360
+- Ich will auch wegfahren.
+
+1394
+01:16:20,440 --> 01:16:22,200
+- Wann war dein letzter Urlaub?
+
+1395
+01:16:22,240 --> 01:16:26,000
+- Im Mai. Aber es war kein Urlaub.
+Das war nur ein Ausflug.
+
+1396
+01:16:26,120 --> 01:16:28,080
+Wir haben die Hochzeit von
+meinem Onkel gefeiert.
+
+1397
+01:16:28,120 --> 01:16:28,880
+- Cool.
+
+1398
+01:16:28,880 --> 01:16:33,040
+- Ja! Und wir haben toll gegessen
+und gesungen und getanzt.
+
+1399
+01:16:33,080 --> 01:16:34,160
+Es gab auch einen See.
+
+1400
+01:16:34,200 --> 01:16:35,760
+Wir sind geschwommen
+und wir haben gegrillt
+
+1401
+01:16:35,800 --> 01:16:38,160
+und haben Spaziergänge gemacht.
+
+1402
+01:16:39,080 --> 01:16:40,440
+- Das klingt schön.
+
+1403
+01:16:41,040 --> 01:16:42,680
+Wo habt ihr gefeiert?
+
+1404
+01:16:42,680 --> 01:16:46,320
+- In der Nähe von Hamburg. Wir haben
+bei meiner Cousine übernachtet.
+
+1405
+01:16:46,610 --> 01:16:49,960
+Das war sehr schön. Wir hatten
+super Wetter und viel Spaß.
+
+1406
+01:16:50,200 --> 01:16:53,200
+Aber der letzte richtige Urlaub
+ist sehr lange her …
+
+1407
+01:16:58,280 --> 01:17:00,530
+- Wir sehen uns, wenn ich wiederkomme,
+okay?
+
+1408
+01:17:00,610 --> 01:17:01,880
+- Okay!
+
+1409
+01:17:16,320 --> 01:17:18,240
+- Lisa!
+
+1410
+01:17:18,610 --> 01:17:22,530
+Ja, kein Problem. Ich habe noch genug
+Deutschübungen, die ich machen kann.
+
+1411
+01:17:22,530 --> 01:17:24,760
+Ich freue mich aber schon,
+wenn du wiederkommst.
+
+1412
+01:17:25,720 --> 01:17:28,200
+Wie ist denn der Urlaub?
+Habt ihr tolles Wetter?
+
+1413
+01:17:29,440 --> 01:17:31,610
+Toll! Das klingt super!
+
+1414
+01:17:32,680 --> 01:17:34,200
+Das Wetter bei mir?
+
+1415
+01:17:35,280 --> 01:17:38,200
+Ich glaube, es sind so um die
+7 Grad und es ist bewölkt.
+
+1416
+01:17:38,880 --> 01:17:40,650
+Abends soll es vielleicht noch regnen.
+
+1417
+01:17:40,650 --> 01:17:42,360
+Und morgen wird es noch kälter.
+
+1418
+01:17:43,360 --> 01:17:45,480
+Der Himmel ist einfach immer grau.
+
+1419
+01:17:47,480 --> 01:17:49,480
+Ihr habt Sonne und 20 Grad?
+
+1420
+01:17:49,680 --> 01:17:51,360
+Boah, das ist so gemein.
+
+1421
+01:17:55,570 --> 01:17:56,570
+Du, Lisa?
+
+1422
+01:17:56,610 --> 01:17:59,320
+Nico von der Party,
+der bei euch gewohnt hat …
+
+1423
+01:17:59,480 --> 01:18:01,530
+Der hat doch seine Tasche verloren?
+
+1424
+01:18:01,720 --> 01:18:04,920
+Was hat Nico im Radio gesagt,
+wie die Tasche aussieht?
+
+1425
+01:18:05,200 --> 01:18:08,040
+Schwarz und ein Aufnäher
+mit einem Fahrrad?
+
+1426
+01:18:09,000 --> 01:18:10,360
+Wieso?
+
+1427
+01:18:10,680 --> 01:18:13,080
+Naja …
+Ich glaube, ich habe sie gefunden.
+
+1428
+01:18:14,360 --> 01:18:15,840
+- Guten Morgen, Inge.
+
+1429
+01:18:15,840 --> 01:18:17,800
+- Guten Morgen, Nico!
+
+1430
+01:18:18,720 --> 01:18:20,720
+Wie siehst du denn aus?
+
+1431
+01:18:21,360 --> 01:18:23,000
+- Wie bitte?
+
+1432
+01:18:23,000 --> 01:18:26,480
+- Ich meine … Hast du den Pullover gekauft?
+
+1433
+01:18:26,530 --> 01:18:27,680
+Ist der neu?
+
+1434
+01:18:27,680 --> 01:18:29,610
+- Nein, das ist kein neuer Pullover.
+
+1435
+01:18:29,610 --> 01:18:32,480
+Der Pullover ist von Sebastian.
+Meine Sachen sind …
+
+1436
+01:18:32,570 --> 01:18:34,570
+- ... in deiner Tasche, jaja.
+
+1437
+01:18:35,240 --> 01:18:38,040
+Aber der Pullover ist viel zu groß.
+
+1438
+01:18:38,040 --> 01:18:41,360
+Und die Farbe? Ist das jetzt in?
+
+1439
+01:18:41,400 --> 01:18:42,960
+- Das weiß ich nicht.
+
+1440
+01:18:43,000 --> 01:18:46,400
+- Ich finde den Pullover nicht so schön.
+
+1441
+01:18:48,570 --> 01:18:50,760
+Du brauchst neue Sachen zum Anziehen.
+
+1442
+01:18:51,040 --> 01:18:56,530
+Du brauchst ein schickes Hemd und einen
+warmen Pullover und eine schöne Hose.
+
+1443
+01:18:58,760 --> 01:19:02,040
+Ach Nico, kannst du gleich Brötchen kaufen?
+
+1444
+01:19:02,530 --> 01:19:04,160
+- Ja, gerne!
+
+1445
+01:19:04,160 --> 01:19:07,800
+- Das ist lieb von dir!
+Kauf bitte dunkle Brötchen.
+
+1446
+01:19:07,880 --> 01:19:09,280
+Die schmecken am besten.
+
+1447
+01:19:09,760 --> 01:19:10,840
+- Uhum.
+
+1448
+01:19:30,240 --> 01:19:32,240
+- Nico!
+
+1449
+01:19:32,650 --> 01:19:34,320
+- Selma!
+
+1450
+01:19:36,960 --> 01:19:37,840
+- Ist das …?
+
+1451
+01:19:37,840 --> 01:19:39,040
+- Deine Tasche?
+
+1452
+01:19:42,280 --> 01:19:43,920
+- Du hast sie gefunden?
+
+1453
+01:19:44,440 --> 01:19:46,440
+Wo war das denn? Welche Straße war das?
+
+1454
+01:19:46,440 --> 01:19:49,840
+- Die Tasche stand einfach so auf der
+Straße vor einem großen Haus.
+
+1455
+01:19:54,920 --> 01:19:56,650
+Das ist ein cooles T-Shirt!
+
+1456
+01:19:56,650 --> 01:19:58,400
+Und du hast tolle Mützen!
+
+1457
+01:19:59,040 --> 01:20:00,200
+- Danke!
+
+1458
+01:20:01,000 --> 01:20:02,920
+- Du trägst gerne Mützen, hm?
+
+1459
+01:20:03,080 --> 01:20:04,650
+- Ja, sehr gern.
+
+1460
+01:20:04,680 --> 01:20:08,280
+- Und welche Farbe magst du
+am liebsten? Blau? Grün?
+
+1461
+01:20:08,280 --> 01:20:10,610
+- Grün, das ist meine Lieblingsfarbe.
+
+1462
+01:20:10,610 --> 01:20:12,480
+- Ja, stimmt. Du hast ziemlich
+viele grüne Sachen:
+
+1463
+01:20:12,480 --> 01:20:17,360
+Das T-Shirt ist grün. Dieses Hemd ist grün.
+Und dieses hier auch.
+
+1464
+01:20:17,720 --> 01:20:19,610
+- Mein warmer Pullover
+ist nicht in der Tasche.
+
+1465
+01:20:20,240 --> 01:20:21,200
+- Pullover?
+
+1466
+01:20:21,200 --> 01:20:22,650
+- Ja. Er ist weg.
+
+1467
+01:20:22,760 --> 01:20:24,530
+- Welchen Pullover meinst du?
+
+1468
+01:20:25,680 --> 01:20:27,040
+Diesen Pullover hier?
+
+1469
+01:20:27,720 --> 01:20:30,040
+- Nein, das ist nicht mein warmer Pullover.
+
+1470
+01:20:30,120 --> 01:20:31,650
+- Ist denn sonst alles da?
+
+1471
+01:20:38,440 --> 01:20:40,000
+- Pass und Handy …
+
+1472
+01:20:41,800 --> 01:20:44,240
+Mein Hemd, ich hatte ein buntes Hemd.
+
+1473
+01:20:44,240 --> 01:20:46,200
+Das ist auch weg.
+Das war mein Lieblingshemd.
+
+1474
+01:20:46,610 --> 01:20:49,440
+- Ich habe eine Idee: Wir gehen in die
+Stadt und du kaufst dir ein neues Hemd
+
+1475
+01:20:49,440 --> 01:20:52,120
+und einen warmen Pullover.
+Hast du Lust?
+
+1476
+01:20:52,680 --> 01:20:55,650
+Ich weiß, wo man günstig einkaufen kann.
+Ich habe auch nicht viel Geld.
+
+1477
+01:20:56,000 --> 01:20:58,200
+- Ja, sehr gerne!
+
+1478
+01:20:58,240 --> 01:20:59,280
+- Cool!
+
+1479
+01:21:18,840 --> 01:21:20,040
+- So …
+
+1480
+01:21:27,800 --> 01:21:29,240
+Das Hemd ist toll.
+
+1481
+01:21:29,280 --> 01:21:30,610
+- Ja, das gefällt mir.
+
+1482
+01:21:33,440 --> 01:21:34,480
+- Die Jacke auch?
+
+1483
+01:21:35,080 --> 01:21:35,840
+- Super.
+
+1484
+01:21:37,570 --> 01:21:38,570
+- Nein, die ist besser.
+
+1485
+01:21:42,720 --> 01:21:43,840
+Wie süß!
+
+1486
+01:21:44,320 --> 01:21:45,570
+Wie findest du die Farbe?
+
+1487
+01:21:47,120 --> 01:21:48,000
+Für mich!
+
+1488
+01:21:51,040 --> 01:21:52,440
+Wie findest du das Hemd?
+
+1489
+01:21:53,360 --> 01:21:54,800
+- Wie viel kostet das?
+
+1490
+01:21:55,920 --> 01:21:58,720
+- Ehm … 25 Euro.
+
+1491
+01:21:58,720 --> 01:21:59,720
+Ist das okay?
+
+1492
+01:21:59,720 --> 01:22:01,480
+- Ja, das ist okay.
+
+1493
+01:22:01,530 --> 01:22:02,440
+- Super!
+
+1494
+01:22:12,080 --> 01:22:13,040
+Das steht dir gut!
+
+1495
+01:22:13,880 --> 01:22:15,280
+- Ja, das passt auch.
+
+1496
+01:22:17,570 --> 01:22:19,440
+Wie findest du den Pullover?
+
+1497
+01:22:20,040 --> 01:22:20,800
+- Schön.
+
+1498
+01:22:20,800 --> 01:22:22,120
+Probier mal das andere Hemd an.
+
+1499
+01:22:24,120 --> 01:22:25,480
+Welche Größe ist das?
+
+1500
+01:22:26,360 --> 01:22:27,480
+- Ich weiß nicht.
+
+1501
+01:22:30,650 --> 01:22:31,440
+- L.
+
+1502
+01:22:32,120 --> 01:22:34,400
+Probier mal M an. Das ist zu groß.
+
+1503
+01:22:36,720 --> 01:22:38,720
+Ja, die Jacke steht dir sehr gut.
+
+1504
+01:22:46,280 --> 01:22:47,320
+Das finde ich schön.
+
+1505
+01:22:47,920 --> 01:22:48,880
+So! Bitte schön.
+
+1506
+01:22:48,920 --> 01:22:49,760
+- Vielen Dank.
+
+1507
+01:22:50,920 --> 01:22:52,920
+- Eigentlich wollte ich gar nichts kaufen.
+
+1508
+01:22:53,800 --> 01:22:55,160
+- Aber die Jacke …
+
+1509
+01:22:56,440 --> 01:22:58,240
+die Jacke steht dir sehr gut.
+
+1510
+01:22:59,570 --> 01:23:00,570
+- Das hat Spaß gemacht.
+
+1511
+01:23:05,880 --> 01:23:07,360
+Gib mal deine Hand!
+
+1512
+01:23:08,680 --> 01:23:09,530
+Nein …
+
+1513
+01:23:16,650 --> 01:23:18,320
+Falls du mal wieder einkaufen willst.
+
+1514
+01:23:22,280 --> 01:23:23,610
+- Wo ist meine Tasche?
+
+1515
+01:23:24,160 --> 01:23:25,120
+- Da vorne!
+
+1516
+01:23:32,650 --> 01:23:33,920
+- Hallo, junger Mann.
+
+1517
+01:23:34,000 --> 01:23:35,800
+Wo kommst du denn jetzt her?
+
+1518
+01:23:35,800 --> 01:23:38,280
+- Ich war draußen. Ich habe
+meine Tasche gefunden.
+
+1519
+01:23:38,610 --> 01:23:40,920
+- Hat die Polizei deine Tasche gefunden?
+
+1520
+01:23:41,120 --> 01:23:42,650
+- Nein, Selma.
+
+1521
+01:23:44,530 --> 01:23:46,530
+- Oho, wer ist denn Selma?
+
+1522
+01:23:46,800 --> 01:23:47,610
+- Niemand …
+
+1523
+01:23:48,680 --> 01:23:51,610
+- Komm mal mit. Ich habe eine
+tolle Überraschung für dich.
+
+1524
+01:23:52,000 --> 01:23:53,530
+- Eine Überraschung? Was?
+
+1525
+01:23:54,840 --> 01:23:56,800
+- Das sind Sachen von Günther.
+
+1526
+01:23:57,360 --> 01:24:00,080
+Günther war mein Mann.
+Er lebt nicht mehr.
+
+1527
+01:24:00,650 --> 01:24:02,840
+Er hat immer sehr elegante
+Kleidung getragen.
+
+1528
+01:24:03,080 --> 01:24:05,080
+Alles ist so gut wie neu.
+
+1529
+01:24:05,160 --> 01:24:07,960
+Schau mal, dieses schicke Hemd!
+
+1530
+01:24:08,610 --> 01:24:11,400
+Und die braune Hose steht
+dir sicher sehr gut.
+
+1531
+01:24:13,480 --> 01:24:14,720
+- Sieht bequem aus.
+
+1532
+01:24:14,720 --> 01:24:16,800
+- Na los, probier die Sachen an!
+
+1533
+01:24:20,650 --> 01:24:23,200
+Ich finde, du bist ein hübscher
+junger Mann!
+
+1534
+01:24:23,400 --> 01:24:25,400
+Das steht dir ganz toll.
+
+1535
+01:24:25,800 --> 01:24:27,400
+Sehr elegant.
+
+1536
+01:24:27,760 --> 01:24:33,400
+Ein gestreiftes Hemd und eine warme
+Hose und ganz schicke Schuhe!
+
+1537
+01:24:35,120 --> 01:24:36,610
+- Na ja, ich weiß nicht.
+
+1538
+01:24:38,080 --> 01:24:39,400
+- Wer ist das denn?
+
+1539
+01:24:43,960 --> 01:24:44,650
+Hallo?
+
+1540
+01:24:45,000 --> 01:24:47,200
+- Hallo, ich bin die Selma. Ist Nico da?
+
+1541
+01:24:48,920 --> 01:24:53,240
+- Du musst die Schuhe nicht ausziehen.
+Komm rein! Der Flur ist so kalt.
+
+1542
+01:24:56,360 --> 01:24:57,040
+- Danke.
+
+1543
+01:24:57,040 --> 01:24:58,200
+- Was kann ich für dich tun?
+
+1544
+01:24:58,530 --> 01:24:59,610
+- Ist Nico da?
+
+1545
+01:24:59,610 --> 01:25:01,570
+- Ja sicher … Nico?
+
+1546
+01:25:03,570 --> 01:25:05,160
+Er wird sicher gleich kommen.
+
+1547
+01:25:05,160 --> 01:25:07,610
+- Vielen Dank, aber ich suche
+nur mein Portemonnaie.
+
+1548
+01:25:07,610 --> 01:25:10,360
+Ich glaube, Nico hat es noch. Ich habe
+es in die schwarze Tasche gesteckt.
+
+1549
+01:25:10,360 --> 01:25:11,760
+- Wir werden es sicher finden.
+
+1550
+01:25:11,760 --> 01:25:14,160
+Aber erzähl mal: Woher kommst du?
+
+1551
+01:25:14,320 --> 01:25:16,120
+Du kommst nicht aus Deutschland, oder?
+
+1552
+01:25:16,160 --> 01:25:19,680
+- Nein, ich komme aus Syrien und lebe
+seit fast einem Jahr in Deutschland.
+
+1553
+01:25:19,680 --> 01:25:21,200
+- Bist du alleine in Deutschland?
+
+1554
+01:25:21,200 --> 01:25:23,040
+- Nein, ich bin mit meinen Eltern hier.
+
+1555
+01:25:23,720 --> 01:25:25,280
+- Und hast du Geschwister?
+
+1556
+01:25:25,320 --> 01:25:28,160
+- Ja, ich habe zwei ältere Brüder.
+Die leben in Hamburg.
+
+1557
+01:25:28,650 --> 01:25:29,960
+- Und deine Großeltern?
+
+1558
+01:25:29,960 --> 01:25:32,240
+- Meine Großeltern leben noch in Syrien.
+
+1559
+01:25:34,120 --> 01:25:36,320
+- Das braune Portemonnaie
+gehört dir, oder?
+
+1560
+01:25:38,000 --> 01:25:40,000
+- Ja. Danke!
+
+1561
+01:25:43,530 --> 01:25:45,760
+- Wie lange haben Sie Frau
+González nicht mehr gesehen?
+
+1562
+01:25:47,570 --> 01:25:50,080
+- Ungefähr zwei Wochen.
+
+1563
+01:25:51,200 --> 01:25:52,200
+- Und …
+
+1564
+01:25:55,680 --> 01:25:57,680
+hat sie denn nicht gesagt,
+wohin sie geht?
+
+1565
+01:25:58,320 --> 01:26:00,120
+Wissen Sie nicht, ob sie verreisen wollte?
+
+1566
+01:26:00,160 --> 01:26:02,000
+- Nein, sie hat uns nichts gesagt.
+
+1567
+01:26:03,840 --> 01:26:05,840
+- Warum haben Sie die Polizei
+nicht früher informiert?
+
+1568
+01:26:06,360 --> 01:26:08,530
+- Na ja. Jeder kann mal zwei Wochen
+weg sein, oder?
+
+1569
+01:26:09,530 --> 01:26:11,760
+- Haben Sie ihre Handynummer?
+Haben Sie sie angerufen?
+
+1570
+01:26:11,800 --> 01:26:13,720
+- Ja, aber ich erreiche sie nicht.
+
+1571
+01:26:23,530 --> 01:26:24,760
+- Das sind meine Eltern.
+
+1572
+01:26:26,920 --> 01:26:28,440
+- Was machen denn Ihre Eltern?
+
+1573
+01:26:29,120 --> 01:26:31,320
+- Mein Vater ist Anwalt und meine
+Mutter Ingenieurin.
+
+1574
+01:26:31,480 --> 01:26:35,680
+- Glauben Sie, dass Ihre Tante in
+Spanien ist und Ihre Eltern besucht?
+
+1575
+01:26:36,160 --> 01:26:37,960
+Können Sie Ihre Eltern anrufen
+und fragen?
+
+1576
+01:26:37,960 --> 01:26:39,200
+- Sie ist sicher nicht dort.
+
+1577
+01:26:40,360 --> 01:26:41,720
+Der Kontakt ist nicht sehr gut.
+
+1578
+01:26:44,440 --> 01:26:46,440
+- Wo in Spanien wohnen Ihre Eltern?
+
+1579
+01:26:47,530 --> 01:26:49,530
+- Meine Eltern wohnen in Sevilla.
+
+1580
+01:26:51,760 --> 01:26:52,920
+- Hm … Na, dann schauen Sie mal hier.
+
+1581
+01:26:54,840 --> 01:26:56,840
+- Was macht Yara in der Schweiz?
+
+1582
+01:27:02,920 --> 01:27:05,120
+- Sie hat nur gesagt,
+sie muss für ein paar Tage weg,
+
+1583
+01:27:05,120 --> 01:27:06,720
+und wir sollen ihre Blumen gießen.
+
+1584
+01:27:07,000 --> 01:27:08,610
+- Und dann? Das war's?
+
+1585
+01:27:08,800 --> 01:27:09,800
+- Dann hat sie aufgelegt.
+
+1586
+01:27:10,760 --> 01:27:12,480
+Wie gesagt, mehr wissen wir auch nicht.
+
+1587
+01:27:26,200 --> 01:27:26,960
+- Sarah!
+
+1588
+01:27:28,880 --> 01:27:31,560
+Oh, nein … Ich komme sofort!
+
+1589
+01:27:33,760 --> 01:27:34,600
+Wo bist du?
+
+1590
+01:27:35,680 --> 01:27:36,640
+Bei deinen Eltern?
+
+1591
+01:27:40,280 --> 01:27:42,040
+Ich hab' deine neue Adresse …
+
+1592
+01:27:42,280 --> 01:27:44,480
+Aber deine Eltern, wo leben
+deine Eltern?
+
+1593
+01:27:51,760 --> 01:27:52,840
+Wo ist dein Bruder?
+
+1594
+01:27:54,800 --> 01:27:56,800
+In Paris? Er hat einen neuen Job?
+
+1595
+01:27:57,160 --> 01:27:58,400
+Kann nicht kommen.
+
+1596
+01:27:59,680 --> 01:28:00,400
+Okay.
+
+1597
+01:28:01,200 --> 01:28:04,040
+Ich buche jetzt einen Flug und
+komme heute noch nach Zürich.
+
+1598
+01:28:06,400 --> 01:28:08,400
+Mit etwas Glück bin ich heute noch da.
+
+1599
+01:28:09,880 --> 01:28:11,080
+Ich ruf wieder an.
+
+1600
+01:28:24,960 --> 01:28:26,760
+- Sie ist also nicht nach Spanien geflogen.
+
+1601
+01:28:28,360 --> 01:28:30,360
+- Wohnt jemand aus deiner
+Familie in Zürich?
+
+1602
+01:28:30,840 --> 01:28:31,760
+- Nein, ...
+
+1603
+01:28:32,320 --> 01:28:34,320
+meine Familie wohnt in Sevilla.
+
+1604
+01:28:36,080 --> 01:28:37,200
+Nur mein Bruder …
+
+1605
+01:28:38,280 --> 01:28:39,680
+- Wo wohnt dein Bruder?
+
+1606
+01:28:39,760 --> 01:28:41,160
+- In Deutschland.
+
+1607
+01:28:41,520 --> 01:28:42,480
+In … ähm …
+
+1608
+01:28:44,280 --> 01:28:45,040
+München …
+
+1609
+01:28:45,040 --> 01:28:47,680
+- Ah, witzig! Mein Bruder wohnt
+auch in München.
+
+1610
+01:28:48,560 --> 01:28:50,200
+- Sie haben einen Bruder in Deutschland?
+
+1611
+01:28:50,400 --> 01:28:51,560
+Sollen wir ihn anrufen?
+
+1612
+01:28:51,840 --> 01:28:52,360
+- Nein.
+
+1613
+01:28:52,960 --> 01:28:54,160
+- Aber er kann dir sicher helfen!
+
+1614
+01:28:54,160 --> 01:28:56,240
+- Ich brauche keine Hilfe von
+meinem Bruder!
+
+1615
+01:28:56,240 --> 01:28:57,160
+- Okay.
+
+1616
+01:28:57,640 --> 01:28:58,800
+- Also hier ist nichts.
+
+1617
+01:29:00,840 --> 01:29:02,400
+- Sollen wir weitersuchen?
+
+1618
+01:29:03,040 --> 01:29:05,520
+- Nein, ich glaube, wir finden nichts.
+
+1619
+01:29:06,600 --> 01:29:09,240
+Sind Sie sicher, dass Sie keine
+Verwandten in Zürich haben?
+
+1620
+01:29:09,960 --> 01:29:10,960
+- Ganz sicher.
+
+1621
+01:29:12,000 --> 01:29:13,560
+- Dann müssen wir warten.
+
+1622
+01:29:18,000 --> 01:29:19,240
+- Sie kommt wieder!
+
+1623
+01:29:24,120 --> 01:29:25,520
+- Was brauchen wir noch?
+
+1624
+01:29:25,920 --> 01:29:27,480
+- Wir müssen die Ballpumpe
+noch mitnehmen!
+
+1625
+01:29:27,680 --> 01:29:28,400
+- Hab' ich schon.
+
+1626
+01:29:28,440 --> 01:29:29,680
+- Und die Fußbälle.
+
+1627
+01:29:31,440 --> 01:29:32,520
+- Sie liegen hinter dir.
+
+1628
+01:29:33,320 --> 01:29:34,000
+- Oh!
+
+1629
+01:29:35,880 --> 01:29:39,160
+- Ich hab' zwei neue gekauft
+und Würste zum Grillen,
+
+1630
+01:29:39,600 --> 01:29:41,880
+Getränke und Hütchen
+zum Trainieren.
+
+1631
+01:29:41,960 --> 01:29:44,280
+- Toll! Waren die Fußbälle teuer?
+
+1632
+01:29:44,280 --> 01:29:45,800
+- Nein, die waren superbillig.
+
+1633
+01:29:46,000 --> 01:29:49,280
+Ein Ball hat 4,99 Euro gekostet,
+weniger als die Getränke.
+
+1634
+01:29:49,440 --> 01:29:51,600
+- Tja, Verpflegung ist
+immer am teuersten.
+
+1635
+01:29:52,920 --> 01:29:55,320
+Hey, Nico. Bist du bereit?
+
+1636
+01:29:55,680 --> 01:29:59,080
+- Na ja, ich hab' keine Fußballschuhe
+mit, aber es geht schon.
+
+1637
+01:29:59,280 --> 01:30:00,440
+- Welche Schuhgröße hast du?
+
+1638
+01:30:00,480 --> 01:30:01,000
+- Äh?
+
+1639
+01:30:01,240 --> 01:30:02,640
+- Warte! Warte!
+
+1640
+01:30:07,120 --> 01:30:10,200
+- Hey, nicht schlecht.
+Du bist ja viel zu gut für uns.
+
+1641
+01:30:10,800 --> 01:30:12,800
+- Probier die mal.
+Eins, zwei …
+
+1642
+01:30:15,240 --> 01:30:18,400
+- Pflaster und Verbände.
+Irgendeiner verletzt sich immer.
+
+1643
+01:30:18,600 --> 01:30:20,480
+Tarek hat sich beim letzten Mal
+am Knie verletzt.
+
+1644
+01:30:20,520 --> 01:30:21,960
+- Ich konnte zwei Tage nicht laufen.
+
+1645
+01:30:22,760 --> 01:30:24,000
+- Die Schuhe passen. Vielen Dank!
+
+1646
+01:30:24,000 --> 01:30:25,160
+- Perfekt!
+
+1647
+01:30:25,720 --> 01:30:27,000
+Ich finde es super, dass du mitkommst!
+
+1648
+01:30:30,200 --> 01:30:31,200
+- Es geht los!
+
+1649
+01:30:49,000 --> 01:30:50,080
+- Spielt ihr gut?
+
+1650
+01:30:50,560 --> 01:30:52,840
+- Na ja, wir können leider
+nicht so oft trainieren.
+
+1651
+01:30:53,080 --> 01:30:54,240
+- Wie oft trainiert ihr?
+
+1652
+01:30:54,760 --> 01:30:56,480
+- So zweimal im Monat?
+
+1653
+01:30:56,800 --> 01:30:59,560
+Montag bis Freitag müssen alle arbeiten
+und haben Termine.
+
+1654
+01:30:59,880 --> 01:31:02,760
+Max und ich haben einen vollen
+Terminkalender und die anderen auch.
+
+1655
+01:31:03,040 --> 01:31:06,120
+Wir können meistens nur samstags
+oder sonntags trainieren.
+
+1656
+01:31:06,240 --> 01:31:07,960
+Oder mal abends unter der Woche.
+
+1657
+01:31:09,240 --> 01:31:11,680
+- Aber wir sind nicht so schlecht,
+wie du denkst.
+
+1658
+01:31:12,880 --> 01:31:14,360
+- Wie lange spielt ihr schon zusammen?
+
+1659
+01:31:14,440 --> 01:31:16,880
+- Seit fünf Jahren. Ungefähr.
+
+1660
+01:31:16,920 --> 01:31:18,880
+- Hey. Helft mal mit!
+
+1661
+01:31:19,040 --> 01:31:21,120
+Erst trainieren wir, dann wird gespielt.
+
+1662
+01:31:45,440 --> 01:31:50,440
+- Okay… Wir müssen besser und
+schneller spielen.
+
+1663
+01:31:51,240 --> 01:31:53,560
+Besonders die Technik ist bei uns allen
+schlechter geworden.
+
+1664
+01:31:53,600 --> 01:31:54,640
+Außerdem …
+
+1665
+01:31:54,720 --> 01:31:56,720
+- … höher springen und mehr Tore schießen!
+
+1666
+01:31:57,680 --> 01:31:59,400
+- Du lachst.
+Wir machen gleich weiter mit Sprints.
+
+1667
+01:31:59,640 --> 01:32:01,920
+- Ja, Max, wir wissen Bescheid.
+Du bist der Schnellste.
+
+1668
+01:32:02,040 --> 01:32:07,000
+- Okay, Max ist vielleicht am schnellsten,
+aber ich kann am weitesten schießen.
+
+1669
+01:32:07,040 --> 01:32:07,680
+- Ah!
+
+1670
+01:32:07,880 --> 01:32:08,720
+- Und Tarek …
+
+1671
+01:32:08,760 --> 01:32:14,200
+… spielt am schlechtesten. Ja, ja, ich muss
+mich trotzdem erst mal ausruhen.
+
+1672
+01:32:14,480 --> 01:32:17,720
+- Ausruhen? Gute Sportler
+machen dreimal pro Woche Training.
+
+1673
+01:32:17,720 --> 01:32:19,960
+- Ich mache Krafttraining!
+
+1674
+01:32:22,200 --> 01:32:27,480
+- Das wichtigste ist die Ernährung. Iss viel
+Obst, trink keinen Alkohol und rauch nicht!
+
+1675
+01:32:27,840 --> 01:32:29,360
+- Und trink viel Wasser!
+
+1676
+01:32:29,960 --> 01:32:32,680
+- Gut, ihr Fitnessprofis.
+Dann zeigt mal, was ihr drauf habt!
+
+1677
+01:32:37,920 --> 01:32:41,680
+- Yanis! Iss nicht so viele Süßigkeiten!
+Iss lieber mehr Obst!
+
+1678
+01:32:42,640 --> 01:32:44,520
+- Es ist kein Obst da!
+
+1679
+01:32:45,360 --> 01:32:47,760
+- Wer sollte Obst kaufen?
+
+1680
+01:32:47,880 --> 01:32:48,960
+- Yanis!
+
+1681
+01:32:49,280 --> 01:32:50,960
+- Oh, stimmt.
+
+1682
+01:32:50,960 --> 01:32:55,320
+Ich wollte Äpfel, Bananen und Birnen
+kaufen, aber ich habe es vergessen.
+
+1683
+01:32:56,040 --> 01:32:59,680
+Aber Fleisch und Gemüse vom
+Grill sind doch auch gesund.
+
+1684
+01:33:00,040 --> 01:33:02,280
+Und dazu so ein leckerer Kartoffelsalat ...
+
+1685
+01:33:02,280 --> 01:33:04,680
+- Hm, ja. Kartoffelsalat macht
+auch gar nicht dick.
+
+1686
+01:33:05,360 --> 01:33:06,960
+- Wir sind doch im Urlaub.
+
+1687
+01:33:08,240 --> 01:33:11,200
+- Wir sind nicht im Urlaub.
+Wir spielen Fußball!
+
+1688
+01:33:13,080 --> 01:33:15,280
+- Ab morgen essen wir gesund!
+
+1689
+01:33:17,720 --> 01:33:19,720
+- Ah!
+
+1690
+01:33:32,200 --> 01:33:34,200
+- Alles okay, Nico? Geht es dir gut?
+
+1691
+01:33:34,880 --> 01:33:36,400
+- Ich habe Schmerzen.
+
+1692
+01:33:37,400 --> 01:33:38,360
+- Wir sehen uns das mal an.
+
+1693
+01:33:38,920 --> 01:33:41,640
+Wo tut es denn genau weh?
+Ist es das Knie oder das Bein?
+
+1694
+01:33:41,760 --> 01:33:42,800
+- Der Fuß.
+
+1695
+01:33:46,320 --> 01:33:47,520
+- Autsch.
+
+1696
+01:33:49,080 --> 01:33:50,640
+- Haben wir etwas zum Kühlen?
+
+1697
+01:33:50,640 --> 01:33:52,280
+- Ja. Ich hole was.
+
+1698
+01:33:54,160 --> 01:33:58,560
+- Ich hab' mich vor ein paar Wochen
+auch verletzt.
+
+1699
+01:33:58,560 --> 01:34:02,480
+Ich hatte sehr starke Schmerzen am Arm
+und bin zum Arzt gegangen.
+
+1700
+01:34:02,480 --> 01:34:07,560
+Ich glaube, ich hab' noch Schmerztabletten.
+Ich schau' gleich mal nach.
+
+1701
+01:34:08,280 --> 01:34:09,000
+- Danke.
+
+1702
+01:34:16,960 --> 01:34:18,320
+Wir bringen dich zum Arzt.
+
+1703
+01:34:27,240 --> 01:34:30,440
+- Vorsicht, Nico. Du darfst nicht
+so stark auftreten.
+
+1704
+01:34:30,440 --> 01:34:32,320
+- Schon gut. Ich kann alleine laufen …
+
+1705
+01:34:32,440 --> 01:34:35,680
+- Der Arzt schaut sich den
+Fuß jetzt erst mal an.
+
+1706
+01:34:36,120 --> 01:34:38,120
+- Hoffentlich müssen wir nicht lange warten.
+
+1707
+01:34:38,160 --> 01:34:40,920
+- Das glaube ich nicht.
+Wir haben ja einen Termin.
+
+1708
+01:34:43,560 --> 01:34:44,600
+- Hallo!
+- Hallo!
+
+1709
+01:34:44,960 --> 01:34:47,120
+- Hallo, guten Tag!
+Haben Sie einen Termin?
+
+1710
+01:34:47,200 --> 01:34:48,400
+- Ja, ich hab' angerufen.
+
+1711
+01:34:48,440 --> 01:34:51,320
+Unser Freund, Nico González,
+hat Schmerzen am Fuß.
+
+1712
+01:34:52,840 --> 01:34:54,200
+- Der Fuß sieht nicht gut aus.
+
+1713
+01:34:54,520 --> 01:34:56,160
+- Haben Sie starke Schmerzen?
+
+1714
+01:34:56,640 --> 01:34:57,760
+- Es tut weh.
+
+1715
+01:34:57,760 --> 01:34:59,680
+- Der Arzt schaut sich das gleich an.
+
+1716
+01:34:59,680 --> 01:35:02,960
+Er muss den Fuß sicher auch röntgen.
+Vielleicht ist er gebrochen.
+
+1717
+01:35:02,960 --> 01:35:04,120
+- Gebrochen?
+
+1718
+01:35:05,640 --> 01:35:07,320
+- Was heißt gebrochen?
+
+1719
+01:35:07,320 --> 01:35:08,880
+- Äh … Egal.
+
+1720
+01:35:08,920 --> 01:35:11,960
+- Keine Sorge. Das steht ja
+auch noch gar nicht fest.
+
+1721
+01:35:12,160 --> 01:35:14,440
+Sie waren noch nie
+hier in der Praxis, oder?
+
+1722
+01:35:14,640 --> 01:35:16,640
+Dann hätte ich gerne
+Ihre Versichertenkarte.
+
+1723
+01:35:18,200 --> 01:35:20,200
+Sie haben doch eine Krankenversicherung?
+
+1724
+01:35:20,840 --> 01:35:23,360
+- Ähm … Nico?
+
+1725
+01:35:23,680 --> 01:35:24,960
+- Hier.
+
+1726
+01:35:24,960 --> 01:35:25,800
+- Ja.
+
+1727
+01:35:27,440 --> 01:35:28,560
+- Danke!
+
+1728
+01:35:28,880 --> 01:35:30,840
+Bitte gehen Sie schon
+mal in den Behandlungsraum.
+
+1729
+01:35:30,840 --> 01:35:32,160
+Der Arzt ist gleich bei Ihnen.
+
+1730
+01:35:32,320 --> 01:35:33,440
+- Okay. Danke!
+
+1731
+01:35:33,440 --> 01:35:35,240
+- Bitte. Einmal hier lang.
+Die brauch' ich noch. Die bring' ich Ihnen.
+
+1732
+01:35:36,040 --> 01:35:37,280
+- Komm!
+
+1733
+01:35:40,880 --> 01:35:42,200
+- Wo ist Dr. Grube gerade?
+
+1734
+01:35:43,640 --> 01:35:45,640
+Ah, er ist noch beim Patienten.
+
+1735
+01:35:46,120 --> 01:35:46,880
+- Guten Tag.
+
+1736
+01:35:46,920 --> 01:35:48,680
+- Guten Tag.
+Was kann ich für Sie tun?
+
+1737
+01:35:48,680 --> 01:35:51,560
+- Ich suche einen Patienten –
+Nico González. Ist der hier?
+
+1738
+01:35:52,000 --> 01:35:54,360
+- Ähm …
+Ja, im Behandlungszimmer 2.
+
+1739
+01:35:54,640 --> 01:35:56,640
+- Okay, wo ist Zimmer 2?
+
+1740
+01:35:56,720 --> 01:35:59,560
+- Ach so … Einmal da den Flur lang
+und dann auf der rechten Seite.
+
+1741
+01:35:59,600 --> 01:36:00,440
+- Okay, danke!
+
+1742
+01:36:00,480 --> 01:36:01,560
+- Gern geschehen.
+
+1743
+01:36:07,800 --> 01:36:08,760
+- Ah, hier …
+
+1744
+01:36:11,600 --> 01:36:12,440
+Hallo?
+
+1745
+01:36:12,960 --> 01:36:14,600
+Oh, mein Gott!
+Nico, das sieht ja schlimm aus!
+
+1746
+01:36:15,560 --> 01:36:16,560
+Was ist passiert?
+
+1747
+01:36:19,040 --> 01:36:19,760
+Oh …
+
+1748
+01:36:21,520 --> 01:36:23,440
+Das tut mir leid,
+sehr leid.
+
+1749
+01:36:25,560 --> 01:36:26,360
+Entschuldigung!
+
+1750
+01:36:29,680 --> 01:36:31,080
+Gute Besserung!
+
+1751
+01:36:33,240 --> 01:36:34,800
+Das war das falsche Zimmer.
+
+1752
+01:36:39,720 --> 01:36:40,400
+- Ja?
+
+1753
+01:36:42,320 --> 01:36:43,480
+- Hey, Lisa!
+
+1754
+01:36:43,480 --> 01:36:44,560
+- Hi, Lisa!
+- Hi, Lisa!
+
+1755
+01:36:44,640 --> 01:36:47,800
+- Nico! Geht es dir gut?
+
+1756
+01:36:49,280 --> 01:36:50,280
+- Naja ...
+
+1757
+01:36:52,480 --> 01:36:53,600
+- Vorsicht.
+
+1758
+01:36:54,640 --> 01:36:56,400
+Ja … Gut.
+
+1759
+01:36:56,640 --> 01:36:59,760
+- Ach herrje …
+Was ist denn mit dir passiert?
+
+1760
+01:36:59,920 --> 01:37:01,760
+- Es ist nichts, nur ein kleiner Unfall.
+
+1761
+01:37:02,480 --> 01:37:04,600
+- So sieht es aber nicht aus.
+
+1762
+01:37:05,200 --> 01:37:06,200
+Hallo, Lisa!
+
+1763
+01:37:06,200 --> 01:37:07,400
+- Hallo. Wie geht es Ihnen?
+
+1764
+01:37:07,400 --> 01:37:09,800
+- Mir geht es gut. Aber Nico …
+
+1765
+01:37:09,880 --> 01:37:11,880
+- Der Arzt sagt, es ist nicht gebrochen.
+
+1766
+01:37:12,120 --> 01:37:14,800
+- Der Arzt sagt auch, du sollst
+dich ausruhen.
+
+1767
+01:37:15,600 --> 01:37:19,400
+Dr. Grube hat Nico Schmerztabletten
+und eine Salbe verschrieben.
+
+1768
+01:37:19,880 --> 01:37:22,080
+Wir waren mit dem Rezept schon
+bei der Apotheke.
+
+1769
+01:37:22,600 --> 01:37:27,240
+Nico, du darfst dein Bein nicht bewegen,
+okay?
+
+1770
+01:37:28,960 --> 01:37:32,120
+Nimm die Tabletten dreimal täglich.
+
+1771
+01:37:32,440 --> 01:37:36,240
+Und die Salbe sollst du abends vor dem
+Schlafengehen benutzen. Okay?
+
+1772
+01:37:36,720 --> 01:37:37,920
+- Okay.
+
+1773
+01:37:38,200 --> 01:37:39,000
+- Das machen wir.
+
+1774
+01:37:39,000 --> 01:37:43,800
+Soll er die Tabletten morgens, mittags und
+abends vor oder nach dem Essen nehmen?
+
+1775
+01:37:43,840 --> 01:37:46,400
+- Nach dem Essen. Danke für Ihre Hilfe.
+
+1776
+01:37:46,920 --> 01:37:50,040
+Ich muss jetzt gehen.
+Aber wir sehen uns nachher, okay?
+
+1777
+01:37:50,040 --> 01:37:51,640
+- Ja, gerne!
+
+1778
+01:37:51,920 --> 01:37:54,520
+- Ich komme mit und besorge
+uns etwas zu essen.
+
+1779
+01:37:55,120 --> 01:37:56,120
+- Darf ich mitkommen?
+
+1780
+01:37:56,240 --> 01:37:58,200
+- Du musst dich ausruhen!
+- Du musst dich ausruhen!
+
+1781
+01:38:01,120 --> 01:38:02,160
+- Tschüss!
+
+1782
+01:38:02,440 --> 01:38:03,600
+- Tschüss!
+
+1783
+01:38:17,760 --> 01:38:20,280
+- Wir wohnen in Damaskus
+in einem großen Haus.
+
+1784
+01:38:20,400 --> 01:38:23,240
+Meine Großmutter und mein Großvater
+wohnen auch bei uns.
+
+1785
+01:38:24,240 --> 01:38:27,000
+Wir haben auch einen kleinen Vogel,
+einen Papagei.
+
+1786
+01:38:27,320 --> 01:38:28,720
+Er heißt Leli.
+
+1787
+01:38:30,240 --> 01:38:31,360
+Wir wohnen am Stadtrand.
+
+1788
+01:38:31,560 --> 01:38:34,560
+Es ist fast wie im Dorf.
+Bei uns kennt jeder jeden.
+
+1789
+01:38:35,400 --> 01:38:37,320
+Aber am Ende sind viele weggegangen.
+
+1790
+01:38:37,360 --> 01:38:38,560
+So wie wir.
+
+1791
+01:38:41,920 --> 01:38:44,160
+- Sind deine Großeltern noch in Syrien?
+
+1792
+01:38:46,160 --> 01:38:47,160
+- Leli auch.
+
+1793
+01:38:47,520 --> 01:38:49,960
+Meine Großmutter schreibt,
+dass er jeden Tag am Fenster sitzt
+
+1794
+01:38:49,960 --> 01:38:51,440
+und auf uns wartet.
+
+1795
+01:38:54,680 --> 01:38:55,480
+- Aya?!
+
+1796
+01:38:56,720 --> 01:38:57,440
+Aya?!
+
+1797
+01:39:00,000 --> 01:39:02,240
+- Ich finde, du sprichst schon
+sehr gut Deutsch, Selma!
+
+1798
+01:39:02,320 --> 01:39:03,760
+Wirklich klasse!
+
+1799
+01:39:07,160 --> 01:39:08,120
+- Mama?
+
+1800
+01:39:14,040 --> 01:39:17,160
+Die Aufenthaltserlaubnis!
+Wir dürfen in Deutschland bleiben!
+
+1801
+01:39:21,960 --> 01:39:24,200
+- Wir wünschen guten Appetit!
+
+1802
+01:39:24,480 --> 01:39:25,680
+- Augen auf!
+
+1803
+01:39:29,320 --> 01:39:30,200
+- Paella!
+
+1804
+01:39:30,200 --> 01:39:31,440
+- Wir hoffen, es schmeckt dir.
+
+1805
+01:39:31,520 --> 01:39:33,320
+Du hast ja sicher keine Lust mehr auf
+deutsches Essen, oder?
+
+1806
+01:39:34,320 --> 01:39:38,320
+- Ich finde deutsches Essen sehr lecker.
+Ich mag Wurst und Rouladen und Gulasch.
+
+1807
+01:39:38,320 --> 01:39:40,760
+Aber am liebsten mag ich Paella!
+
+1808
+01:39:40,760 --> 01:39:42,360
+- Du musst zuerst probieren!
+
+1809
+01:39:45,760 --> 01:39:49,080
+- Hm … Schmeckt wie in Spanien!
+
+1810
+01:39:49,120 --> 01:39:51,960
+- Ha!
+- Das ist ein großes Kompliment!
+
+1811
+01:39:56,320 --> 01:39:58,400
+- Spanisches Essen vermiss' ich
+manchmal.
+
+1812
+01:39:59,720 --> 01:40:00,720
+- Das versteh' ich …
+
+1813
+01:40:03,240 --> 01:40:05,040
+- Hast du ein bisschen Heimweh?
+
+1814
+01:40:05,320 --> 01:40:07,200
+- Hm? Heimweh?
+
+1815
+01:40:07,200 --> 01:40:12,120
+- Ja, Heimweh. Das ist, wenn man
+traurig ist und nach Hause möchte.
+
+1816
+01:40:12,520 --> 01:40:14,040
+- Ach so! Nein, ich hab' kein Heimweh.
+
+1817
+01:40:14,400 --> 01:40:15,520
+Mir gefällt es hier.
+
+1818
+01:40:16,040 --> 01:40:17,840
+Aber meine Freunde vermiss' ich ein
+bisschen.
+
+1819
+01:40:17,840 --> 01:40:20,120
+Und das Wetter in Spanien ist besser.
+
+1820
+01:40:20,320 --> 01:40:22,520
+Es regnet nicht so oft und es ist wärmer.
+
+1821
+01:40:25,080 --> 01:40:28,120
+- Ich gehe gleich in Yaras Laden und
+gieße da die Blumen.
+
+1822
+01:40:28,840 --> 01:40:29,920
+Willst du mitkommen?
+
+1823
+01:40:30,440 --> 01:40:31,520
+- Ja, gerne.
+
+1824
+01:40:31,840 --> 01:40:33,520
+- Okay. Aber iss erst auf!
+
+1825
+01:40:47,440 --> 01:40:48,680
+- Was denkst du, Selma?
+
+1826
+01:40:49,760 --> 01:40:50,920
+- Ich weiß es nicht.
+
+1827
+01:40:52,160 --> 01:40:53,680
+Eigentlich muss ich glücklich sein.
+
+1828
+01:40:53,840 --> 01:40:55,840
+Wir können jetzt in Deutschland
+bleiben, aber …
+
+1829
+01:40:55,840 --> 01:40:57,680
+- Das ist nicht deine Heimat.
+
+1830
+01:40:57,680 --> 01:41:01,640
+- Doch. Es ist eine andere …
+eine neue Heimat.
+
+1831
+01:41:01,680 --> 01:41:03,640
+Ich finde Deutschland schön.
+
+1832
+01:41:04,720 --> 01:41:08,080
+- Aber Deutschland ist anders als
+die alte Heimat, als Syrien, oder?
+
+1833
+01:41:08,320 --> 01:41:13,120
+- Ja. Das Essen ist anders,
+das Wetter, die Sprache.
+
+1834
+01:41:13,320 --> 01:41:14,640
+Und die Menschen auch.
+
+1835
+01:41:15,480 --> 01:41:16,680
+Alles ist anders.
+
+1836
+01:41:17,840 --> 01:41:20,600
+- Habt ihr in Syrien denn auch
+Frühling, Sommer, Herbst und Winter
+
+1837
+01:41:20,640 --> 01:41:21,800
+wie in Deutschland?
+
+1838
+01:41:21,920 --> 01:41:23,640
+- Ja, wir haben auch Jahreszeiten.
+
+1839
+01:41:23,640 --> 01:41:25,360
+Aber im Winter ist es nicht so kalt.
+
+1840
+01:41:27,680 --> 01:41:28,880
+- Und das Essen?
+
+1841
+01:41:28,960 --> 01:41:30,520
+- Wir essen viel Fleisch.
+
+1842
+01:41:31,080 --> 01:41:33,080
+Bei uns gibt es nicht viele Vegetarier.
+
+1843
+01:41:33,960 --> 01:41:37,040
+Aber vor allem gibt es in Syrien nicht
+so viele Regeln wie in Deutschland.
+
+1844
+01:41:37,520 --> 01:41:41,280
+Und es gibt viel mehr Leben auf
+der Straße, besonders am Abend.
+
+1845
+01:41:42,120 --> 01:41:45,840
+Die Läden sind länger geöffnet,
+die Menschen sind draußen.
+
+1846
+01:41:46,680 --> 01:41:49,280
+Alles ist ein bisschen
+spontaner und lockerer.
+
+1847
+01:41:50,280 --> 01:41:52,640
+Ja, eigentlich ist fast alles anders.
+
+1848
+01:41:53,720 --> 01:41:55,320
+Aber ich finde,
+die Menschen hier in Deutschland
+
+1849
+01:41:55,320 --> 01:41:57,480
+sind genauso nett
+wie die Menschen in Syrien.
+
+1850
+01:42:03,040 --> 01:42:04,920
+- Das wünsche ich mir auch.
+
+1851
+01:42:05,560 --> 01:42:07,840
+- Was, so ein Fahrrad?
+Das ist meins.
+
+1852
+01:42:07,840 --> 01:42:12,040
+- Nein. Ich wünsche mir so einen Laden.
+Ich hätte gern einen eigenen Laden.
+
+1853
+01:42:12,040 --> 01:42:14,720
+- Ja, ich habe auch immer von
+meinem eigenen Laden geträumt,
+
+1854
+01:42:14,720 --> 01:42:16,240
+von meinem eigenen Restaurant.
+
+1855
+01:42:16,240 --> 01:42:17,320
+Und jetzt habe ich eins.
+
+1856
+01:42:17,360 --> 01:42:21,640
+Du musst nur immer fleißig und hart
+arbeiten, dann funktioniert das auch.
+
+1857
+01:42:23,960 --> 01:42:25,960
+- Warum ist dein Fahrrad hier?
+
+1858
+01:42:25,960 --> 01:42:28,800
+- Es ist kaputt. Yara wollte es reparieren.
+
+1859
+01:42:29,320 --> 01:42:30,640
+- Kaputt?
+
+1860
+01:42:30,840 --> 01:42:32,920
+- Ja, die  Bremse hinten funktioniert nicht.
+
+1861
+01:42:35,920 --> 01:42:38,240
+Kennst du dich mit Fahrrädern aus?
+
+1862
+01:42:38,320 --> 01:42:39,880
+- Einen Moment!
+
+1863
+01:42:51,080 --> 01:42:53,480
+So! Fertig.
+
+1864
+01:43:00,360 --> 01:43:04,000
+- Nico! Krass!
+
+1865
+01:43:04,840 --> 01:43:05,920
+- Wie fährst du denn?
+
+1866
+01:43:05,960 --> 01:43:09,480
+Und dann auch noch hupen!
+Lern doch mal richtig Auto fahren!
+
+1867
+01:43:16,880 --> 01:43:17,640
+Nico?
+
+1868
+01:43:17,680 --> 01:43:18,720
+- Yara.
+
+1869
+01:43:19,280 --> 01:43:21,320
+- Was machst du hier?
+
