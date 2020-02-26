@@ -1,11 +1,12 @@
 import os
 import re
+from typing import Any, Callable, Dict, List, Tuple, TypeVar, Iterable, Iterator, Union
 
-import spacy
 import srt
 import wordfreq as wf
-
-nlp = spacy.load("de_core_news_md", disable=["ner"])  # md or sm
+import spacy
+from spacy.cli.download import download as spacy_download
+from spacy.language import Language as SpacyModelType
 
 
 def remove_duplicated_and_uppercase_words(word_list):
@@ -36,7 +37,7 @@ def clean_text(raw_text):
 
 
 class LearnSubtitles:
-    def __init__(self, subtitle_path: str, language="de"):
+    def __init__(self, subtitle_path: str, language: str, nlp: SpacyModelType) -> None:
         """
         Base class for LearnSubtitles.
         :type subtitle_path: str : path for the srt file
@@ -48,6 +49,7 @@ class LearnSubtitles:
         """
         self.subtitle_path = subtitle_path
         self.language = language
+        self.nlp = nlp
         self.text = ""
         self.tokens = ""
         self.important_words = ""
@@ -96,16 +98,15 @@ class LearnSubtitles:
 
     def __tokenize_and_process(self):
         """Tokenize text and extract most important words"""
-        self.tokens = nlp(self.text)
+        self.tokens = self.nlp(self.text)
         # separate words that may be useful
         important_words_raw = [
             token.lemma_
             for token in self.tokens
-            if not token.is_oov
-            and not token.is_stop
+            if not token.is_stop
+            and len(token) > 2
             and not token.is_punct
             and not token.like_num
-            and token.tag != "NE"  # optional
             and token.pos_ != "PROPN"
         ]
 
@@ -126,18 +127,53 @@ class LearnSubtitles:
                 self.study_dict[word] = 3
         self.film_level /= len(self.study_dict)
 
-    def print_dict(self, level=1):  # level = 1 easy/ 2 intermediate/3 advanced
+    @property
+    def easy_words(self, level=1):  # level = 1 easy/ 2 intermediate/3 advanced
+        return [word for word in self.study_dict if self.study_dict[word] == level]
+
+    @property
+    def intermediate_words(self, level=2):
+        return [word for word in self.study_dict if self.study_dict[word] == level]
+
+    @property
+    def advanced_words(self, level=3):
         return [word for word in self.study_dict if self.study_dict[word] == level]
 
 
 def main():
-    de_dir = "testfiles/de"
+
+    language = "en"
+
+    spacy_default_models = {
+        "en": "en_core_web_md",
+        "de": "de_core_news_md",
+        "pt": "pt_core_news_sm",
+    }
+    spacy_model_name = spacy_default_models[language]
+
+    try:
+        spacy_model = spacy.load(spacy_model_name, disable=["ner"])
+    except OSError:
+        print(
+            f"Spacy models '{spacy_model_name}' not found.  Downloading and installing."
+        )
+        spacy_download(spacy_model_name)
+        spacy_model = spacy.load(spacy_model_name, disable=["ner"])
+
+    test_dir = "testfiles/" + language
     subs = [
-        LearnSubtitles(os.path.abspath(os.path.join(de_dir, x)))
-        for x in os.listdir(de_dir)
+        LearnSubtitles(
+            os.path.abspath(os.path.join(test_dir, x)), language, spacy_model
+        )
+        for x in os.listdir(test_dir)
     ]
+
     for sub in subs:
         print(sub.subtitle_path, sub.film_level)
+        print(sub.easy_words)
+        print(sub.intermediate_words)
+        print(sub.advanced_words)
+        print(sub.text)
 
 
 if __name__ == "__main__":
