@@ -36,8 +36,41 @@ def clean_text(raw_text):
     return re.sub(r"\s{2,}", " ", raw_text)
 
 
+class LearnSubtitlesError(Exception):
+    """Exception class for LearnSubtitles"""
+
+
+LOADED_SPACY_MODELS: Dict[str, SpacyModelType] = {}
+
+
+def select_spacy_model(spacy_model_name: srt) -> SpacyModelType:
+    """
+    This function checks if there is an instance from the Spacy Model
+    specified. If there is, it returns the models. Otherwise, it loads
+    the model. Loaded models are stored in LOADED_SPACY_MODELS
+    """
+    if spacy_model_name not in LOADED_SPACY_MODELS:
+        try:
+            spacy_model = spacy.load(spacy_model_name, disable=["ner"])
+        except OSError:
+            print(
+                f"Spacy models '{spacy_model_name}' not found.  Downloading and installing."
+            )
+            spacy_download(spacy_model_name)
+            spacy_model = spacy.load(spacy_model_name, disable=["ner"])
+        LOADED_SPACY_MODELS[spacy_model_name] = spacy_model
+    return LOADED_SPACY_MODELS[spacy_model_name]
+
+
 class LearnSubtitles:
-    def __init__(self, subtitle_path: str, language: str, nlp: SpacyModelType) -> None:
+
+    spacy_default_models = {
+        "en": "en_core_web_md",
+        "de": "de_core_news_md",
+        "pt": "pt_core_news_sm",
+    }
+
+    def __init__(self, subtitle_path: str, language: str) -> None:
         """
         Base class for LearnSubtitles.
         :type subtitle_path: str : path for the srt file
@@ -49,7 +82,7 @@ class LearnSubtitles:
         """
         self.subtitle_path = subtitle_path
         self.language = language
-        self.nlp = nlp
+        self.nlp = select_spacy_model(self.spacy_default_models[language])
         self.text = ""
         self.tokens = ""
         self.important_words = ""
@@ -64,8 +97,6 @@ class LearnSubtitles:
                     self.text += clean_line(subs[i].content) + " "
                 self.text = clean_text(self.text)
 
-        except FileNotFoundError:
-            print(f"File not found at {subtitle_path}")
         except srt.SRTParseError:
             print("The srt file has parsing problems. Trying to fix the File.")
             with open(subtitle_path, "r") as f:
@@ -85,10 +116,10 @@ class LearnSubtitles:
                     for i in range(len(subs)):
                         self.text = self.text + clean_line(subs[i].content) + " "
                     self.text = clean_text(self.text)
-            except FileNotFoundError:
-                print(f"File not found at {subtitle_path}")
-            except srt.SRTParseError:
-                print("The srt file has parsing problems.")
+
+            except srt.SRTParseError as error:
+                print("The srt file has parsing problems that could not be fixed.")
+                raise error
 
         self.__tokenize_and_process()
         self.__create_study_dicts()
@@ -125,7 +156,10 @@ class LearnSubtitles:
                 self.study_dict[word] = 2
             else:
                 self.study_dict[word] = 3
-        self.film_level /= len(self.study_dict)
+        try:
+            self.film_level /= len(self.study_dict)
+        except ZeroDivisionError:
+            raise LearnSubtitlesError("The file is empty or could not be parsed")
 
     @property
     def easy_words(self, level=1):  # level = 1 easy/ 2 intermediate/3 advanced
@@ -142,38 +176,20 @@ class LearnSubtitles:
 
 def main():
 
-    language = "en"
-
-    spacy_default_models = {
-        "en": "en_core_web_md",
-        "de": "de_core_news_md",
-        "pt": "pt_core_news_sm",
-    }
-    spacy_model_name = spacy_default_models[language]
-
-    try:
-        spacy_model = spacy.load(spacy_model_name, disable=["ner"])
-    except OSError:
-        print(
-            f"Spacy models '{spacy_model_name}' not found.  Downloading and installing."
-        )
-        spacy_download(spacy_model_name)
-        spacy_model = spacy.load(spacy_model_name, disable=["ner"])
+    language = "de"  # check spacy_default_models for implemented languages
 
     test_dir = "testfiles/" + language
     subs = [
-        LearnSubtitles(
-            os.path.abspath(os.path.join(test_dir, x)), language, spacy_model
-        )
+        LearnSubtitles(os.path.abspath(os.path.join(test_dir, x)), language)
         for x in os.listdir(test_dir)
     ]
 
     for sub in subs:
         print(sub.subtitle_path, sub.film_level)
-        print(sub.easy_words)
-        print(sub.intermediate_words)
-        print(sub.advanced_words)
-        print(sub.text)
+        # print(sub.easy_words)
+        # print(sub.intermediate_words)
+        # print(sub.advanced_words)
+        # print(sub.text)
 
 
 if __name__ == "__main__":
