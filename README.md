@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/heitor31415/LearnSubtitles.svg?branch=master)](https://travis-ci.org/heitor31415/LearnSubtitles)
+
 # LearnSubtitles
 Learn subtitles is a tool that allows you to prepare yourself
 before watching your favorite Movie/Series in its original language.
