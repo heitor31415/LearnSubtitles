@@ -1,0 +1,48 @@
+1
+00:05:03,800 --> 00:05:04,800
+<i>Hei hei!.</i>
+
+2
+00:05:05,000 --> 00:05:06,400
+<i>Hei</i>
+
+3
+00:05:09,000 --> 00:05:12,800
+<i>Du, det var sinsykt bra forch det du hadde før kroa i helga.</i>
+
+4
+00:05:13,500 --> 00:05:15,500
+<i>Traff du noen i helga?</i>
+
+5
+00:05:16,000 --> 00:05:17,760
+<i>Nei, jeg traff ingen.</i>
+
+6
+00:05:19,500 --> 00:05:21,000
+<i>Hvor gikk du etterpå da? </i>
+
+7
+00:05:21,100 --> 00:05:23,000
+<i>Jeg gikk hjem, jeg var så trøtt.</i>
+
+8
+00:05:23,001 --> 00:05:23,900
+<i>Åja, ja okei.</i>
+
+9
+00:05:24,000 --> 00:05:26,000
+<i> Jeg håper ivertfall du kan være med neste helg da!</i>
+
+10
+00:05:26,005 --> 00:05:27,500
+<i>Ja! Det har jeg lyst til!</i>
+
+11
+00:05:27,500 --> 00:05:29,000
+<i>Så bra</i>
+
+12
+00:05:31,000 --> 00:05:34,000
+<i>Tekstet av XXTheDuckXX</i>
+
