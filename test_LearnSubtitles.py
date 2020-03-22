@@ -17,7 +17,7 @@ def prepare(language: str) -> List:
     return subs
 
 
-languages = ["de", "en", "pt"]  # supported languages
+languages = ["de", "en", "pt", "nb"]  # languages with test files
 
 
 def test_LearnSubtitles_parsing():

@@ -68,6 +68,13 @@ class LearnSubtitles:
         "en": "en_core_web_md",
         "de": "de_core_news_md",
         "pt": "pt_core_news_sm",
+        "fr": "fr_core_news_md",
+        "es": "es_core_news_md",
+        "it": "it_core_news_sm",
+        "nl": "nl_core_news_sm",
+        "el": "el_core_news_md",
+        "nb": "nb_core_news_sm",
+        "lt": "lt_core_news_sm",
     }
 
     def __init__(self, subtitle_path: str, language: str) -> None:
@@ -176,7 +183,7 @@ class LearnSubtitles:
 
 def main():
 
-    language = "de"  # check spacy_default_models for implemented languages
+    language = "pt"  # check spacy_default_models for implemented languages
 
     test_dir = "testfiles/" + language
     subs = [
@@ -186,10 +193,10 @@ def main():
 
     for sub in subs:
         print(sub.subtitle_path, sub.film_level)
-        # print(sub.easy_words)
-        # print(sub.intermediate_words)
-        # print(sub.advanced_words)
-        # print(sub.text)
+        print(*sub.easy_words, sep=", ")
+        print(*sub.intermediate_words, sep=", ")
+        print(*sub.advanced_words, sep=", ")
+        print(sub.text)
 
 
 if __name__ == "__main__":
